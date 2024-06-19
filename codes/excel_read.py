@@ -34,7 +34,6 @@ with open(md_file_path, 'w', encoding='utf-8') as f:
             for index, row in rows:
                 vertices[col].append(row[col])
         else:
-            print(cols)
             new_cols = []
             for col in cols:
                 ncol = check_and_remove_number(col)
@@ -59,9 +58,32 @@ with open(md_file_path, 'w', encoding='utf-8') as f:
 
 with open(txt_file_path, 'w', encoding='utf-8') as f:
     for key, value in vertices.items():
-        f.write(f"\'{key}\': {value},\n")
+        f.write(f"\t\'{key}\': [\n")
+        for item in value:
+            f.write(f"\t\t\'{item}\',\n")
+        f.write(f"\t],\n")
+
+
+knowledge_graph = dict()
+
+for key in edges.keys():
+    # key is a tuple
+    for id in range(0, len(key)):
+        new_tuple = key[id: id + 1] + key[:id] + key[id + 1:]
+        knowledge_graph[new_tuple] = dict()
+        for value in edges[key]:
+            # value is a tuple as wellf
+            if value[id] == 'nan':
+                continue
+            new_value_tuple = value[:id] + value[id + 1:]
+            knowledge_graph[new_tuple][value[id]] = new_value_tuple
 
 with open(txt_file_path, 'a', encoding='utf-8') as f:
-    for key, value in edges.items():
-        f.write(f"{key}: {value},\n")
+    for key, value in knowledge_graph.items():
+        f.write(f"\t\'{key}\': [\n")
+        print(type(value))
+        for inner_key, inner_value in value.items():
+            f.write(f"\t\t\'{inner_key}\': {inner_value},\n")
+        f.write(f"\t],\n")
+
 #print(f"Markdown tables saved to {md_file_path}")
