@@ -1,0 +1,190 @@
+Selected edge:  ('Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template:  1. Thẻ [Tên thẻ] thuộc (Hạng thẻ) nào?
+2. Thẻ [Tên thẻ] có (Mã BIN) là gì?
+3. Thẻ [Tên thẻ] có (Độ dài số thẻ) là bao nhiêu?
+4. Hình ảnh thẻ của [Tên thẻ] là (Hình ảnh thẻ) nào?
+5. Hạng thẻ [Hạng thẻ] có (Tên thẻ) là gì?
+6. Mã BIN [Mã BIN] thuộc (Tên thẻ) nào?
+7. Độ dài số thẻ [Độ dài số thẻ] của (Tên thẻ) là gì?
+8. Hình ảnh thẻ [Hình ảnh thẻ] là của (Tên thẻ) nào?
+
+Selected edge:  ('Hạng thẻ', 'Tên thẻ', 'Mã BIN', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template:  Dưới đây là một số mẫu câu hỏi về "Hạng thẻ" với các tổ hợp thông tin khác nhau:
+
+1. Thẻ [Tên thẻ] có (Hạng thẻ) là gì?
+2. Hãy cho biết (Hạng thẻ) của thẻ có mã BIN [Mã BIN].
+3. Với độ dài số thẻ [Độ dài số thẻ], thẻ đó thuộc (Hạng thẻ) nào?
+4. Hạng thẻ của thẻ trong hình [Hình ảnh thẻ] là gì?
+
+Các mẫu câu hỏi này sử dụng các tổ hợp thông tin khác nhau để hỏi về "Hạng thẻ".
+
+Selected edge:  ('Mã BIN', 'Tên thẻ', 'Hạng thẻ', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template:  Dưới đây là một số mẫu câu hỏi hỏi về Mã BIN dựa trên các loại thông tin đã cung cấp:
+
+1. Thẻ [Tên thẻ] thuộc hạng [Hạng thẻ] có (Mã BIN) là gì?
+2. Thẻ có độ dài số thẻ [Độ dài số thẻ] và hình ảnh [Hình ảnh thẻ] có (Mã BIN) là gì?
+3. Thẻ có tên [Tên thẻ] và độ dài số thẻ [Độ dài số thẻ] có (Mã BIN) là gì?
+4. Thẻ thuộc hạng [Hạng thẻ] và có hình ảnh [Hình ảnh thẻ] có (Mã BIN) là gì?
+
+Những mẫu câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp và hỏi về Mã BIN.
+
+Selected edge:  ('Độ dài số thẻ', 'Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Hình ảnh thẻ')
+Question template:  
+1. Thẻ [Tên thẻ] thuộc hạng [Hạng thẻ] có (Độ dài số thẻ) là bao nhiêu?
+2. Mã BIN [Mã BIN] của thẻ [Tên thẻ] có (Độ dài số thẻ) là bao nhiêu?
+3. Hình ảnh thẻ [Hình ảnh thẻ] thuộc hạng [Hạng thẻ] có (Độ dài số thẻ) là bao nhiêu?
+4. Thẻ với mã BIN [Mã BIN] thuộc hạng [Hạng thẻ] có (Độ dài số thẻ) là bao nhiêu?
+
+Selected edge:  ('Hình ảnh thẻ', 'Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Độ dài số thẻ')
+Question template:  1. Hình ảnh thẻ [Tên thẻ] có (Hạng thẻ) nào?
+2. Hình ảnh thẻ [Tên thẻ] có (Mã BIN) nào?
+3. Hình ảnh thẻ [Tên thẻ] có (Độ dài số thẻ) là bao nhiêu?
+4. Thẻ [Tên thẻ] có (Hình ảnh thẻ) như thế nào?
+5. Hạng thẻ [Hạng thẻ] có (Hình ảnh thẻ) là gì?
+6. Mã BIN [Mã BIN] có (Hình ảnh thẻ) như thế nào?
+7. Độ dài số thẻ [Độ dài số thẻ] có (Hình ảnh thẻ) là gì?
+
+Selected edge:  ('Tên thẻ', 'Tên thẻ thay thế')
+Question template:  Dưới đây là một số mẫu câu hỏi khác nhau sử dụng các loại thông tin "Tên thẻ" và "Tên thẻ thay thế", với ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin:
+
+1. Thẻ [Tên thẻ] có tên thay thế là gì?
+   - Thẻ tín  dụng A có tên thay thế là gì?
+
+2. Tên thay thế của thẻ [Tên thẻ] là gì?
+   - Tên thay thế của thẻ tín dụng B là gì?
+
+3. Thẻ nào có tên thay thế là [Tên thẻ thay thế]?
+   - Thẻ nào có tên thay thế là "Thẻ tín dụng C"?
+
+4. Thẻ nào dưới đây có tên thay thế là (Tên thẻ thay thế)?
+   - Thẻ nào dưới đây có tên thay thế là "Thẻ tín dụng D"?
+
+5. Tên thay thế của thẻ nào là [Tên thẻ thay thế]?
+   - Tên thay thế của thẻ nào là "Thẻ tín dụng E"?
+
+Những mẫu câu hỏi này đều sử dụng thông tin "Tên thẻ" và "Tên thẻ thay thế" để hỏi về một loại thông tin cụ thể, đảm bảo tính hợp lý và rõ ràng.
+
+Selected edge:  ('Tên thẻ thay thế', 'Tên thẻ')
+Question template:  Dưới đây là một số mẫu câu hỏi hỏi về Tên thẻ thay thế, mỗi mẫu câu hỏi sử dụng ít nhất hai loại thông tin được cung cấp:
+
+1. Tên thẻ [Tên thẻ] có (Tên thẻ thay thế) là gì?
+2. Hãy cho biết (Tên thẻ thay thế) của thẻ [Tên thẻ].
+3. Thẻ [Tên thẻ] được biết đến với (Tên thẻ thay thế) nào?
+4. Tên thẻ [Tên thẻ] còn gọi là (Tên thẻ thay thế) gì?
+5. (Tên thẻ thay thế) của thẻ [Tên thẻ] là gì?
+
+Mỗi câu hỏi đều cung cấp ít nhất hai loại thông tin: Tên thẻ thay thế và Tên thẻ, và chỉ hỏi về Tên thẻ thay thế.
+
+Selected edge:  ('Mã SP', 'Mã SP tại Corebanking mới', 'Thẻ có mã SP thay thế')
+Question template:  Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin Mã SP, Mã SP tại Corebanking mới và Thẻ có mã SP thay thế:
+
+1. Thẻ [Thẻ có mã SP thay thế] có (Mã SP) nào?
+2. Mã SP tại Corebanking mới [Mã SP tại Corebanking mới] tương ứng với (Mã SP) nào?
+3. Thẻ có mã SP thay thế [Thẻ có mã SP thay thế] có mã SP tại Corebanking mới là (Mã SP tại Corebanking mới) nào?
+4. Mã SP [Mã SP] tương ứng với (Mã SP tại Corebanking mới) nào?
+5. Mã SP [Mã SP] được thay thế bởi (Thẻ có mã SP thay thế) nào?
+
+Như vậy, mỗi câu hỏi đều cung cấp ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge:  ('Mã SP tại Corebanking mới', 'Mã SP', 'Thẻ có mã SP thay thế')
+Question template:  Dưới đây là các mẫu câu hỏi ngắn hỏi về "Mã SP tại Corebanking mới" với ít nhất hai loại thông tin được cung cấp:
+
+1. Thẻ có mã SP thay thế [Thẻ có mã SP thay thế] có (Mã SP tại Corebanking mới) nào?
+2. Mã SP [Mã SP] tương ứng với (Mã SP tại Corebanking mới) nào?
+3. (Mã SP tại Corebanking mới) của thẻ có mã SP thay thế [Thẻ có mã SP thay thế] là gì?
+4. Thẻ có mã SP [Mã SP] có (Mã SP tại Corebanking mới) nào?
+5. (Mã SP tại Corebanking mới) của mã SP [Mã SP] là gì?
+
+Những câu hỏi này đều hợp lý và đáp ứng yêu cầu của bạn về việc sử dụng các loại thông tin được cung cấp.
+
+Selected edge:  ('Thẻ có mã SP thay thế', 'Mã SP', 'Mã SP tại Corebanking mới')
+Question template:  Dưới đây là một vài mẫu câu hỏi ngắn hỏi về "Thẻ có mã SP thay thế" dựa trên các loại thông tin đã cho:
+
+1. Mã SP [Mã SP tại Corebanking mới] thuộc về (Thẻ có mã SP thay thế) nào?
+2. (Thẻ có mã SP thay thế) nào có mã SP là [Mã SP]?
+3. Mã SP tại Corebanking mới [Mã SP tại Corebanking mới] là của (Thẻ có mã SP thay thế) nào?
+4. Đối với mã SP [Mã SP], (Thẻ có mã SP thay thế) là gì?
+5. (Thẻ có mã SP thay thế) nào có mã SP tại Corebanking mới là [Mã SP tại Corebanking mới]?
+
+Các câu hỏi trên đều sử dụng ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin duy nhất.
+
+Selected edge:  ('Tính năng nổi bật', 'Tên thẻ', 'Chi tiết tính năng')
+Question template:  1. Tính năng [Tính năng nổi bật] là của thẻ (Tên thẻ) nào sau đây?
+2. Thẻ [Tên thẻ] có tính năng nổi bật nào?
+3. Hãy nêu (Chi tiết tính năng) của [Tính năng nổi bật] của [Tên thẻ].
+4. Tên thẻ nào có tính năng nổi bật [Tính năng nổi bật]?
+5. (Tên thẻ) có chi tiết tính năng nào cho [Tính năng nổi bật]?
+6. Tính năng nổi bật [Tính năng nổi bật] có chi tiết tính năng nào?
+
+Selected edge:  ('Tên thẻ', 'Tính năng nổi bật', 'Chi tiết tính năng')
+Question template:  Dưới đây là một vài mẫu câu hỏi hỏi về Tên thẻ với các tổ hợp thông tin khác nhau:
+
+1. Tính năng [Tính năng nổi bật] là của thẻ (Tên thẻ) nào sau đây?
+2. Chi tiết tính năng [Chi tiết tính năng] thuộc về thẻ (Tên thẻ) nào?
+3. Thẻ nào có tính năng nổi bật [Tính năng nổi bật] và được gọi là (Tên thẻ)?
+4. Thẻ nào có [Chi tiết tính năng] trong tính năng [Tính năng nổi bật] và tên là (Tên thẻ)?
+5. (Tên thẻ) nào có tính năng [Tính năng nổi bật] với chi tiết [Chi tiết tính năng]?
+
+Những mẫu câu hỏi này sử dụng ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin (Tên thẻ).
+
+Selected edge:  ('Chi tiết tính năng', 'Tính năng nổi bật', 'Tên thẻ')
+Question template:  1. Hãy nêu (Chi tiết tính năng) của [Tính năng nổi bật] của [Tên thẻ].
+2. Thẻ [Tên thẻ] có (Chi tiết tính năng) của [Tính năng nổi bật] nào?
+3. [Tính năng nổi bật] của thẻ [Tên thẻ] có (Chi tiết tính năng) như thế nào?
+4. Đối với thẻ [Tên thẻ], (Chi tiết tính năng) của [Tính năng nổi bật] là gì?
+5. Bạn có thể cho biết (Chi tiết tính năng) của [Tính năng nổi bật] thuộc thẻ [Tên thẻ] không?
+
+
+
+Selected edge:  ('Thông tin chung về thẻ', 'Loại thẻ', 'Thông tin chi tiết')
+Question template:  1. Thẻ [Loại thẻ] có (Thông tin chung về thẻ) gì?
+2. (Thông tin chung về thẻ) của thẻ [Loại thẻ] là gì?
+3. Đặc điểm [Thông tin chi tiết] của thẻ [Loại thẻ] là gì?
+4. Thẻ [Loại thẻ] có [Thông tin chi tiết] nào và có (Thông tin chung về thẻ) gì?
+5. (Thông tin chung về thẻ) của thẻ có [Thông tin chi tiết] là gì?
+6. Hãy nêu (Thông tin chung về thẻ) của thẻ [Loại thẻ].
+7. Thẻ [Loại thẻ] có (Thông tin chung về thẻ) gì đặc biệt?
+8. (Thông tin chung về thẻ) của thẻ với [Thông tin chi tiết] là gì?
+
+Selected edge:  ('Loại thẻ', 'Thông tin chung về thẻ', 'Thông tin chi tiết')
+Question template:  1. Thẻ [Thông tin chung về thẻ] là của loại thẻ (Loại thẻ) nào sau đây?
+2. Hãy nêu (Loại thẻ) của thẻ có [Thông tin chi tiết] như sau.
+3. Thẻ có [Thông tin chi tiết] nào thuộc (Loại thẻ) nào?
+4. Thẻ [Thông tin chi tiết] thuộc loại thẻ (Loại thẻ) nào?
+5. (Loại thẻ) nào có thẻ với [Thông tin chung về thẻ] như sau?
+6. Thẻ có [Thông tin chung về thẻ] nào thuộc loại thẻ (Loại thẻ) nào?
+7. (Loại thẻ) nào có thẻ với [Thông tin chi tiết] như sau?
+8. Hãy nêu (Loại thẻ) của thẻ có [Thông tin chung về thẻ] như sau.
+
+Selected edge:  ('Thông tin chi tiết', 'Thông tin chung về thẻ', 'Loại thẻ')
+Question template:  1. Thẻ [Loại thẻ] có (Thông tin chi tiết) nào?
+   Ví dụ: Thẻ tín dụng có lãi suất ưu đãi nào?
+
+2. Hãy nêu (Thông tin chi tiết) của [Thông tin chung về thẻ] của [Loại thẻ].
+   Ví dụ: Hãy nêu chi tiết về phí thường niên của thẻ tín dụng.
+
+3. (Thông tin chi tiết) của thẻ [Loại thẻ] là gì?
+   Ví dụ: Lãi suất của thẻ tín dụng là gì?
+
+4. (Thông tin chi tiết) về [Thông tin chung về thẻ] của thẻ [Loại thẻ] là gì?
+   Ví dụ: Chi tiết về hạn mức tín dụng của thẻ tín dụng là gì?
+
+5. Thẻ [Loại thẻ] có (Thông tin chi tiết) như thế nào?
+   Ví dụ: Thẻ ghi nợ có phí giao dịch quốc tế như thế nào?
+
+6. Hãy cho biết (Thông tin chi tiết) của thẻ [Loại thẻ].
+   Ví dụ: Hãy cho biết chi tiết về lãi suất của thẻ tín dụng.
+
+7. (Thông tin chi tiết) của thẻ [Loại thẻ] được mô tả như thế nào?
+   Ví dụ: Phí thường niên của thẻ tín dụng được mô tả như thế nào?
+
+8. Thẻ [Loại thẻ] có (Thông tin chi tiết) về [Thông tin chung về thẻ] là gì?
+   Ví dụ: Thẻ ghi nợ có chi tiết về phí thường niên là gì?
+
+Selected edge:  ('Loại thẻ', 'Lợi ích KH')
+Question template:  Dưới đây là một vài mẫu câu hỏi ngắn hỏi về "Loại thẻ" dựa trên các loại thông tin "Loại thẻ" và "Lợi ích KH":
+
+1. Lợi ích [Lợi ích KH] là của (Loại thẻ) nào sau đây?
+2. (Loại thẻ) nào mang lại lợi ích [Lợi ích KH] cho khách hàng?
+3. Khách hàng sẽ nhận được lợi ích [Lợi ích KH] khi sử dụng (Loại thẻ) nào?
+4. Khi sử dụng lợi ích [Lợi ích KH], khách hàng cần dùng (Loại thẻ) nào?

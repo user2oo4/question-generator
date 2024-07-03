@@ -1,0 +1,577 @@
+Selected edge: ('Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template: Dưới đây là một số mẫu câu hỏi với các tổ hợp thông tin khác nhau, sử dụng các loại thông tin được cung cấp và chỉ hỏi về Tên thẻ:
+
+1. Hạng thẻ [Hạng thẻ] có (Tên thẻ) là gì?
+2. Mã BIN [Mã BIN] thuộc về (Tên thẻ) nào?
+3. Thẻ có độ dài số thẻ [Độ dài số thẻ] là của (Tên thẻ) nào?
+4. Hình ảnh thẻ [Hình ảnh thẻ] thuộc về (Tên thẻ) nào?
+
+Ví dụ cụ thể cho mỗi mẫu câu hỏi:
+
+1. Hạng thẻ vàng có tên thẻ là gì?
+2. Mã BIN 123456 thuộc về tên thẻ nào?
+3. Thẻ có độ dài số thẻ 16 là của tên thẻ nào?
+4. Hình ảnh thẻ có hình ngôi sao thuộc về tên thẻ nào?
+
+Selected edge: ('Hạng thẻ', 'Tên thẻ', 'Mã BIN', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin mà bạn đã cung cấp:
+
+1. Mẫu câu hỏi về Hạng thẻ:
+- Thẻ [Tên thẻ] có (Hạng thẻ) gì?
+- [Mã BIN] thuộc (Hạng thẻ) nào?
+- (Hạng thẻ) của thẻ có độ dài số thẻ [Độ dài số thẻ] là gì?
+
+2. Mẫu câu hỏi về Tên thẻ:
+- Thẻ có (Tên thẻ) nào có mã BIN là [Mã BIN]?
+- (Tên thẻ) của thẻ có độ dài [Độ dài số thẻ] là gì?
+- Thẻ có (Tên thẻ) gì với hình ảnh thẻ là [Hình ảnh thẻ]?
+
+3. Mẫu câu hỏi về Mã BIN:
+- Thẻ [Tên thẻ] có (Mã BIN) gì?
+- (Mã BIN) của thẻ có hạng [Hạng thẻ] là gì?
+- Thẻ có độ dài số thẻ [Độ dài số thẻ] có (Mã BIN) nào?
+
+4. Mẫu câu hỏi về Độ dài số thẻ:
+- Thẻ [Tên thẻ] có (Độ dài số thẻ) là bao nhiêu?
+- (Độ dài số thẻ) của thẻ có mã BIN [Mã BIN] là gì?
+- Thẻ có hạng [Hạng thẻ] có (Độ dài số thẻ) là bao nhiêu?
+
+5. Mẫu câu hỏi về Hình ảnh thẻ:
+- Thẻ [Tên thẻ] có (Hình ảnh thẻ) nào?
+- (Hình ảnh thẻ) của thẻ có mã BIN [Mã BIN] là gì?
+- Thẻ có độ dài số thẻ [Độ dài số thẻ] có (Hình ảnh thẻ) nào?
+
+Hy vọng các mẫu câu hỏi trên sẽ hữu ích cho bạn!
+
+Selected edge: ('Mã BIN', 'Tên thẻ', 'Hạng thẻ', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template: 1. Mã BIN của thẻ [Tên thẻ] là gì?
+2. Thẻ có mã BIN [Mã BIN] thuộc hạng thẻ nào?
+3. Độ dài số thẻ của thẻ có mã BIN [Mã BIN] là bao nhiêu?
+4. Hình ảnh thẻ của thẻ có mã BIN [Mã BIN] trông như thế nào?
+5. Mã BIN của thẻ có hạng thẻ [Hạng thẻ] là gì?
+6. Thẻ có mã BIN [Mã BIN] có tên thẻ là gì?
+7. Mã BIN của thẻ có độ dài số thẻ [Độ dài số thẻ] là gì?
+8. Thẻ có mã BIN [Mã BIN] có độ dài số thẻ là bao nhiêu?
+
+Selected edge: ('Độ dài số thẻ', 'Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Hình ảnh thẻ')
+Question template: 1. Thẻ [Tên thẻ] có (Độ dài số thẻ) là bao nhiêu?
+2. Hạng thẻ [Hạng thẻ] có (Độ dài số thẻ) là bao nhiêu?
+3. Mã BIN [Mã BIN] thuộc thẻ [Tên thẻ] có (Độ dài số thẻ) là bao nhiêu?
+4. Hình ảnh thẻ [Hình ảnh thẻ] tương ứng với (Độ dài số thẻ) là bao nhiêu?
+5. Hạng thẻ [Hạng thẻ] có mã BIN [Mã BIN] thì (Độ dài số thẻ) là bao nhiêu?
+6. Thẻ có mã BIN [Mã BIN] thì (Độ dài số thẻ) là bao nhiêu?
+7. Thẻ có hình ảnh [Hình ảnh thẻ] thì (Độ dài số thẻ) là bao nhiêu?
+
+Selected edge: ('Hình ảnh thẻ', 'Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Độ dài số thẻ')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin được cung cấp:
+
+1. Hình ảnh của thẻ [Tên thẻ] có (Hình ảnh thẻ) như thế nào?
+2. Thẻ [Hạng thẻ] với mã BIN [Mã BIN] có (Hình ảnh thẻ) ra sao?
+3. Độ dài số thẻ [Độ dài số thẻ] của [Tên thẻ] có (Hình ảnh thẻ) như thế nào?
+4. Thẻ với mã BIN [Mã BIN] có (Hình ảnh thẻ) như thế nào?
+5. Hạng thẻ [Hạng thẻ] của [Tên thẻ] có (Hình ảnh thẻ) ra sao?
+
+Các mẫu câu hỏi trên đều tuân thủ yêu cầu sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin cụ thể (Hình ảnh thẻ).
+
+Selected edge: ('Tên thẻ', 'Tên thẻ thay thế')
+Question template: 1. Thẻ [Tên thẻ] có thể thay thế bằng (Tên thẻ thay thế) nào?
+2. Tên thẻ thay thế của [Tên thẻ] là (Tên thẻ thay thế) gì?
+3. Trong các thẻ sau, thẻ nào có tên thay thế là (Tên thẻ thay thế)?
+4. (Tên thẻ) nào có tên thẻ thay thế là [Tên thẻ thay thế]?
+5. Trong các thẻ sau, (Tên thẻ) nào có thể thay thế cho [Tên thẻ thay thế]?
+6. Hãy cho biết (Tên thẻ) có tên thẻ thay thế là [Tên thẻ thay thế]?
+7. Thẻ có tên thẻ thay thế là [Tên thẻ thay thế] thuộc về (Tên thẻ) nào?
+8. (Tên thẻ) nào có thể được thay thế bằng [Tên thẻ thay thế]?
+9. Tên thẻ nào được thay thế bằng (Tên thẻ thay thế) của [Tên thẻ]?
+10. Trong các tên thẻ sau, (Tên thẻ) nào có thể được thay thế bằng [Tên thẻ thay thế]?
+
+Selected edge: ('Tên thẻ thay thế', 'Tên thẻ')
+Question template: Dưới đây là một số mẫu câu hỏi với các tổ hợp thông tin khác nhau, tập trung hỏi về "Tên thẻ thay thế":
+
+1. Thẻ [Tên thẻ] có (Tên thẻ thay thế) là gì?
+2. Hãy cho biết (Tên thẻ thay thế) của thẻ [Tên thẻ].
+3. Tên thẻ thay thế của (Tên thẻ) [Tên thẻ] là gì?
+4. (Tên thẻ thay thế) của thẻ [Tên thẻ] là gì?
+5. Thẻ [Tên thẻ] được thay thế bằng (Tên thẻ thay thế) nào?
+
+Selected edge: ('Mã SP', 'Mã SP tại Corebanking mới', 'Thẻ có mã SP thay thế')
+Question template: 1. Mã SP [Mã SP tại Corebanking mới] có (Mã SP) nào?
+2. Thẻ [Thẻ có mã SP thay thế] có (Mã SP) nào?
+3. Mã SP [Mã SP] có (Mã SP tại Corebanking mới) nào?
+4. Thẻ có mã SP thay thế [Thẻ có mã SP thay thế] có (Mã SP) nào?
+5. Mã SP tại Corebanking mới [Mã SP tại Corebanking mới] là của (Mã SP) nào?
+6. Mã SP [Mã SP] có thẻ thay thế nào [Thẻ có mã SP thay thế]?
+
+Selected edge: ('Mã SP tại Corebanking mới', 'Mã SP', 'Thẻ có mã SP thay thế')
+Question template: Dưới đây là các mẫu câu hỏi với các tổ hợp thông tin khác nhau, hỏi về "Mã SP tại Corebanking mới":
+
+1. Mã SP [Mã SP] có (Mã SP tại Corebanking mới) là gì?
+2. Thẻ có mã SP thay thế [Thẻ có mã SP thay thế] có (Mã SP tại Corebanking mới) là gì?
+3. (Mã SP tại Corebanking mới) của [Mã SP] là gì?
+4. (Mã SP tại Corebanking mới) của thẻ có mã SP thay thế [Thẻ có mã SP thay thế] là gì?
+
+Các mẫu câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin là "Mã SP tại Corebanking mới".
+
+Selected edge: ('Thẻ có mã SP thay thế', 'Mã SP', 'Mã SP tại Corebanking mới')
+Question template: Dưới đây là các mẫu câu hỏi dựa trên các loại thông tin đã cung cấp:
+
+1. Với thông tin "Thẻ có mã SP thay thế" và "Mã SP":
+   - Thẻ có mã SP thay thế [Thẻ có mã SP thay thế] có mã SP là gì?
+
+2. Với thông tin "Thẻ có mã SP thay thế" và "Mã SP tại Corebanking mới":
+   - Thẻ có mã SP thay thế [Thẻ có mã SP thay thế] có mã SP tại Corebanking mới là gì?
+
+3. Với thông tin "Mã SP" và "Mã SP tại Corebanking mới":
+   - Mã SP [Mã SP] tại Corebanking mới là gì?
+
+4. Với thông tin "Mã SP" và "Thẻ có mã SP thay thế":
+   - Mã SP [Mã SP] có thẻ thay thế là gì?
+
+5. Với thông tin "Mã SP tại Corebanking mới" và "Thẻ có mã SP thay thế":
+   - Mã SP tại Corebanking mới [Mã SP tại Corebanking mới] có thẻ thay thế là gì?
+
+6. Với thông tin "Mã SP tại Corebanking mới" và "Mã SP":
+   - Mã SP tại Corebanking mới [Mã SP tại Corebanking mới] tương ứng với mã SP nào?
+
+Selected edge: ('Tính năng nổi bật', 'Tên thẻ', 'Chi tiết tính năng')
+Question template: Dưới đây là một số mẫu câu hỏi với các tổ hợp thông tin khác nhau, chỉ hỏi về một loại thông tin (sử dụng ngoặc ()), và cung cấp ít nhất hai loại thông tin khác:
+
+1. Tính năng [Tính năng nổi bật] là của thẻ [Tên thẻ] nào sau đây?
+2. Thẻ [Tên thẻ] có (Tính năng nổi bật) nào?
+3. Thẻ [Tên thẻ] có tính năng [Tính năng nổi bật] với (Chi tiết tính năng) nào?
+4. (Tính năng nổi bật) của thẻ [Tên thẻ] là gì?
+5. Chi tiết của [Tính năng nổi bật] của thẻ [Tên thẻ] là gì?
+
+Những mẫu câu hỏi này giúp bạn hỏi về Tính năng nổi bật, Tên thẻ, và Chi tiết tính năng một cách rõ ràng và cụ thể.
+
+Selected edge: ('Tên thẻ', 'Tính năng nổi bật', 'Chi tiết tính năng')
+Question template: Dưới đây là một số mẫu câu hỏi hỏi về Tên thẻ với các tổ hợp thông tin khác nhau:
+
+1. Tính năng [Tính năng nổi bật] là của thẻ (Tên thẻ) nào sau đây?
+2. Chi tiết tính năng [Chi tiết tính năng] thuộc về thẻ (Tên thẻ) nào?
+3. Thẻ nào có [Tính năng nổi bật] (Tên thẻ)?
+4. Thẻ nào có chi tiết tính năng [Chi tiết tính năng] (Tên thẻ)?
+5. Để sử dụng [Tính năng nổi bật], bạn cần thẻ (Tên thẻ) nào?
+6. Thẻ nào sau đây có [Chi tiết tính năng] (Tên thẻ)?
+7. Nếu muốn có [Tính năng nổi bật], bạn nên chọn thẻ (Tên thẻ) nào?
+8. Để có [Chi tiết tính năng], bạn cần thẻ (Tên thẻ) nào?
+
+Các câu hỏi này đều được thiết kế để hỏi về Tên thẻ, đồng thời cung cấp thông tin về Tính năng nổi bật hoặc Chi tiết tính năng.
+
+Selected edge: ('Chi tiết tính năng', 'Tính năng nổi bật', 'Tên thẻ')
+Question template: 1. Hãy mô tả (Chi tiết tính năng) của [Tính năng nổi bật] trên [Tên thẻ].
+2. [Tên thẻ] có (Chi tiết tính năng) nào cho [Tính năng nổi bật]?
+3. Đối với [Tên thẻ], (Chi tiết tính năng) của [Tính năng nổi bật] là gì?
+4. (Chi tiết tính năng) của [Tên thẻ] cho [Tính năng nổi bật] là gì?
+5. [Tính năng nổi bật] trên [Tên thẻ] có (Chi tiết tính năng) gì đặc biệt?
+
+Selected edge: ('Thông tin chung về thẻ', 'Loại thẻ', 'Thông tin chi tiết')
+Question template: 1. Thẻ [Loại thẻ] có (Thông tin chung về thẻ) gì?
+   - Ví dụ: Thẻ tín dụng có thông tin chung về thẻ gì?
+
+2. (Thông tin chung về thẻ) của thẻ [Loại thẻ] là gì?
+   - Ví dụ: Điều kiện mở thẻ của thẻ ghi nợ là gì?
+
+3. [Loại thẻ] có (Thông tin chung về thẻ) như thế nào?
+   - Ví dụ: Thẻ trả trước có điều kiện mở thẻ như thế nào?
+
+4. [Thông tin chi tiết] của [Loại thẻ] có (Thông tin chung về thẻ) gì?
+   - Ví dụ: Lãi suất của thẻ tín dụng có thông tin chung về thẻ gì?
+
+5. (Thông tin chung về thẻ) của thẻ [Thông tin chi tiết] là gì?
+   - Ví dụ: Điều kiện mở thẻ của thẻ có phí thường niên là gì?
+
+6. Thẻ [Thông tin chi tiết] có (Thông tin chung về thẻ) nào?
+   - Ví dụ: Thẻ có hạn mức cao có điều kiện mở thẻ nào?
+
+7. [Thông tin chi tiết] của thẻ [Loại thẻ] có (Thông tin chung về thẻ) gì?
+   - Ví dụ: Ưu đãi của thẻ ghi nợ có thông tin chung về thẻ gì?
+
+8. (Thông tin chung về thẻ) của [Loại thẻ] và [Thông tin chi tiết] là gì?
+   - Ví dụ: Điều kiện mở thẻ của thẻ tín dụng và thẻ có phí thường niên là gì?
+
+Selected edge: ('Loại thẻ', 'Thông tin chung về thẻ', 'Thông tin chi tiết')
+Question template: Dưới đây là một số mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Loại thẻ dựa trên các loại thông tin đã cho:
+
+1. Thẻ [Thông tin chung về thẻ] có (Loại thẻ) nào?
+2. (Loại thẻ) nào có [Thông tin chi tiết]?
+3. Hãy cho biết (Loại thẻ) của thẻ có [Thông tin chi tiết] này.
+4. [Thông tin chung về thẻ] là của (Loại thẻ) nào?
+5. Thẻ có [Thông tin chi tiết] này thuộc (Loại thẻ) nào?
+6. Thông tin chi tiết [Thông tin chi tiết] là của (Loại thẻ) nào?
+7. (Loại thẻ) của thẻ có [Thông tin chung về thẻ] là gì?
+8. Thẻ có [Thông tin chung về thẻ] và [Thông tin chi tiết] thuộc (Loại thẻ) nào?
+9. (Loại thẻ) của thẻ có [Thông tin chi tiết] là gì?
+10. [Thông tin chung về thẻ] và [Thông tin chi tiết] là của (Loại thẻ) nào?
+
+Những mẫu câu hỏi này đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin (Loại thẻ).
+
+Selected edge: ('Thông tin chi tiết', 'Thông tin chung về thẻ', 'Loại thẻ')
+Question template: 1. Thẻ [Loại thẻ] có (Thông tin chi tiết) nào?
+   Ví dụ: Thẻ tín dụng có lãi suất hàng năm là bao nhiêu?
+
+2. (Thông tin chi tiết) của thẻ [Thông tin chung về thẻ] là gì?
+   Ví dụ: Hạn mức tín dụng của thẻ vàng là gì?
+
+3. Thông tin chi tiết về (Thông tin chi tiết) của thẻ [Loại thẻ] là gì?
+   Ví dụ: Thông tin chi tiết về phí thường niên của thẻ ghi nợ là gì?
+
+4. Thẻ [Thông tin chung về thẻ] có (Thông tin chi tiết) như thế nào?
+   Ví dụ: Thẻ bạc có lãi suất hàng năm như thế nào?
+
+5. (Thông tin chi tiết) của thẻ [Loại thẻ] [Thông tin chung về thẻ] là bao nhiêu?
+   Ví dụ: Lãi suất hàng năm của thẻ tín dụng bạch kim là bao nhiêu?
+
+6. Thẻ [Loại thẻ] [Thông tin chung về thẻ] có (Thông tin chi tiết) đặc biệt gì?
+   Ví dụ: Thẻ tín dụng bạch kim có ưu đãi đặc biệt gì?
+
+7. Thẻ [Thông tin chung về thẻ] thuộc loại [Loại thẻ] có (Thông tin chi tiết) nào?
+   Ví dụ: Thẻ đồng thuộc loại thẻ ghi nợ có phí thường niên nào?
+
+8. (Thông tin chi tiết) của thẻ [Thông tin chung về thẻ] thuộc loại [Loại thẻ] là gì?
+   Ví dụ: Hạn mức tín dụng của thẻ bạc thuộc loại thẻ tín dụng là gì?
+
+9. Thông tin chi tiết về (Thông tin chi tiết) cho thẻ [Loại thẻ] là như thế nào?
+   Ví dụ: Thông tin chi tiết về phí giao dịch quốc tế cho thẻ ghi nợ là như thế nào?
+
+10. Thẻ [Thông tin chung về thẻ] có (Thông tin chi tiết) thuộc loại [Loại thẻ] là gì?
+    Ví dụ: Thẻ vàng có lãi suất hàng năm thuộc loại thẻ tín dụng là gì?
+
+Selected edge: ('Loại thẻ', 'Lợi ích KH')
+Question template: Dưới đây là một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Loại thẻ dựa trên các loại thông tin đã cung cấp:
+
+1. Lợi ích [Lợi ích KH] thuộc về loại thẻ (Loại thẻ) nào?
+2. Loại thẻ (Loại thẻ) mang lại lợi ích [Lợi ích KH] nào?
+3. Thẻ có lợi ích [Lợi ích KH] là (Loại thẻ) nào?
+4. Những lợi ích [Lợi ích KH] được cung cấp bởi loại thẻ (Loại thẻ) nào?
+5. Loại thẻ (Loại thẻ) có lợi ích [Lợi ích KH] đặc biệt nào?
+
+Các mẫu câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Lợi ích KH', 'Loại thẻ')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin ("Lợi ích KH", "Loại thẻ") và chỉ hỏi về "Lợi ích KH":
+
+1. Thẻ [Loại thẻ] có (Lợi ích KH) gì?
+2. Lợi ích [Lợi ích KH] thuộc loại thẻ (Loại thẻ) nào?
+3. Thẻ [Loại thẻ] mang lại (Lợi ích KH) nào cho khách hàng?
+4. Thẻ [Loại thẻ] có những (Lợi ích KH) gì?
+5. Khách hàng sẽ nhận được (Lợi ích KH) gì khi sử dụng thẻ [Loại thẻ]?
+6. (Lợi ích KH) của thẻ [Loại thẻ] là gì?
+7. Thẻ [Loại thẻ] cung cấp (Lợi ích KH) gì cho người dùng?
+8. Khi sử dụng thẻ [Loại thẻ], khách hàng sẽ có (Lợi ích KH) nào?
+
+Những mẫu câu hỏi này đều sử dụng ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Tên thẻ', 'Trạng thái thẻ', 'Các loại khách hàng', 'Mã SP', 'Loại thẻ', 'Đặc điểm chi tiết thẻ', 'Hình thức thẻ')
+Question template: Dưới đây là một vài mẫu câu hỏi với các tổ hợp thông tin khác nhau, hỏi về Tên thẻ:
+
+1. Trạng thái thẻ [Trạng thái thẻ] là của thẻ (Tên thẻ) nào?
+2. Các loại khách hàng [Các loại khách hàng] phù hợp với thẻ (Tên thẻ) nào?
+3. Mã SP [Mã SP] thuộc về thẻ (Tên thẻ) nào?
+4. Loại thẻ [Loại thẻ] là của thẻ (Tên thẻ) nào?
+5. Đặc điểm chi tiết thẻ [Đặc điểm chi tiết thẻ] là của thẻ (Tên thẻ) nào?
+6. Hình thức thẻ [Hình thức thẻ] là của thẻ (Tên thẻ) nào?
+
+Các mẫu câu hỏi này cung cấp ít nhất hai loại thông tin và hỏi về Tên thẻ.
+
+Selected edge: ('Trạng thái thẻ', 'Tên thẻ', 'Các loại khách hàng', 'Mã SP', 'Loại thẻ', 'Đặc điểm chi tiết thẻ', 'Hình thức thẻ')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin được cung cấp và tập trung vào việc hỏi về Trạng thái thẻ:
+
+1. Trạng thái thẻ [Tên thẻ] hiện đang là (Trạng thái thẻ) nào?
+2. Đối với loại thẻ [Loại thẻ], (Trạng thái thẻ) của thẻ này là gì?
+3. Thẻ có mã [Mã SP] hiện đang trong (Trạng thái thẻ) nào?
+4. Thẻ [Tên thẻ] dành cho [Các loại khách hàng] có (Trạng thái thẻ) ra sao?
+5. Với hình thức [Hình thức thẻ], (Trạng thái thẻ) của thẻ này là gì?
+6. Đặc điểm chi tiết [Đặc điểm chi tiết thẻ] của thẻ này cho biết (Trạng thái thẻ) là gì?
+
+Mỗi mẫu câu hỏi đã sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin là Trạng thái thẻ.
+
+Selected edge: ('Các loại khách hàng', 'Tên thẻ', 'Trạng thái thẻ', 'Mã SP', 'Loại thẻ', 'Đặc điểm chi tiết thẻ', 'Hình thức thẻ')
+Question template: Dưới đây là một số mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về "Các loại khách hàng":
+
+1. Khách hàng loại [Loại thẻ] có (Các loại khách hàng) nào?
+2. Đặc điểm chi tiết thẻ [Đặc điểm chi tiết thẻ] áp dụng cho (Các loại khách hàng) nào?
+3. Hình thức thẻ [Hình thức thẻ] phù hợp với (Các loại khách hàng) nào?
+4. Mã SP [Mã SP] thuộc về (Các loại khách hàng) nào?
+5. Tên thẻ [Tên thẻ] được thiết kế cho (Các loại khách hàng) nào?
+6. Trạng thái thẻ [Trạng thái thẻ] dành cho (Các loại khách hàng) nào?
+
+Những mẫu câu hỏi trên sử dụng các tổ hợp thông tin khác nhau và chỉ hỏi về "Các loại khách hàng".
+
+Selected edge: ('Mã SP', 'Tên thẻ', 'Trạng thái thẻ', 'Các loại khách hàng', 'Loại thẻ', 'Đặc điểm chi tiết thẻ', 'Hình thức thẻ')
+Question template: Dưới đây là một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Mã SP, mỗi câu hỏi sử dụng ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin cụ thể:
+
+1. Thẻ [Tên thẻ] thuộc loại thẻ [Loại thẻ] có (Mã SP) là gì?
+2. Trạng thái thẻ [Trạng thái thẻ] của thẻ [Tên thẻ] có (Mã SP) là gì?
+3. Loại thẻ [Loại thẻ] dành cho khách hàng [Các loại khách hàng] có (Mã SP) là gì?
+4. Hình thức thẻ [Hình thức thẻ] của thẻ [Tên thẻ] có (Mã SP) là gì?
+5. Thẻ có đặc điểm chi tiết [Đặc điểm chi tiết thẻ] và thuộc loại thẻ [Loại thẻ] có (Mã SP) là gì?
+6. Thẻ [Tên thẻ] có hình thức [Hình thức thẻ] có (Mã SP) là gì?
+7. Thẻ dành cho khách hàng [Các loại khách hàng] và có trạng thái [Trạng thái thẻ] có (Mã SP) là gì?
+8. Đặc điểm chi tiết [Đặc điểm chi tiết thẻ] của thẻ [Tên thẻ] có (Mã SP) là gì?
+
+Selected edge: ('Loại thẻ', 'Tên thẻ', 'Trạng thái thẻ', 'Các loại khách hàng', 'Mã SP', 'Đặc điểm chi tiết thẻ', 'Hình thức thẻ')
+Question template: Dưới đây là một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về "Loại thẻ":
+
+1. [Tên thẻ] có (Loại thẻ) là gì?
+2. Loại thẻ của thẻ [Tên thẻ] dành cho [Các loại khách hàng] là loại nào?
+3. Với mã sản phẩm [Mã SP], (Loại thẻ) là gì?
+4. Thẻ có [Đặc điểm chi tiết thẻ] thuộc (Loại thẻ) nào?
+5. Thẻ với [Hình thức thẻ] có (Loại thẻ) là gì?
+6. Thẻ trong [Trạng thái thẻ] thuộc (Loại thẻ) nào?
+
+Selected edge: ('Đặc điểm chi tiết thẻ', 'Tên thẻ', 'Trạng thái thẻ', 'Các loại khách hàng', 'Mã SP', 'Loại thẻ', 'Hình thức thẻ')
+Question template: 1. Thẻ [Tên thẻ] có (Đặc điểm chi tiết thẻ) gì?
+   Ví dụ cụ thể: Thẻ tín dụng A có đặc điểm chi tiết thẻ gì?
+
+2. (Đặc điểm chi tiết thẻ) của thẻ [Tên thẻ] là gì?
+   Ví dụ cụ thể: Đặc điểm chi tiết thẻ của thẻ tín dụng A là gì?
+
+3. Hãy nêu (Đặc điểm chi tiết thẻ) của [Loại thẻ] [Tên thẻ].
+   Ví dụ cụ thể: Hãy nêu đặc điểm chi tiết thẻ của thẻ tín dụng A.
+
+4. Thẻ [Tên thẻ] dành cho [Các loại khách hàng] có (Đặc điểm chi tiết thẻ) nào?
+   Ví dụ cụ thể: Thẻ tín dụng A dành cho khách hàng cá nhân có đặc điểm chi tiết thẻ nào?
+
+5. [Loại thẻ] [Tên thẻ] có (Đặc điểm chi tiết thẻ) nào đặc biệt?
+   Ví dụ cụ thể: Thẻ tín dụng A có đặc điểm chi tiết thẻ nào đặc biệt?
+
+6. [Hình thức thẻ] của thẻ [Tên thẻ] có (Đặc điểm chi tiết thẻ) gì?
+   Ví dụ cụ thể: Hình thức thẻ tín dụng A có đặc điểm chi tiết thẻ gì?
+
+7. (Đặc điểm chi tiết thẻ) của thẻ [Tên thẻ] với [Mã SP] là gì?
+   Ví dụ cụ thể: Đặc điểm chi tiết thẻ của thẻ tín dụng A với mã SP123 là gì?
+
+8. Thẻ [Tên thẻ] có (Đặc điểm chi tiết thẻ) như thế nào khi ở [Trạng thái thẻ]?
+   Ví dụ cụ thể: Thẻ tín dụng A có đặc điểm chi tiết thẻ như thế nào khi ở trạng thái kích hoạt?
+
+9. [Tên thẻ] có (Đặc điểm chi tiết thẻ) gì khác biệt so với các thẻ khác?
+   Ví dụ cụ thể: Thẻ tín dụng A có đặc điểm chi tiết thẻ gì khác biệt so với các thẻ khác?
+
+10. Hãy mô tả (Đặc điểm chi tiết thẻ) của thẻ [Tên thẻ] dành cho [Các loại khách hàng].
+    Ví dụ cụ thể: Hãy
+
+Selected edge: ('Hình thức thẻ', 'Tên thẻ', 'Trạng thái thẻ', 'Các loại khách hàng', 'Mã SP', 'Loại thẻ', 'Đặc điểm chi tiết thẻ')
+Question template: Dưới đây là một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Hình thức thẻ, với mỗi câu hỏi sử dụng ít nhất hai loại thông tin được cung cấp:
+
+1. Thẻ [Tên thẻ] có (Hình thức thẻ) gì?
+2. (Hình thức thẻ) của thẻ [Tên thẻ] là gì?
+3. Thẻ [Tên thẻ] dành cho [Các loại khách hàng] có (Hình thức thẻ) nào?
+4. (Hình thức thẻ) của thẻ [Tên thẻ] có [Đặc điểm chi tiết thẻ] gì?
+5. Thẻ [Tên thẻ] với [Mã SP] có (Hình thức thẻ) như thế nào?
+6. (Hình thức thẻ) của thẻ [Loại thẻ] là gì?
+7. Thẻ [Tên thẻ] thuộc [Loại thẻ] có (Hình thức thẻ) gì?
+8. (Hình thức thẻ) của thẻ [Tên thẻ] trong [Trạng thái thẻ] là gì?
+
+Những câu hỏi trên đều tuân thủ nguyên tắc sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin cụ thể là Hình thức thẻ.
+
+Selected edge: ('Loại giao dịch', 'Loại thẻ', 'Chi tiết giao dịch')
+Question template: 1. Chi tiết giao dịch [Chi tiết giao dịch] thuộc (Loại giao dịch) nào?
+2. Loại thẻ [Loại thẻ] có (Loại giao dịch) nào?
+3. Với thẻ [Loại thẻ], bạn có thể thực hiện (Loại giao dịch) nào?
+4. (Loại giao dịch) nào có trong chi tiết giao dịch [Chi tiết giao dịch]?
+5. (Loại giao dịch) nào có thể thực hiện được với thẻ [Loại thẻ]?
+6. Chi tiết giao dịch [Chi tiết giao dịch] thuộc loại thẻ [Loại thẻ] có (Loại giao dịch) gì?
+7. Với chi tiết giao dịch [Chi tiết giao dịch], bạn đang thực hiện (Loại giao dịch) nào?
+
+Selected edge: ('Loại thẻ', 'Loại giao dịch', 'Chi tiết giao dịch')
+Question template: Dưới đây là một số mẫu câu hỏi ngắn hỏi về "Loại thẻ" với các tổ hợp thông tin khác nhau:
+
+1. Chi tiết giao dịch [Chi tiết giao dịch] là của loại thẻ (Loại thẻ) nào sau đây?
+2. Loại giao dịch [Loại giao dịch] thường được thực hiện bằng loại thẻ (Loại thẻ) nào?
+3. Với chi tiết giao dịch [Chi tiết giao dịch], loại thẻ (Loại thẻ) nào sẽ phù hợp nhất?
+4. Khi thực hiện loại giao dịch [Loại giao dịch], bạn nên sử dụng loại thẻ (Loại thẻ) nào?
+5. Để có thể thực hiện chi tiết giao dịch [Chi tiết giao dịch], loại thẻ (Loại thẻ) nào là lựa chọn tốt nhất?
+
+Các mẫu câu hỏi này đều cung cấp ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin là "Loại thẻ".
+
+Selected edge: ('Chi tiết giao dịch', 'Loại giao dịch', 'Loại thẻ')
+Question template: 1. Giao dịch [Loại giao dịch] sử dụng thẻ [Loại thẻ] có (Chi tiết giao dịch) là gì?
+2. Loại thẻ [Loại thẻ] có (Chi tiết giao dịch) của giao dịch [Loại giao dịch] như thế nào?
+3. (Chi tiết giao dịch) của giao dịch [Loại giao dịch] với thẻ [Loại thẻ] là gì?
+4. Hãy nêu (Chi tiết giao dịch) của giao dịch [Loại giao dịch] khi sử dụng thẻ [Loại thẻ].
+5. Đối với thẻ [Loại thẻ], (Chi tiết giao dịch) của giao dịch [Loại giao dịch] là gì?
+
+Selected edge: ('Loại hạn mức', 'Chi tiết hạn mức', 'Loại giao dịch', 'Chi tiết giao dịch', 'Tên thẻ', 'Các loại khách hàng')
+Question template: 1. Hạn mức giao dịch [Chi tiết giao dịch] của thẻ [Tên thẻ] là (Loại hạn mức) gì?
+2. Loại hạn mức [Loại hạn mức] áp dụng cho các loại khách hàng nào trong [Các loại khách hàng]?
+3. (Loại hạn mức) của giao dịch [Chi tiết giao dịch] thuộc loại giao dịch nào trong [Loại giao dịch]?
+4. Thẻ [Tên thẻ] có (Loại hạn mức) nào cho chi tiết hạn mức [Chi tiết hạn mức]?
+5. Loại hạn mức [Loại hạn mức] áp dụng cho chi tiết hạn mức nào trong [Chi tiết hạn mức]?
+6. Loại hạn mức [Loại hạn mức] thuộc loại giao dịch nào trong [Loại giao dịch]?
+
+Selected edge: ('Chi tiết hạn mức', 'Loại hạn mức', 'Loại giao dịch', 'Chi tiết giao dịch', 'Tên thẻ', 'Các loại khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi hỏi về "Chi tiết hạn mức" với các tổ hợp thông tin khác nhau:
+
+1. Hạn mức của loại thẻ [Tên thẻ] dành cho (Chi tiết hạn mức) nào?
+2. Giao dịch [Chi tiết giao dịch] có (Chi tiết hạn mức) bao nhiêu?
+3. Khách hàng [Các loại khách hàng] sẽ có (Chi tiết hạn mức) nào?
+4. Loại hạn mức [Loại hạn mức] có (Chi tiết hạn mức) gì?
+5. Loại giao dịch [Loại giao dịch] có (Chi tiết hạn mức) như thế nào?
+
+Các câu hỏi trên sử dụng hai hoặc nhiều loại thông tin được cung cấp, nhưng chỉ hỏi về một loại thông tin cụ thể là "Chi tiết hạn mức".
+
+Selected edge: ('Loại giao dịch', 'Loại hạn mức', 'Chi tiết hạn mức', 'Chi tiết giao dịch', 'Tên thẻ', 'Các loại khách hàng')
+Question template: 1. Với các loại thông tin là Loại giao dịch, Loại hạn mức, Chi tiết hạn mức:
+   - Loại giao dịch [Loại giao dịch] có (Loại hạn mức) nào?
+
+2. Với các loại thông tin là Loại giao dịch, Chi tiết giao dịch, Tên thẻ:
+   - Thẻ [Tên thẻ] có (Chi tiết giao dịch) nào thuộc loại giao dịch [Loại giao dịch]?
+
+3. Với các loại thông tin là Loại giao dịch, Các loại khách hàng, Chi tiết giao dịch:
+   - Khách hàng [Các loại khách hàng] có thể thực hiện (Chi tiết giao dịch) nào trong loại giao dịch [Loại giao dịch]?
+
+4. Với các loại thông tin là Loại giao dịch, Loại hạn mức, Tên thẻ:
+   - Thẻ [Tên thẻ] có (Loại giao dịch) nào với loại hạn mức [Loại hạn mức]?
+
+5. Với các loại thông tin là Loại giao dịch, Chi tiết hạn mức, Tên thẻ:
+   - Thẻ [Tên thẻ] có (Chi tiết hạn mức) nào cho loại giao dịch [Loại giao dịch]?
+
+6. Với các loại thông tin là Loại giao dịch, Các loại khách hàng, Tên thẻ:
+   - Khách hàng [Các loại khách hàng] có thể sử dụng thẻ [Tên thẻ] để thực hiện (Loại giao dịch) nào?
+
+7. Với các loại thông tin là Loại giao dịch, Chi tiết hạn mức, Các loại khách hàng:
+   - Khách hàng [Các loại khách hàng] có thể thực hiện loại giao dịch [Loại giao dịch] với (Chi tiết hạn mức) nào?
+
+Selected edge: ('Chi tiết giao dịch', 'Loại hạn mức', 'Chi tiết hạn mức', 'Loại giao dịch', 'Tên thẻ', 'Các loại khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi ngắn hỏi về Chi tiết giao dịch, sử dụng các loại thông tin được cung cấp:
+
+1. Giao dịch [Loại giao dịch] có (Chi tiết giao dịch) gì?
+2. (Chi tiết giao dịch) của [Tên thẻ] là gì?
+3. Khách hàng [Các loại khách hàng] có (Chi tiết giao dịch) nào?
+4. (Chi tiết giao dịch) của [Loại hạn mức] là gì?
+5. Hãy nêu (Chi tiết giao dịch) của [Chi tiết hạn mức].
+
+Mỗi câu hỏi đều cung cấp ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin (Chi tiết giao dịch).
+
+Selected edge: ('Tên thẻ', 'Loại hạn mức', 'Chi tiết hạn mức', 'Loại giao dịch', 'Chi tiết giao dịch', 'Các loại khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin đã cho:
+
+1. Hạn mức [Chi tiết hạn mức] áp dụng cho thẻ (Tên thẻ) nào?
+2. Loại giao dịch [Loại giao dịch] có thể thực hiện với thẻ (Tên thẻ) nào?
+3. Khách hàng [Các loại khách hàng] nào có thể sử dụng thẻ (Tên thẻ)?
+4. Thẻ (Tên thẻ) có loại hạn mức [Loại hạn mức] nào?
+5. Thẻ (Tên thẻ) hỗ trợ loại giao dịch [Chi tiết giao dịch] nào?
+6. Thẻ (Tên thẻ) có chi tiết hạn mức [Chi tiết hạn mức] nào?
+
+Selected edge: ('Các loại khách hàng', 'Loại hạn mức', 'Chi tiết hạn mức', 'Loại giao dịch', 'Chi tiết giao dịch', 'Tên thẻ')
+Question template: Dưới đây là một vài mẫu câu hỏi hỏi về "Các loại khách hàng" với ít nhất hai loại thông tin được cung cấp:
+
+1. Hạn mức [Loại hạn mức] có thể áp dụng cho (Các loại khách hàng) nào?
+2. Giao dịch [Loại giao dịch] có thể thực hiện bởi (Các loại khách hàng) nào?
+3. Hạn mức [Chi tiết hạn mức] có thể áp dụng cho (Các loại khách hàng) nào?
+4. Giao dịch [Chi tiết giao dịch] có thể thực hiện bởi (Các loại khách hàng) nào?
+5. Thẻ [Tên thẻ] có thể được phát hành cho (Các loại khách hàng) nào?
+
+Ví dụ cụ thể cho từng mẫu câu hỏi:
+1. Hạn mức tín dụng có thể áp dụng cho loại khách hàng nào?
+2. Giao dịch rút tiền có thể thực hiện bởi loại khách hàng nào?
+3. Hạn mức tối đa 500 triệu có thể áp dụng cho loại khách hàng nào?
+4. Giao dịch chuyển khoản quốc tế có thể thực hiện bởi loại khách hàng nào?
+5. Thẻ tín dụng VIP có thể được phát hành cho loại khách hàng nào?
+
+Selected edge: ('Loại hạn mức', 'Loại giao dịch', 'Chi tiết giao dịch', 'Tên thẻ', 'Số lần giao dịch/ngày', 'Các loại khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về "Loại hạn mức" sử dụng các loại thông tin đã cung cấp:
+
+1. Với [Tên thẻ] và [Loại giao dịch]:
+   - Thẻ [Tên thẻ] có (Loại hạn mức) nào cho [Loại giao dịch]?
+
+2. Với [Chi tiết giao dịch] và [Số lần giao dịch/ngày]:
+   - Với [Chi tiết giao dịch], (Loại hạn mức) là gì nếu số lần giao dịch tối đa là [Số lần giao dịch/ngày]?
+
+3. Với [Các loại khách hàng] và [Tên thẻ]:
+   - Khách hàng [Các loại khách hàng] sử dụng thẻ [Tên thẻ] có (Loại hạn mức) nào?
+
+4. Với [Loại giao dịch] và [Chi tiết giao dịch]:
+   - Đối với [Loại giao dịch], (Loại hạn mức) áp dụng cho [Chi tiết giao dịch] là gì?
+
+5. Với [Số lần giao dịch/ngày] và [Các loại khách hàng]:
+   - Khách hàng [Các loại khách hàng] có (Loại hạn mức) nào nếu số lần giao dịch tối đa là [Số lần giao dịch/ngày]?
+
+Những mẫu câu hỏi trên đều tuân theo yêu cầu chỉ hỏi về một loại thông tin (Loại hạn mức) và cung cấp ít nhất hai loại thông tin khác để làm rõ bối cảnh.
+
+Selected edge: ('Loại giao dịch', 'Loại hạn mức', 'Chi tiết giao dịch', 'Tên thẻ', 'Số lần giao dịch/ngày', 'Các loại khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi về "Loại giao dịch" với các tổ hợp thông tin khác nhau:
+
+1. Loại giao dịch và Loại hạn mức:
+   - Hạn mức [Loại hạn mức] áp dụng cho (Loại giao dịch) nào?
+
+2. Loại giao dịch và Chi tiết giao dịch:
+   - Hãy nêu chi tiết [Chi tiết giao dịch] của (Loại giao dịch) nào?
+
+3. Loại giao dịch và Tên thẻ:
+   - Thẻ [Tên thẻ] hỗ trợ (Loại giao dịch) nào?
+
+4. Loại giao dịch và Số lần giao dịch/ngày:
+   - Số lần giao dịch/ngày [Số lần giao dịch/ngày] áp dụng cho (Loại giao dịch) nào?
+
+5. Loại giao dịch và Các loại khách hàng:
+   - Khách hàng [Các loại khách hàng] có thể thực hiện (Loại giao dịch) nào?
+
+Những mẫu câu hỏi này cung cấp các tổ hợp thông tin khác nhau và chỉ hỏi về "Loại giao dịch".
+
+Selected edge: ('Chi tiết giao dịch', 'Loại hạn mức', 'Loại giao dịch', 'Tên thẻ', 'Số lần giao dịch/ngày', 'Các loại khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi về Chi tiết giao dịch với các tổ hợp thông tin khác nhau:
+
+1. Giao dịch loại [Loại giao dịch] có (Chi tiết giao dịch) nào?
+2. Hạn mức [Loại hạn mức] áp dụng cho [Loại giao dịch] có (Chi tiết giao dịch) ra sao?
+3. Thẻ [Tên thẻ] có (Chi tiết giao dịch) cho loại giao dịch [Loại giao dịch] nào?
+4. Khách hàng [Các loại khách hàng] có (Chi tiết giao dịch) khi sử dụng thẻ [Tên thẻ] không?
+5. Số lần giao dịch/ngày [Số lần giao dịch/ngày] đối với [Loại giao dịch] có (Chi tiết giao dịch) gì đặc biệt?
+6. Loại hạn mức [Loại hạn mức] áp dụng cho khách hàng [Các loại khách hàng] có (Chi tiết giao dịch) nào?
+7. Thẻ [Tên thẻ] có (Chi tiết giao dịch) cho khách hàng [Các loại khách hàng] như thế nào?
+8. Loại giao dịch [Loại giao dịch] có (Chi tiết giao dịch) cho số lần giao dịch/ngày [Số lần giao dịch/ngày] ra sao?
+9. Khách hàng [Các loại khách hàng] có (Chi tiết giao dịch) với loại hạn mức [Loại hạn mức] nào?
+10. Số lần giao dịch/ngày [Số lần giao dịch/ngày] cho thẻ [Tên thẻ] có (Chi tiết giao dịch) gì?
+
+Những mẫu câu hỏi này sử dụng ít nhất hai loại thông tin và chỉ hỏi về Chi tiết giao dịch.
+
+Selected edge: ('Tên thẻ', 'Loại hạn mức', 'Loại giao dịch', 'Chi tiết giao dịch', 'Số lần giao dịch/ngày', 'Các loại khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi hỏi về Tên thẻ sử dụng các loại thông tin đã cung cấp:
+
+1. Loại hạn mức [Loại hạn mức] là của thẻ (Tên thẻ) nào?
+2. Loại giao dịch [Loại giao dịch] là của thẻ (Tên thẻ) nào?
+3. Chi tiết giao dịch [Chi tiết giao dịch] là của thẻ (Tên thẻ) nào?
+4. Thẻ (Tên thẻ) có số lần giao dịch/ngày tối đa là bao nhiêu?
+5. Thẻ (Tên thẻ) phù hợp với các loại khách hàng nào?
+6. Thẻ (Tên thẻ) có loại hạn mức nào?
+7. Thẻ (Tên thẻ) hỗ trợ loại giao dịch nào?
+8. Thẻ (Tên thẻ) có chi tiết giao dịch nào?
+9. Số lần giao dịch/ngày của thẻ [Tên thẻ] là bao nhiêu?
+10. Các loại khách hàng nào phù hợp với thẻ [Tên thẻ]?
+
+Những mẫu câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin (Tên thẻ).
+
+Selected edge: ('Số lần giao dịch/ngày', 'Loại hạn mức', 'Loại giao dịch', 'Chi tiết giao dịch', 'Tên thẻ', 'Các loại khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi hỏi về "Số lần giao dịch/ngày" với các tổ hợp thông tin khác nhau:
+
+1. Với thông tin "Loại hạn mức" và "Loại giao dịch":
+   - Hạn mức [Loại hạn mức] cho phép (Số lần giao dịch/ngày) tối đa bao nhiêu lần?
+
+2. Với thông tin "Loại hạn mức" và "Chi tiết giao dịch":
+   - Với hạn mức [Loại hạn mức], (Số lần giao dịch/ngày) tối đa là bao nhiêu lần cho mỗi giao dịch chi tiết?
+
+3. Với thông tin "Tên thẻ" và "Loại giao dịch":
+   - Thẻ [Tên thẻ] cho phép (Số lần giao dịch/ngày) tối đa bao nhiêu lần cho loại giao dịch này?
+
+4. Với thông tin "Tên thẻ" và "Chi tiết giao dịch":
+   - Thẻ [Tên thẻ] cho phép (Số lần giao dịch/ngày) tối đa bao nhiêu lần cho chi tiết giao dịch?
+
+5. Với thông tin "Tên thẻ" và "Các loại khách hàng":
+   - Khách hàng [Các loại khách hàng] sử dụng thẻ [Tên thẻ] có (Số lần giao dịch/ngày) tối đa là bao nhiêu lần?
+
+6. Với thông tin "Loại giao dịch" và "Các loại khách hàng":
+   - Khách hàng [Các loại khách hàng] thực hiện loại giao dịch [Loại giao dịch] có (Số lần giao dịch/ngày) tối đa là bao nhiêu lần?
+
+7. Với thông tin "Chi tiết giao dịch" và "Các loại khách hàng":
+   - Khách hàng [Các loại khách hàng] thực hiện chi tiết giao dịch [Chi tiết giao dịch] có (Số lần giao dịch/ngày) tối đa là bao nhiêu lần?
+
+Selected edge: ('Các loại khách hàng', 'Loại hạn mức', 'Loại giao dịch', 'Chi tiết giao dịch', 'Tên thẻ', 'Số lần giao dịch/ngày')
+Question template: 1. Hạn mức [Loại hạn mức] áp dụng cho (Các loại khách hàng) nào?
+2. Giao dịch [Loại giao dịch] là của (Các loại khách hàng) nào?
+3. Chi tiết giao dịch [Chi tiết giao dịch] thuộc về (Các loại khách hàng) nào?
+4. Thẻ [Tên thẻ] được sử dụng bởi (Các loại khách hàng) nào?
+5. Số lần giao dịch/ngày [Số lần giao dịch/ngày] áp dụng cho (Các loại khách hàng) nào?
+
+Mỗi câu hỏi trên đều cung cấp ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin (Các loại khách hàng), theo đúng yêu cầu của bạn.
+

@@ -1,0 +1,108 @@
+Selected edge:  ('Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template:  1. Thẻ có mã BIN là [Mã BIN] thuộc hạng thẻ nào?
+2. Thẻ có hình ảnh là [Hình ảnh thẻ] có độ dài số thẻ bao nhiêu chữ số?
+3. Thẻ [Tên thẻ] có mã BIN là bao nhiêu?
+4. Thẻ thuộc hạng [Hạng thẻ] có tên gì?
+5. Thẻ có độ dài số thẻ là [Độ dài số thẻ] có tên là gì?
+
+Selected edge:  ('Hạng thẻ', 'Tên thẻ', 'Mã BIN', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template:  1. Thẻ có mã BIN là [Mã BIN] thuộc hạng thẻ nào?
+2. Hình ảnh thẻ của loại thẻ có độ dài số thẻ là [Độ dài số thẻ] như thế nào?
+
+Selected edge:  ('Mã BIN', 'Tên thẻ', 'Hạng thẻ', 'Độ dài số thẻ', 'Hình ảnh thẻ')
+Question template:  1. Mã BIN của thẻ có hạng thẻ là (Hạng thẻ) là gì?
+2. Độ dài số thẻ của thẻ có tên là [Tên thẻ] là bao nhiêu ký tự?
+3. Hình ảnh thẻ có Mã BIN là (Mã BIN) được sử dụng cho loại thẻ nào?
+4. Thẻ có độ dài số thẻ là (Độ dài số thẻ) có Mã BIN là bao nhiêu?
+5. Mã BIN nào tương ứng với thẻ có hình ảnh là (Hình ảnh thẻ)?
+
+Selected edge:  ('Độ dài số thẻ', 'Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Hình ảnh thẻ')
+Question template:  Độ dài số thẻ
+
+1. Số thẻ có độ dài bao nhiêu chữ số?
+2. Số thẻ thuộc loại nào có độ dài (Độ dài số thẻ)?
+3. Hãy cho biết độ dài số thẻ của thẻ có mã BIN là (Mã BIN).
+4. Số thẻ có bao nhiêu ký tự theo chuẩn (Độ dài số thẻ)?
+5. Độ dài số thẻ của thẻ có hạng thẻ là (Hạng thẻ) là bao nhiêu?
+
+Selected edge:  ('Hình ảnh thẻ', 'Tên thẻ', 'Hạng thẻ', 'Mã BIN', 'Độ dài số thẻ')
+Question template:  Hình ảnh thẻ của thẻ (Tên thẻ) thường có đặc điểm gì?
+Bạn có thể mô tả hình ảnh thẻ của thẻ (Tên thẻ) như thế nào?
+Thẻ (Tên thẻ) hiện thị hình ảnh thẻ ở đâu trên thẻ?
+
+Selected edge:  ('Tên thẻ', 'Tên thẻ thay thế')
+Question template:  1. Chi tiết tính năng của thẻ (Tên thẻ) là gì?
+2. Tính năng (Tính năng nổi bật) thuộc về loại thẻ nào trong danh sách sau: (Tên thẻ)?
+3. Thẻ (Tên thẻ) có đặc điểm gì nổi bật?
+4. Hãy mô tả tính năng (Chi tiết tính năng) của thẻ (Tên thẻ).
+5. Tính năng nổi bật của thẻ (Tên thẻ) là gì?
+6. Đặc điểm gì của (Tên thẻ) khiến nó trở nên đặc biệt?
+7. Thẻ (Tên thẻ) có những tính năng gì độc đáo?
+8. Tính năng (Tính năng nổi bật) là một phần của thẻ (Tên thẻ) phải không?
+
+Selected edge:  ('Tên thẻ thay thế', 'Tên thẻ')
+Question template:  1. Tính năng [Tính năng nổi bật] là của thẻ (Tên thẻ thay thế) nào sau đây?
+2. Hãy nêu (Chi tiết tính năng) của [Tính năng nổi bật] của (Tên thẻ thay thế).
+3. Thẻ (Tên thẻ thay thế) có (Tính năng nổi bật) nào?
+4. Hãy cho biết (Chi tiết tính năng) của (Tính năng nổi bật) của [Tên thẻ].
+
+Selected edge:  ('Mã SP', 'Mã SP tại Corebanking mới', 'Thẻ có mã SP thay thế')
+Question template:  1. Mã SP của thẻ có mã SP thay thế là gì?
+2. Thẻ có mã SP thay thế là mã SP nào tại Corebanking mới?
+3. Mã SP tại Corebanking mới của thẻ có mã SP thay thế là bao nhiêu?
+
+Selected edge:  ('Mã SP tại Corebanking mới', 'Mã SP', 'Thẻ có mã SP thay thế')
+Question template:  1. Mã SP của thẻ (Thẻ có mã SP thay thế) tại Corebanking mới là gì?
+2. Thẻ có mã SP thay thế nào được sử dụng tại Corebanking mới?
+3. Mã SP nào được áp dụng cho các thẻ tại Corebanking mới?
+4. Corebanking mới sử dụng mã SP của thẻ nào?
+
+Selected edge:  ('Thẻ có mã SP thay thế', 'Mã SP', 'Mã SP tại Corebanking mới')
+Question template:  Thẻ có mã SP thay thế có mã SP nào?  
+Mã SP của thẻ có mã SP thay thế là gì?
+Thẻ có mã SP thay thế được lưu trữ ở mã SP tại Corebanking mới nào?
+
+Selected edge:  ('Tính năng nổi bật', 'Tên thẻ', 'Chi tiết tính năng')
+Question template:  1. Tính năng [Tính năng nổi bật] là của thẻ (Tên thẻ) nào sau đây?
+2. Hãy nêu (Chi tiết tính năng) của [Tính năng nổi bật] của thẻ (Tên thẻ) đó.
+3. Thẻ (Tên thẻ) có tính năng nổi bật nào?
+4. Vui lòng mô tả (Chi tiết tính năng) của tính năng nổi bật của thẻ (Tên thẻ).
+
+Selected edge:  ('Tên thẻ', 'Tính năng nổi bật', 'Chi tiết tính năng')
+Question template:  1. Tính năng [Tính năng nổi bật] là của thẻ (Tên thẻ) nào sau đây?
+2. Thẻ (Tên thẻ) có tính năng nổi bật gì?
+3. Hãy nêu (Chi tiết tính năng) của (Tính năng nổi bật) của [Tên thẻ].
+4. Thẻ (Tên thẻ) có những tính năng gì đặc biệt?
+5. (Chi tiết tính năng) của tính năng (Tính năng nổi bật) của thẻ [Tên thẻ] là gì?
+
+Selected edge:  ('Chi tiết tính năng', 'Tính năng nổi bật', 'Tên thẻ')
+Question template:  Hãy nêu (Chi tiết tính năng) của (Tính năng nổi bật) của [Tên thẻ].
+
+Ví dụ: Hãy nêu chi tiết tính năng của tính năng nổi bật "Chụp ảnh chất lượng cao" của thẻ tín dụng B.
+
+Selected edge:  ('Thông tin chung về thẻ', 'Loại thẻ', 'Thông tin chi tiết')
+Question template:  1. Thẻ (Thông tin chung về thẻ) nào là loại thẻ (Loại thẻ)?
+2. Hãy nêu (Thông tin chi tiết) của thẻ (Thông tin chung về thẻ) nào?
+3. (Loại thẻ) của thẻ (Thông tin chung về thẻ) là gì?
+4. Thẻ (Thông tin chung về thẻ) có (Thông tin chi tiết) nào?
+
+Selected edge:  ('Loại thẻ', 'Thông tin chung về thẻ', 'Thông tin chi tiết')
+Question template:  1. Tính năng của thẻ (Tên thẻ) là gì?
+2. Thông tin chi tiết về thẻ (Loại thẻ) được mô tả như thế nào?
+3. Thẻ (Tên thẻ) có những thông tin chung nào?
+4. Thẻ (Tên thẻ) có những chi tiết đặc biệt nào?
+5. Thẻ (Tên thẻ) được biết đến với điểm gì nổi bật?
+
+Selected edge:  ('Thông tin chi tiết', 'Thông tin chung về thẻ', 'Loại thẻ')
+Question template:  1. Thông tin chi tiết về thẻ (Tên thẻ) là gì?
+2. Thẻ (Tên thẻ) có thông tin chi tiết nào được cung cấp?
+3. Hãy mô tả thông tin chi tiết của (Tên thẻ).
+4. Thông tin chi tiết về (Tên thẻ) bao gồm những gì?
+5. Thẻ (Tên thẻ) cung cấp thông tin chi tiết về điều gì?
+
+Selected edge:  ('Loại thẻ', 'Lợi ích KH')
+Question template:  1. Thẻ (Loại thẻ) được phát hành bởi ai?
+2. Thẻ (Loại thẻ) có lợi ích gì đối với khách hàng?
+3. Hãy nêu chi tiết tính năng của (Lợi ích KH) của thẻ (Loại thẻ).
+4. Thẻ (Loại thẻ) được sử dụng phổ biến ở đâu?
+5. (Lợi ích KH) của thẻ (Loại thẻ) là gì?
