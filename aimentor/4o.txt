@@ -1,0 +1,673 @@
+Selected edge: ('Tổng quan về công ty', 'Chi tiết công ty')
+Question template: Dưới đây là một số mẫu câu hỏi về "Tổng quan về công ty" với các loại thông tin được cung cấp:
+
+1. Công ty [Chi tiết công ty] có (Tổng quan về công ty) như thế nào?
+2. Hãy nêu (Tổng quan về công ty) của công ty [Chi tiết công ty].
+3. Công ty [Chi tiết công ty] có (Tổng quan về công ty) ra sao?
+4. (Tổng quan về công ty) của công ty [Chi tiết công ty] là gì?
+5. Hãy mô tả (Tổng quan về công ty) của công ty [Chi tiết công ty].
+
+Selected edge: ('Chi tiết công ty', 'Tổng quan về công ty')
+Question template: 1. Công ty [Chi tiết công ty] có (Tổng quan về công ty) nào?
+2. Hãy nêu (Chi tiết công ty) của [Tổng quan về công ty] của công ty.
+3. (Chi tiết công ty) của công ty [Tổng quan về công ty] là gì?
+4. Công ty [Tổng quan về công ty] có (Chi tiết công ty) gì đặc biệt?
+5. Hãy liệt kê (Chi tiết công ty) của công ty [Tổng quan về công ty].
+
+Selected edge: ('Công cụ hỗ trợ', 'Giới thiệu ứng dụng', 'Minh họa ứng dụng')
+Question template: 1. Công cụ hỗ trợ nào có (Giới thiệu ứng dụng) là [Giới thiệu ứng dụng]?
+2. Hãy nêu (Minh họa ứng dụng) của [Công cụ hỗ trợ] [Tên công cụ hỗ trợ].
+3. [Công cụ hỗ trợ] nào có (Minh họa ứng dụng) như [Minh họa ứng dụng]?
+4. Công cụ hỗ trợ [Tên công cụ hỗ trợ] có (Giới thiệu ứng dụng) nào?
+5. Hãy nêu (Giới thiệu ứng dụng) của [Công cụ hỗ trợ] [Tên công cụ hỗ trợ].
+6. (Công cụ hỗ trợ) nào có [Giới thiệu ứng dụng] là [Giới thiệu ứng dụng]?
+7. (Công cụ hỗ trợ) nào có [Minh họa ứng dụng] là [Minh họa ứng dụng]?
+8. Hãy nêu (Công cụ hỗ trợ) có [Minh họa ứng dụng] là [Minh họa ứng dụng].
+
+Mỗi câu hỏi trên đều cung cấp ít nhất hai loại thông tin (Công cụ hỗ trợ, Giới thiệu ứng dụng, Minh họa ứng dụng) và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Giới thiệu ứng dụng', 'Công cụ hỗ trợ', 'Minh họa ứng dụng')
+Question template: 1. Ứng dụng [Giới thiệu ứng dụng] sử dụng (Công cụ hỗ trợ) nào?
+2. Công cụ hỗ trợ [Công cụ hỗ trợ] được sử dụng trong (Giới thiệu ứng dụng) nào?
+3. Minh họa ứng dụng [Minh họa ứng dụng] thuộc về (Giới thiệu ứng dụng) nào?
+4. Ứng dụng [Giới thiệu ứng dụng] có (Minh họa ứng dụng) nào?
+5. Công cụ hỗ trợ [Công cụ hỗ trợ] được giới thiệu trong (Minh họa ứng dụng) nào?
+6. Minh họa ứng dụng [Minh họa ứng dụng] sử dụng (Công cụ hỗ trợ) nào?
+
+Selected edge: ('Minh họa ứng dụng', 'Công cụ hỗ trợ', 'Giới thiệu ứng dụng')
+Question template: Dưới đây là một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Minh họa ứng dụng:
+
+1. Minh họa ứng dụng của [Giới thiệu ứng dụng] nào được sử dụng (Công cụ hỗ trợ) nào?
+2. Minh họa ứng dụng nào được dùng để giải thích [Giới thiệu ứng dụng] với (Công cụ hỗ trợ) này?
+3. Công cụ hỗ trợ [Công cụ hỗ trợ] nào được sử dụng trong (Minh họa ứng dụng) của [Giới thiệu ứng dụng]?
+4. Để minh họa [Giới thiệu ứng dụng], (Minh họa ứng dụng) nào được sử dụng với [Công cụ hỗ trợ] này?
+5. Minh họa ứng dụng của [Giới thiệu ứng dụng] được hỗ trợ bởi (Công cụ hỗ trợ) nào?
+
+Selected edge: ('Thuật ngữ sản phẩm', 'Chi tiết thuật ngữ SP')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin "Thuật ngữ sản phẩm" và "Chi tiết thuật ngữ SP":
+
+1. Chi tiết thuật ngữ SP của [Thuật ngữ sản phẩm] là gì?
+2. Thuật ngữ sản phẩm nào có (Chi tiết thuật ngữ SP) sau đây?
+3. Hãy nêu (Chi tiết thuật ngữ SP) của [Thuật ngữ sản phẩm].
+4. [Thuật ngữ sản phẩm] có (Chi tiết thuật ngữ SP) nào?
+5. (Thuật ngữ sản phẩm) nào có chi tiết như sau: [Chi tiết thuật ngữ SP]?
+
+Lưu ý rằng mỗi câu hỏi chỉ hỏi về một loại thông tin cụ thể nhưng cung cấp ít nhất hai loại thông tin khác nhau để đảm bảo tính đa dạng và chi tiết.
+
+Selected edge: ('Chi tiết thuật ngữ SP', 'Thuật ngữ sản phẩm')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin "Chi tiết thuật ngữ SP" và "Thuật ngữ sản phẩm":
+
+1. Thuật ngữ sản phẩm [Thuật ngữ sản phẩm] có (Chi tiết thuật ngữ SP) gì?
+2. Hãy nêu (Chi tiết thuật ngữ SP) của [Thuật ngữ sản phẩm].
+3. (Chi tiết thuật ngữ SP) nào liên quan đến thuật ngữ sản phẩm [Thuật ngữ sản phẩm]?
+4. Thuật ngữ sản phẩm nào có (Chi tiết thuật ngữ SP) là [Chi tiết thuật ngữ SP]?
+
+Ví dụ cụ thể:
+
+1. Thuật ngữ sản phẩm "Thẻ tín dụng A" có chi tiết thuật ngữ SP gì?
+2. Hãy nêu chi tiết thuật ngữ SP của "Thẻ tín dụng A".
+3. Chi tiết thuật ngữ SP nào liên quan đến thuật ngữ sản phẩm "Thẻ tín dụng A"?
+4. Thuật ngữ sản phẩm nào có chi tiết thuật ngữ SP là "Miễn phí thường niên"?
+
+Selected edge: ('Tên sản phẩm', 'Mô tả sản phẩm')
+Question template: Dưới đây là một vài mẫu câu hỏi ngắn hỏi về Tên sản phẩm dựa trên tổ hợp thông tin "Tên sản phẩm" và "Mô tả sản phẩm":
+
+1. Sản phẩm nào có mô tả là [Mô tả sản phẩm]?
+2. Mô tả [Mô tả sản phẩm] thuộc về sản phẩm nào (Tên sản phẩm)?
+3. (Tên sản phẩm) nào có mô tả là [Mô tả sản phẩm]?
+4. [Mô tả sản phẩm] là mô tả của (Tên sản phẩm) nào?
+5. (Tên sản phẩm) nào được mô tả như sau: [Mô tả sản phẩm]?
+
+Những mẫu câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp ("Tên sản phẩm" và "Mô tả sản phẩm") và chỉ hỏi về một loại thông tin (Tên sản phẩm).
+
+Selected edge: ('Mô tả sản phẩm', 'Tên sản phẩm')
+Question template: 1. Mô tả [Tên sản phẩm] là gì?
+2. Sản phẩm [Tên sản phẩm] có (Mô tả sản phẩm) gì?
+3. Hãy nêu (Mô tả sản phẩm) của [Tên sản phẩm].
+4. Sản phẩm nào có (Mô tả sản phẩm) là [Mô tả sản phẩm]?
+5. Hãy cho biết (Mô tả sản phẩm) của sản phẩm [Tên sản phẩm].
+6. (Mô tả sản phẩm) của [Tên sản phẩm] là gì?
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Chi tiết SA')
+Question template: Dưới đây là một số mẫu câu hỏi ngắn hỏi về "Vai trò, trách nhiệm của SA" sử dụng các loại thông tin đã được cung cấp:
+
+1. Vai trò, trách nhiệm của SA [Chi tiết SA] là gì?
+2. Trách nhiệm nào của SA bao gồm [Chi tiết SA]?
+3. SA có trách nhiệm [Chi tiết SA] không?
+4. Hãy nêu (Vai trò, trách nhiệm của SA) liên quan đến [Chi tiết SA].
+5. Trong [Chi tiết SA], SA đảm nhận (Vai trò, trách nhiệm của SA) gì?
+
+Những mẫu câu hỏi trên đều kết hợp ít nhất hai loại thông tin (Vai trò, trách nhiệm của SA và Chi tiết SA) và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Chi tiết SA', 'Vai trò, trách nhiệm của SA')
+Question template: Dưới đây là một số mẫu câu hỏi ngắn hỏi về "Chi tiết SA" và "Vai trò, trách nhiệm của SA":
+
+1. Hãy nêu (Chi tiết SA) của [Vai trò, trách nhiệm của SA].
+   - Ví dụ cụ thể: Hãy nêu chi tiết SA của việc quản lý dự án.
+
+2. (Chi tiết SA) nào liên quan đến [Vai trò, trách nhiệm của SA]?
+   - Ví dụ cụ thể: Chi tiết SA nào liên quan đến việc phân tích yêu cầu?
+
+3. Để thực hiện [Vai trò, trách nhiệm của SA], cần những (Chi tiết SA) gì?
+   - Ví dụ cụ thể: Để thực hiện việc lập kế hoạch dự án, cần những chi tiết SA gì?
+
+4. [Vai trò, trách nhiệm của SA] bao gồm những (Chi tiết SA) nào?
+   - Ví dụ cụ thể: Quản lý rủi ro bao gồm những chi tiết SA nào?
+
+5. (Chi tiết SA) nào cần thiết cho [Vai trò, trách nhiệm của SA]?
+   - Ví dụ cụ thể: Chi tiết SA nào cần thiết cho việc giám sát tiến độ dự án?
+
+Selected edge: ('Thâm niên SA', 'Hệ số thâm niên')
+Question template: 1. Thâm niên [Thâm niên SA] có (Hệ số thâm niên) là bao nhiêu?
+2. (Thâm niên SA) của [Hệ số thâm niên] là gì?
+
+Selected edge: ('Hệ số thâm niên', 'Thâm niên SA')
+Question template: 1. Hệ số thâm niên của [Thâm niên SA] là bao nhiêu?
+2. Hãy nêu (Hệ số thâm niên) của [Thâm niên SA].
+3. Đối với [Thâm niên SA], (Hệ số thâm niên) là gì?
+4. (Hệ số thâm niên) của [Thâm niên SA] được tính như thế nào?
+
+Selected edge: ('Các khoản thu nhập và khấu trừ', 'Thuộc tính khoản thu nhập, khấu trừ', 'Công thức tính')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin đã cho:
+
+1. Thuộc tính [Thuộc tính khoản thu nhập, khấu trừ] thuộc về (Các khoản thu nhập và khấu trừ) nào?
+   - Ví dụ: Thuộc tính "không chịu thuế" thuộc về khoản thu nhập và khấu trừ nào?
+
+2. [Các khoản thu nhập và khấu trừ] có (Thuộc tính khoản thu nhập, khấu trừ) nào?
+   - Ví dụ: Tiền lương có thuộc tính khoản thu nhập, khấu trừ nào?
+
+3. Hãy nêu [Công thức tính] của (Các khoản thu nhập và khấu trừ).
+   - Ví dụ: Hãy nêu công thức tính của tiền thưởng.
+
+4. [Các khoản thu nhập và khấu trừ] được tính như thế nào theo (Công thức tính)?
+   - Ví dụ: Tiền lương được tính như thế nào theo công thức tính?
+
+5. (Thuộc tính khoản thu nhập, khấu trừ) được áp dụng cho [Các khoản thu nhập và khấu trừ] nào?
+   - Ví dụ: Thuộc tính "miễn thuế" được áp dụng cho khoản thu nhập và khấu trừ nào?
+
+6. (Công thức tính) của [Các khoản thu nhập và khấu trừ] là gì?
+   - Ví dụ: Công thức tính của tiền lương là gì?
+
+Những mẫu câu hỏi trên sử dụng các loại thông tin đã cho và tuân thủ yêu cầu về cấu trúc câu hỏi.
+
+Selected edge: ('Thuộc tính khoản thu nhập, khấu trừ', 'Các khoản thu nhập và khấu trừ', 'Công thức tính')
+Question template: Dưới đây là một số mẫu câu hỏi về Thuộc tính khoản thu nhập, khấu trừ với các tổ hợp thông tin khác nhau:
+
+1. Các khoản thu nhập và khấu trừ [Thuộc tính khoản thu nhập, khấu trừ] ảnh hưởng như thế nào đến (Các khoản thu nhập và khấu trừ)?
+2. Công thức tính [Thuộc tính khoản thu nhập, khấu trừ] được áp dụng như thế nào trong (Công thức tính)?
+3. Thuộc tính khoản thu nhập, khấu trừ [Các khoản thu nhập và khấu trừ] có ảnh hưởng gì đến (Thuộc tính khoản thu nhập, khấu trừ)?
+
+Selected edge: ('Công thức tính', 'Các khoản thu nhập và khấu trừ', 'Thuộc tính khoản thu nhập, khấu trừ')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin bạn đã cung cấp:
+
+1. Công thức tính [Các khoản thu nhập và khấu trừ] là gì?
+2. Hãy nêu (Công thức tính) của [Các khoản thu nhập và khấu trừ].
+3. [Thuộc tính khoản thu nhập, khấu trừ] có (Công thức tính) như thế nào?
+4. Công thức tính của [Thuộc tính khoản thu nhập, khấu trừ] là gì?
+5. Hãy cho biết [Các khoản thu nhập và khấu trừ] có (Công thức tính) nào?
+
+Các câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Tác phong SA', 'Đánh giá tác phong')
+Question template: Dưới đây là một vài mẫu câu hỏi với các tổ hợp thông tin khác nhau về Vai trò, trách nhiệm của SA:
+
+1. Vai trò của [Tác phong SA] là gì?
+   - Vai trò của tác phong SA chuyên nghiệp là gì?
+
+2. Trách nhiệm của SA khi [Đánh giá tác phong] là gì?
+   - Trách nhiệm của SA khi đánh giá tác phong nhân viên là gì?
+
+3. SA có (Vai trò, trách nhiệm) gì khi [Tác phong SA] không đạt yêu cầu?
+   - SA có vai trò, trách nhiệm gì khi tác phong SA không đạt yêu cầu?
+
+4. Hãy nêu (Vai trò, trách nhiệm) của SA trong [Đánh giá tác phong].
+   - Hãy nêu vai trò, trách nhiệm của SA trong đánh giá tác phong nhân viên.
+
+5. [Tác phong SA] ảnh hưởng như thế nào đến (Vai trò, trách nhiệm) của SA?
+   - Tác phong SA chuyên nghiệp ảnh hưởng như thế nào đến vai trò, trách nhiệm của SA?
+
+6. Trong [Đánh giá tác phong], SA có những (Vai trò, trách nhiệm) gì?
+   - Trong đánh giá tác phong, SA có những vai trò, trách nhiệm gì?
+
+Selected edge: ('Tác phong SA', 'Vai trò, trách nhiệm của SA', 'Đánh giá tác phong')
+Question template: Dưới đây là các mẫu câu hỏi ngắn hỏi về Tác phong SA sử dụng các loại thông tin đã cho:
+
+1. [Vai trò, trách nhiệm của SA] yêu cầu (Tác phong SA) như thế nào?
+2. Để đạt [Đánh giá tác phong], (Tác phong SA) cần đạt những tiêu chí gì?
+3. (Tác phong SA) nào phù hợp với [Vai trò, trách nhiệm của SA]?
+4. [Đánh giá tác phong] có thể được thực hiện dựa trên (Tác phong SA) nào?
+5. (Tác phong SA) ảnh hưởng như thế nào đến [Vai trò, trách nhiệm của SA]?
+6. Để có [Đánh giá tác phong] tốt, (Tác phong SA) cần được cải thiện ở điểm nào?
+
+Mỗi mẫu câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin.
+
+Selected edge: ('Đánh giá tác phong', 'Vai trò, trách nhiệm của SA', 'Tác phong SA')
+Question template: Dưới đây là một số mẫu câu hỏi ngắn hỏi về Đánh giá tác phong, sử dụng các loại thông tin đã cung cấp:
+
+1. Vai trò, trách nhiệm của [Vai trò, trách nhiệm của SA] là gì trong (Đánh giá tác phong)?
+2. Đánh giá [Đánh giá tác phong] của (Tác phong SA) như thế nào?
+3. Tác phong [Tác phong SA] ảnh hưởng đến (Đánh giá tác phong) ra sao?
+4. Vai trò, trách nhiệm của [Vai trò, trách nhiệm của SA] được thể hiện như thế nào trong (Đánh giá tác phong)?
+
+Những mẫu câu hỏi này đều sử dụng ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Ứng xử với CH', 'Đánh giá ứng xử')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin đã cung cấp:
+
+1. Vai trò, trách nhiệm của SA và Ứng xử với CH:
+   - Vai trò, trách nhiệm của SA khi [Ứng xử với CH] là gì?
+
+2. Vai trò, trách nhiệm của SA và Đánh giá ứng xử:
+   - Khi [Đánh giá ứng xử], (Vai trò, trách nhiệm của SA) là gì?
+
+3. Ứng xử với CH và Đánh giá ứng xử:
+   - [Ứng xử với CH] sẽ được (Đánh giá ứng xử) như thế nào?
+
+Selected edge: ('Ứng xử với CH', 'Vai trò, trách nhiệm của SA', 'Đánh giá ứng xử')
+Question template: 1. Trong tình huống [Ứng xử với CH], (Ứng xử với CH) nào là phù hợp?
+2. Hãy nêu (Ứng xử với CH) trong trường hợp [Đánh giá ứng xử] là tích cực.
+3. Khi [Vai trò, trách nhiệm của SA] được xác định, (Ứng xử với CH) sẽ như thế nào?
+4. Đối với [Đánh giá ứng xử] tiêu cực, (Ứng xử với CH) nào cần được thay đổi?
+5. Trong bối cảnh [Vai trò, trách nhiệm của SA], làm thế nào để cải thiện (Ứng xử với CH)?
+6. Khi [Đánh giá ứng xử] là trung lập, (Ứng xử với CH) cần điều chỉnh như thế nào?
+7. Để đạt được [Đánh giá ứng xử] tốt hơn, (Ứng xử với CH) cần thực hiện những gì?
+8. Trong tình huống [Vai trò, trách nhiệm của SA] cụ thể, (Ứng xử với CH) có thể ảnh hưởng như thế nào đến kết quả?
+9. Hãy mô tả (Ứng xử với CH) khi [Đánh giá ứng xử] là xuất sắc.
+10. Khi [Vai trò, trách nhiệm của SA] thay đổi, (Ứng xử với CH) cần điều chỉnh như thế nào?
+
+Selected edge: ('Đánh giá ứng xử', 'Vai trò, trách nhiệm của SA', 'Ứng xử với CH')
+Question template: Dưới đây là một số mẫu câu hỏi về "Đánh giá ứng xử" sử dụng các loại thông tin đã cung cấp:
+
+1. Đánh giá ứng xử của [Vai trò, trách nhiệm của SA] là gì?
+   - Ví dụ: Đánh giá ứng xử của trưởng nhóm là gì?
+
+2. [Ứng xử với CH] được đánh giá như thế nào trong (Đánh giá ứng xử)?
+   - Ví dụ: Ứng xử với khách hàng được đánh giá như thế nào trong đánh giá ứng xử?
+
+3. [Vai trò, trách nhiệm của SA] có (Đánh giá ứng xử) nào?
+   - Ví dụ: Trưởng nhóm có đánh giá ứng xử nào?
+
+4. Hãy nêu (Đánh giá ứng xử) của [Ứng xử với CH].
+   - Ví dụ: Hãy nêu đánh giá ứng xử của việc ứng xử với khách hàng.
+
+5. (Đánh giá ứng xử) của [Vai trò, trách nhiệm của SA] khi [Ứng xử với CH] là gì?
+   - Ví dụ: Đánh giá ứng xử của trưởng nhóm khi ứng xử với khách hàng là gì?
+
+6. [Ứng xử với CH] có (Đánh giá ứng xử) nào của [Vai trò, trách nhiệm của SA]?
+   - Ví dụ: Ứng xử với khách hàng có đánh giá ứng xử nào của trưởng nhóm?
+
+Những mẫu câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp và hỏi về "Đánh giá ứng xử".
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Thâm niên SA')
+Question template: Dưới đây là một vài mẫu câu hỏi ngắn hỏi về "Vai trò, trách nhiệm của SA" sử dụng thông tin "Vai trò, trách nhiệm của SA" và "Thâm niên SA":
+
+1. Đối với [Thâm niên SA], (Vai trò, trách nhiệm của SA) là gì?
+   - Ví dụ cụ thể: Đối với thâm niên SA 5 năm, vai trò, trách nhiệm của SA là gì?
+
+2. SA với [Thâm niên SA] có (Vai trò, trách nhiệm của SA) nào?
+   - Ví dụ cụ thể: SA với thâm niên 3 năm có vai trò, trách nhiệm gì?
+
+3. (Vai trò, trách nhiệm của SA) của SA có [Thâm niên SA] là gì?
+   - Ví dụ cụ thể: Vai trò, trách nhiệm của SA có thâm niên 10 năm là gì?
+
+4. SA với [Thâm niên SA] thường có (Vai trò, trách nhiệm của SA) gì?
+   - Ví dụ cụ thể: SA với thâm niên 2 năm thường có vai trò, trách nhiệm gì?
+
+5. Hãy nêu (Vai trò, trách nhiệm của SA) của SA có [Thâm niên SA].
+   - Ví dụ cụ thể: Hãy nêu vai trò, trách nhiệm của SA có thâm niên 7 năm.
+
+Selected edge: ('Thâm niên SA', 'Vai trò, trách nhiệm của SA')
+Question template: Dưới đây là một vài mẫu câu hỏi ngắn hỏi về Thâm niên SA, sử dụng các loại thông tin đã cung cấp:
+
+1. Vai trò, trách nhiệm của [SA] là gì trong (Thâm niên SA)?
+2. Với (Thâm niên SA) bao nhiêu năm, [SA] thường có những vai trò, trách nhiệm nào?
+3. Thâm niên [SA] cần có để đảm nhận (Vai trò, trách nhiệm của SA) là bao nhiêu?
+4. Để có thể thực hiện [Vai trò, trách nhiệm của SA], (Thâm niên SA) của SA cần tối thiểu là bao nhiêu năm?
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Loại quyền lợi')
+Question template: 1. Vai trò của [SA] là gì và họ có (trách nhiệm) nào?
+2. [SA] có (vai trò) gì trong việc thực hiện [trách nhiệm]?
+3. Những (trách nhiệm) nào thuộc về [vai trò] của [SA]?
+4. [SA] đảm nhận (trách nhiệm) nào trong [vai trò] của họ?
+5. Vai trò của [SA] là gì và họ thực hiện những (trách nhiệm) nào?
+6. [SA] có (trách nhiệm) nào trong việc thực hiện [vai trò] của họ?
+
+Selected edge: ('Loại quyền lợi', 'Vai trò, trách nhiệm của SA')
+Question template: Dưới đây là một số mẫu câu hỏi sử dụng các loại thông tin đã cho:
+
+1. [Vai trò, trách nhiệm của SA] bao gồm những (Loại quyền lợi) nào?
+2. Những [Loại quyền lợi] nào thuộc về (Vai trò, trách nhiệm của SA)?
+3. (Loại quyền lợi) nào có trong [Vai trò, trách nhiệm của SA]?
+4. [Loại quyền lợi] nào đi kèm với (Vai trò, trách nhiệm của SA)?
+
+Những mẫu câu hỏi này đều hỏi về "Loại quyền lợi" và sử dụng thông tin về "Vai trò, trách nhiệm của SA" để cung cấp ngữ cảnh cho câu hỏi.
+
+Selected edge: ('Trích lập dự phòng của doanh nghiệp', 'Chân dung khách hàng')
+Question template: Dưới đây là một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Trích lập dự phòng của doanh nghiệp, sử dụng các loại thông tin đã cho:
+
+1. Trích lập dự phòng của doanh nghiệp:
+   - Trích lập dự phòng của doanh nghiệp [Chân dung khách hàng] là gì?
+
+2. Chân dung khách hàng:
+   - Hãy nêu (Trích lập dự phòng của doanh nghiệp) của [Chân dung khách hàng].
+
+Selected edge: ('Chân dung khách hàng', 'Trích lập dự phòng của doanh nghiệp')
+Question template: Dưới đây là một vài mẫu câu hỏi ngắn hỏi về Chân dung khách hàng, sử dụng các loại thông tin đã cho:
+
+1. Khách hàng [Chân dung khách hàng] có (Trích lập dự phòng của doanh nghiệp) nào?
+2. Hãy nêu (Chân dung khách hàng) của doanh nghiệp có [Trích lập dự phòng của doanh nghiệp] cao nhất.
+3. Doanh nghiệp có [Trích lập dự phòng của doanh nghiệp] thấp nhất thuộc về (Chân dung khách hàng) nào?
+4. (Chân dung khách hàng) nào có [Trích lập dự phòng của doanh nghiệp] đáng chú ý nhất?
+5. Trích lập dự phòng của doanh nghiệp là [Trích lập dự phòng của doanh nghiệp] thuộc về (Chân dung khách hàng) nào?
+
+Những câu hỏi trên sử dụng các loại thông tin đã cung cấp và hỏi về Chân dung khách hàng.
+
+Selected edge: ('Mức trích lập dự phòng chung', 'Chân dung khách hàng')
+Question template: Dưới đây là một số mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Mức trích lập dự phòng chung:
+
+1. Mức trích lập dự phòng chung cho [Chân dung khách hàng] là bao nhiêu?
+2. Hãy nêu (Mức trích lập dự phòng chung) của [Chân dung khách hàng] loại A?
+3. Đối với [Chân dung khách hàng] loại A, (Mức trích lập dự phòng chung) được áp dụng như thế nào?
+4. [Chân dung khách hàng] loại B có (Mức trích lập dự phòng chung) là bao nhiêu?
+5. (Mức trích lập dự phòng chung) cho [Chân dung khách hàng] loại C là gì?
+
+Mỗi câu hỏi sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Chân dung khách hàng', 'Mức trích lập dự phòng chung')
+Question template: Dưới đây là một vài mẫu câu hỏi về "Chân dung khách hàng" với các tổ hợp thông tin khác nhau từ "Chân dung khách hàng" và "Mức trích lập dự phòng chung":
+
+1. Chân dung khách hàng [Chân dung khách hàng] có (Mức trích lập dự phòng chung) như thế nào?
+2. (Chân dung khách hàng) nào có [Mức trích lập dự phòng chung] là X?
+3. Hãy nêu (Chân dung khách hàng) của [Mức trích lập dự phòng chung] Y.
+
+Những mẫu câu hỏi trên cung cấp ít nhất hai loại thông tin nhưng chỉ hỏi về một loại thông tin cụ thể, đảm bảo tính hợp lý và đáp ứng yêu cầu đặt ra.
+
+Selected edge: ('Nhóm nợ', 'Tỷ lệ trích lập dự phòng')
+Question template: 1. Tỷ lệ trích lập dự phòng của [Nhóm nợ] là bao nhiêu?
+2. Hãy nêu (Tỷ lệ trích lập dự phòng) của [Nhóm nợ].
+3. [Nhóm nợ] nào có (Tỷ lệ trích lập dự phòng) là [Tỷ lệ trích lập dự phòng]?
+4. Đối với [Nhóm nợ], (Tỷ lệ trích lập dự phòng) là gì?
+
+Selected edge: ('Tỷ lệ trích lập dự phòng', 'Nhóm nợ')
+Question template: Dưới đây là một vài mẫu câu hỏi về "Tỷ lệ trích lập dự phòng" sử dụng các loại thông tin được cung cấp:
+
+1. Nhóm nợ [Nhóm nợ] có (Tỷ lệ trích lập dự phòng) là bao nhiêu?
+
+2. Hãy nêu (Tỷ lệ trích lập dự phòng) cho [Nhóm nợ]?
+
+3. Đối với [Nhóm nợ], (Tỷ lệ trích lập dự phòng) là bao nhiêu?
+
+4. Tỷ lệ trích lập dự phòng cho [Nhóm nợ] là (Tỷ lệ trích lập dự phòng) bao nhiêu?
+
+Selected edge: ('Chân dung khách hàng', 'Khoản nợ')
+Question template: 1. Chân dung khách hàng:
+   - Khách hàng [Chân dung khách hàng] có (Khoản nợ) nào không?
+   - (Chân dung khách hàng) nào có khoản nợ [Khoản nợ]?
+
+2. Khoản nợ:
+   - Khoản nợ [Khoản nợ] là của (Chân dung khách hàng) nào?
+   - (Khoản nợ) của khách hàng [Chân dung khách hàng] là bao nhiêu?
+
+3. Kết hợp cả hai loại thông tin:
+   - Khách hàng [Chân dung khách hàng] có khoản nợ [Khoản nợ] không?
+   - (Chân dung khách hàng) nào đang có khoản nợ [Khoản nợ]?
+
+Selected edge: ('Khoản nợ', 'Chân dung khách hàng')
+Question template: Dưới đây là một vài mẫu câu hỏi dựa trên các loại thông tin "Khoản nợ" và "Chân dung khách hàng":
+
+1. Khoản nợ [Chân dung khách hàng] là bao nhiêu?
+2. Hãy nêu (Khoản nợ) của [Chân dung khách hàng].
+3. Với [Chân dung khách hàng], (Khoản nợ) là bao nhiêu?
+4. [Chân dung khách hàng] có (Khoản nợ) là bao nhiêu?
+
+Selected edge: ('Quy định', 'Chi tiết quy định')
+Question template: Dưới đây là một vài mẫu câu hỏi hỏi về Quy định dựa trên các loại thông tin đã cho:
+
+1. Chi tiết [Chi tiết quy định] thuộc (Quy định) nào?
+   Ví dụ: Chi tiết về việc nộp hồ sơ thuộc quy định nào?
+
+2. (Quy định) nào có chi tiết [Chi tiết quy định]?
+   Ví dụ: Quy định nào có chi tiết về việc nộp hồ sơ?
+
+3. Quy định [Quy định] có (Chi tiết quy định) nào?
+   Ví dụ: Quy định về việc nộp hồ sơ có chi tiết quy định nào?
+
+4. Hãy nêu (Chi tiết quy định) của [Quy định].
+   Ví dụ: Hãy nêu chi tiết quy định của quy định về việc nộp hồ sơ.
+
+5. (Quy định) nào được mô tả bởi chi tiết [Chi tiết quy định]?
+   Ví dụ: Quy định nào được mô tả bởi chi tiết về việc nộp hồ sơ?
+
+Những câu hỏi trên đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Chi tiết quy định', 'Quy định')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin "Chi tiết quy định" và "Quy định":
+
+1. Chi tiết [Quy định] bao gồm những (Chi tiết quy định) nào?
+2. Quy định [Chi tiết quy định] thuộc về (Quy định) nào?
+3. Hãy nêu (Chi tiết quy định) của [Quy định].
+4. Để tuân thủ [Quy định], cần phải thực hiện những (Chi tiết quy định) gì?
+5. Quy định [Chi tiết quy định] có những (Chi tiết quy định) nào?
+
+Mỗi mẫu câu hỏi trên sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Thâm niên SA', 'Các mục tiêu doanh số')
+Question template: Dưới đây là một số mẫu câu hỏi hỏi về Thâm niên SA, sử dụng các loại thông tin đã cung cấp:
+
+1. Thâm niên của SA đạt (Thâm niên SA) khi hoàn thành [Các mục tiêu doanh số] nào?
+2. Để đạt được [Các mục tiêu doanh số] nào, SA cần có (Thâm niên SA) bao nhiêu năm?
+3. Để đạt [Các mục tiêu doanh số] cao, SA cần có (Thâm niên SA) như thế nào?
+4. SA có (Thâm niên SA) bao nhiêu năm khi đạt được [Các mục tiêu doanh số] trung bình?
+5. (Thâm niên SA) của SA có ảnh hưởng thế nào đến việc đạt [Các mục tiêu doanh số]?
+
+Những mẫu câu hỏi này đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin.
+
+Selected edge: ('Các mục tiêu doanh số', 'Thâm niên SA')
+Question template: 1. Các mục tiêu doanh số [Thâm niên SA] trong năm nay là gì?
+2. Để đạt được (Các mục tiêu doanh số), cần có [Thâm niên SA] tối thiểu là bao nhiêu?
+3. Các mục tiêu doanh số [Thâm niên SA] đã đạt được trong quý này là gì?
+4. Với [Thâm niên SA], những (Các mục tiêu doanh số) nào đã được đặt ra?
+5. Mức độ hoàn thành (Các mục tiêu doanh số) của [Thâm niên SA] hiện tại là bao nhiêu?
+6. Thâm niên SA [Các mục tiêu doanh số] đã hoàn thành được bao nhiêu phần trăm trong tháng này?
+7. Các mục tiêu doanh số [Thâm niên SA] có thể đạt được bằng những cách nào?
+8. Đối với [Thâm niên SA], các (Các mục tiêu doanh số) nào cần tập trung nhất?
+9. Các mục tiêu doanh số [Thâm niên SA] đặt ra cho quý tới là gì?
+10. Với [Thâm niên SA], cần làm gì để đạt được (Các mục tiêu doanh số)?
+
+Selected edge: ('Các cấp độ của SA', 'Tiêu chí lên cấp bậc')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin đã cung cấp:
+
+1. Các cấp độ của SA và Tiêu chí lên cấp bậc:
+   - Tiêu chí [Tiêu chí lên cấp bậc] là cần thiết để đạt được (Các cấp độ của SA) nào?
+   - Để đạt cấp độ [Các cấp độ của SA], cần đáp ứng (Tiêu chí lên cấp bậc) nào?
+
+2. Tiêu chí lên cấp bậc và Các cấp độ của SA:
+   - Cấp độ [Các cấp độ của SA] yêu cầu (Tiêu chí lên cấp bậc) nào?
+   - (Tiêu chí lên cấp bậc) nào là cần thiết cho cấp độ [Các cấp độ của SA]?
+
+Những mẫu câu hỏi này giúp bạn hỏi về một loại thông tin cụ thể trong khi cung cấp thông tin về hai loại khác nhau.
+
+Selected edge: ('Tiêu chí lên cấp bậc', 'Các cấp độ của SA')
+Question template: Dưới đây là một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Tiêu chí lên cấp bậc, sử dụng các loại thông tin được cung cấp:
+
+1. Để đạt (Tiêu chí lên cấp bậc), cần đạt đến [Các cấp độ của SA] nào?
+2. [Các cấp độ của SA] nào yêu cầu (Tiêu chí lên cấp bậc) cao nhất?
+3. (Tiêu chí lên cấp bậc) để thăng lên [Các cấp độ của SA] là gì?
+4. Để đạt được [Các cấp độ của SA] cao nhất, cần (Tiêu chí lên cấp bậc) nào?
+
+Như vậy, mỗi câu hỏi đều sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Loại quyền lợi', 'Các khoản thu nhập và khấu trừ')
+Question template: 1. Quyền lợi [Loại quyền lợi] áp dụng cho những khoản thu nhập và khấu trừ nào sau đây (Các khoản thu nhập và khấu trừ)?
+
+2. Hãy nêu (Loại quyền lợi) của các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ].
+
+3. Các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ] có những quyền lợi nào (Loại quyền lợi)?
+
+4. Loại quyền lợi [Loại quyền lợi] có những khoản thu nhập và khấu trừ nào (Các khoản thu nhập và khấu trừ)?
+
+5. Bạn có thể liệt kê (Loại quyền lợi) cho các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ] được không?
+
+6. Các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ] có áp dụng (Loại quyền lợi) nào?
+
+7. (Loại quyền lợi) nào áp dụng cho các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ]?
+
+8. Các quyền lợi [Loại quyền lợi] tương ứng với những khoản thu nhập và khấu trừ nào (Các khoản thu nhập và khấu trừ)?
+
+9. Hãy liệt kê những quyền lợi [Loại quyền lợi] liên quan đến các khoản thu nhập và khấu trừ nào (Các khoản thu nhập và khấu trừ)?
+
+10. Đối với các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ], có những loại quyền lợi nào (Loại quyền lợi)?
+
+Selected edge: ('Các khoản thu nhập và khấu trừ', 'Loại quyền lợi')
+Question template: Dưới đây là một số mẫu câu hỏi dựa trên các loại thông tin "Các khoản thu nhập và khấu trừ" và "Loại quyền lợi":
+
+1. Dựa trên "Các khoản thu nhập và khấu trừ" và "Loại quyền lợi":
+   - Loại quyền lợi [Loại quyền lợi] áp dụng cho (Các khoản thu nhập và khấu trừ) nào?
+   - Hãy liệt kê (Các khoản thu nhập và khấu trừ) được hưởng từ [Loại quyền lợi].
+
+2. Dựa trên "Loại quyền lợi" và "Các khoản thu nhập và khấu trừ":
+   - (Loại quyền lợi) nào áp dụng cho [Các khoản thu nhập và khấu trừ] này?
+   - Hãy xác định (Loại quyền lợi) được hưởng từ [Các khoản thu nhập và khấu trừ].
+
+Những mẫu câu hỏi này giúp bạn hiểu rõ hơn về mối quan hệ giữa các khoản thu nhập và khấu trừ với loại quyền lợi tương ứng.
+
+Selected edge: ('Tổng quan về công ty', 'Chân dung KH')
+Question template: 1. Tổng quan về công ty:
+
+   - Công ty [Tổng quan về công ty] có (chức năng chính) gì?
+   - Hãy nêu (lịch sử phát triển) của công ty [Tổng quan về công ty].
+   - Công ty [Tổng quan về công ty] được thành lập vào năm nào?
+   - (Sứ mệnh) của công ty [Tổng quan về công ty] là gì?
+   - (Tầm nhìn) của công ty [Tổng quan về công ty] là gì?
+   - Hãy mô tả (các sản phẩm chính) của công ty [Tổng quan về công ty].
+
+2. Chân dung KH:
+
+   - Khách hàng [Chân dung KH] thường có (nhu cầu) gì?
+   - Đặc điểm (tuổi tác) của khách hàng [Chân dung KH] là gì?
+   - Khách hàng [Chân dung KH] thuộc (phân khúc thị trường) nào?
+   - Khách hàng [Chân dung KH] thường (sử dụng sản phẩm/dịch vụ) nào?
+   - Khách hàng [Chân dung KH] có (thu nhập) trung bình là bao nhiêu?
+   - (Thói quen mua sắm) của khách hàng [Chân dung KH] là gì?
+
+Selected edge: ('Chân dung KH', 'Tổng quan về công ty')
+Question template: Dưới đây là một vài mẫu câu hỏi dựa trên các loại thông tin đã cho:
+
+1. Chân dung KH và Tổng quan về công ty:
+   - KH [Chân dung KH] có (Tổng quan về công ty) nào?
+
+2. Tổng quan về công ty và Chân dung KH:
+   - Hãy nêu (Chân dung KH) của [Tổng quan về công ty].
+
+3. Chân dung KH và Tổng quan về công ty:
+   - KH [Chân dung KH] của công ty [Tổng quan về công ty] có đặc điểm gì?
+
+4. Tổng quan về công ty và Chân dung KH:
+   - Công ty [Tổng quan về công ty] phục vụ KH (Chân dung KH) nào?
+
+Những mẫu câu hỏi này sử dụng thông tin đã cho và chỉ hỏi về một loại thông tin cụ thể.
+
+Selected edge: ('Nhóm sản phẩm', 'Tên sản phẩm', 'Lợi ích sản phẩm', 'Thuật ngữ sản phẩm')
+Question template: 1. Nhóm sản phẩm [Nhóm sản phẩm] bao gồm những (Tên sản phẩm) nào?
+2. Sản phẩm [Tên sản phẩm] thuộc (Nhóm sản phẩm) nào?
+3. Lợi ích [Lợi ích sản phẩm] là của (Nhóm sản phẩm) nào?
+4. Thuật ngữ [Thuật ngữ sản phẩm] được sử dụng cho (Nhóm sản phẩm) nào?
+5. (Nhóm sản phẩm) nào có lợi ích [Lợi ích sản phẩm]?
+6. (Nhóm sản phẩm) nào bao gồm sản phẩm [Tên sản phẩm]?
+7. (Nhóm sản phẩm) nào sử dụng thuật ngữ [Thuật ngữ sản phẩm]?
+8. Sản phẩm nào trong (Nhóm sản phẩm) có lợi ích [Lợi ích sản phẩm]?
+
+Selected edge: ('Tên sản phẩm', 'Nhóm sản phẩm', 'Lợi ích sản phẩm', 'Thuật ngữ sản phẩm')
+Question template: Dưới đây là một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Tên sản phẩm, với các loại thông tin đã cho:
+
+1. Lợi ích [Lợi ích sản phẩm] là của sản phẩm (Tên sản phẩm) nào?
+2. Nhóm [Nhóm sản phẩm] bao gồm sản phẩm (Tên sản phẩm) nào?
+3. Thuật ngữ [Thuật ngữ sản phẩm] được áp dụng cho sản phẩm (Tên sản phẩm) nào?
+4. Sản phẩm có lợi ích [Lợi ích sản phẩm] là (Tên sản phẩm) nào?
+5. Sản phẩm thuộc nhóm [Nhóm sản phẩm] là (Tên sản phẩm) nào?
+6. Sản phẩm với thuật ngữ [Thuật ngữ sản phẩm] là (Tên sản phẩm) nào?
+7. (Tên sản phẩm) nào có lợi ích [Lợi ích sản phẩm]?
+8. (Tên sản phẩm) nào thuộc nhóm [Nhóm sản phẩm]?
+9. (Tên sản phẩm) nào được áp dụng thuật ngữ [Thuật ngữ sản phẩm]?
+
+Các mẫu câu hỏi này sử dụng ít nhất hai loại thông tin được cung cấp và chỉ hỏi về một loại thông tin (Tên sản phẩm).
+
+Selected edge: ('Lợi ích sản phẩm', 'Nhóm sản phẩm', 'Tên sản phẩm', 'Thuật ngữ sản phẩm')
+Question template: Dưới đây là một số mẫu câu hỏi về "Lợi ích sản phẩm" với các tổ hợp thông tin khác nhau:
+
+1. Sản phẩm [Tên sản phẩm] thuộc nhóm [Nhóm sản phẩm] có (lợi ích sản phẩm) gì?
+   - Ví dụ cụ thể: Sản phẩm Kem dưỡng da thuộc nhóm Mỹ phẩm có lợi ích sản phẩm gì?
+
+2. (Lợi ích sản phẩm) của [Tên sản phẩm] thuộc nhóm [Nhóm sản phẩm] là gì?
+   - Ví dụ cụ thể: Lợi ích sản phẩm của Máy lọc nước thuộc nhóm Đồ gia dụng là gì?
+
+3. Sản phẩm nào trong nhóm [Nhóm sản phẩm] có (lợi ích sản phẩm) [Tên sản phẩm]?
+   - Ví dụ cụ thể: Sản phẩm nào trong nhóm Điện tử có lợi ích sản phẩm Tiết kiệm điện?
+
+4. [Thuật ngữ sản phẩm] thuộc nhóm [Nhóm sản phẩm] có (lợi ích sản phẩm) gì?
+   - Ví dụ cụ thể: Công nghệ Nano thuộc nhóm Sản phẩm công nghệ có lợi ích sản phẩm gì?
+
+5. [Tên sản phẩm] với [Thuật ngữ sản phẩm] có (lợi ích sản phẩm) gì?
+   - Ví dụ cụ thể: Máy giặt với công nghệ Inverter có lợi ích sản phẩm gì?
+
+6. (Lợi ích sản phẩm) của sản phẩm [Tên sản phẩm] là gì?
+   - Ví dụ cụ thể: Lợi ích sản phẩm của Sữa rửa mặt là gì?
+
+7. [Nhóm sản phẩm] có sản phẩm nào mang lại (lợi ích sản phẩm) [Thuật ngữ sản phẩm]?
+   - Ví dụ cụ thể: Nhóm Dược phẩm có sản phẩm nào mang lại lợi ích sản phẩm Chống viêm?
+
+Hy vọng những mẫu câu hỏi trên sẽ hữu ích cho bạn!
+
+Selected edge: ('Thuật ngữ sản phẩm', 'Nhóm sản phẩm', 'Tên sản phẩm', 'Lợi ích sản phẩm')
+Question template: 1. Sản phẩm [Tên sản phẩm] thuộc (Thuật ngữ sản phẩm) nào?
+2. Nhóm sản phẩm [Nhóm sản phẩm] có (Thuật ngữ sản phẩm) gì?
+3. Lợi ích sản phẩm [Lợi ích sản phẩm] là của (Thuật ngữ sản phẩm) nào?
+4. (Thuật ngữ sản phẩm) nào thuộc nhóm sản phẩm [Nhóm sản phẩm]?
+5. (Thuật ngữ sản phẩm) nào có lợi ích sản phẩm [Lợi ích sản phẩm]?
+6. (Thuật ngữ sản phẩm) nào tương ứng với tên sản phẩm [Tên sản phẩm]?
+
+Selected edge: ('Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Thâm niên SA', 'Số tiền thưởng cấp bậc')
+Question template: 1. Thu nhập [Các khoản thu nhập và khấu trừ] của cấp độ [Các cấp độ của SA] nào là (Các khoản thu nhập và khấu trừ)?
+2. Hãy nêu (Các khoản thu nhập và khấu trừ) của thâm niên [Thâm niên SA].
+3. Số tiền thưởng cấp bậc [Số tiền thưởng cấp bậc] ảnh hưởng như thế nào đến (Các khoản thu nhập và khấu trừ)?
+4. Các khoản thu nhập và khấu trừ của cấp độ [Các cấp độ của SA] nào là (Các khoản thu nhập và khấu trừ)?
+5. Thâm niên [Thâm niên SA] có ảnh hưởng gì đến (Các khoản thu nhập và khấu trừ)?
+6. Số tiền thưởng cấp bậc [Số tiền thưởng cấp bậc] của cấp độ [Các cấp độ của SA] nào ảnh hưởng đến (Các khoản thu nhập và khấu trừ)?
+7. Hãy nêu (Các khoản thu nhập và khấu trừ) của cấp độ [Các cấp độ của SA] với thâm niên [Thâm niên SA].
+
+Selected edge: ('Các cấp độ của SA', 'Các khoản thu nhập và khấu trừ', 'Thâm niên SA', 'Số tiền thưởng cấp bậc')
+Question template: 1. Cấp độ [Các cấp độ của SA] tương ứng với (Các khoản thu nhập và khấu trừ) nào?
+2. (Các cấp độ của SA) có ảnh hưởng như thế nào đến [Thâm niên SA]?
+3. Để đạt được [Số tiền thưởng cấp bậc], cần phải đạt (Các cấp độ của SA) nào?
+4. (Các cấp độ của SA) có liên quan thế nào đến [Các khoản thu nhập và khấu trừ]?
+5. Với [Thâm niên SA] là 5 năm, (Các cấp độ của SA) nào sẽ phù hợp nhất?
+6. (Các cấp độ của SA) nào sẽ nhận được [Số tiền thưởng cấp bậc] cao nhất?
+7. Nếu [Các khoản thu nhập và khấu trừ] là 10 triệu đồng, thì (Các cấp độ của SA) nào đạt được?
+8. Nhân viên với [Thâm niên SA] là 3 năm sẽ ở (Các cấp độ của SA) nào?
+
+Selected edge: ('Thâm niên SA', 'Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Số tiền thưởng cấp bậc')
+Question template: Dưới đây là một số mẫu câu hỏi về Thâm niên SA dựa trên các loại thông tin đã cung cấp:
+
+1. Thâm niên [Thâm niên SA] có (Các khoản thu nhập và khấu trừ) nào?
+2. Thâm niên [Thâm niên SA] thuộc (Các cấp độ của SA) nào?
+3. Thâm niên [Thâm niên SA] sẽ nhận được (Số tiền thưởng cấp bậc) là bao nhiêu?
+
+Những câu hỏi này sử dụng ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin cụ thể là Thâm niên SA.
+
+Selected edge: ('Số tiền thưởng cấp bậc', 'Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Thâm niên SA')
+Question template: 1. Số tiền thưởng cấp bậc của [Thâm niên SA] là bao nhiêu?
+2. Số tiền thưởng cấp bậc của [Các cấp độ của SA] là bao nhiêu?
+3. Với [Các khoản thu nhập và khấu trừ], (Số tiền thưởng cấp bậc) của SA là bao nhiêu?
+4. (Số tiền thưởng cấp bậc) của [Các cấp độ của SA] là gì?
+5. Hãy nêu (Số tiền thưởng cấp bậc) của [Thâm niên SA].
+6. (Số tiền thưởng cấp bậc) của [Các khoản thu nhập và khấu trừ] là bao nhiêu?
+
+Selected edge: ('Chân dung khách hàng', 'Nhóm nợ', 'Điều kiện xác định nhóm nợ')
+Question template: Dưới đây là một vài mẫu câu hỏi với các tổ hợp thông tin khác nhau, sử dụng các loại thông tin đã cho ("Chân dung khách hàng", "Nhóm nợ", "Điều kiện xác định nhóm nợ"):
+
+1. Mẫu câu hỏi với thông tin "Chân dung khách hàng" và "Nhóm nợ":
+   - Khách hàng thuộc nhóm [Nhóm nợ] có (Chân dung khách hàng) như thế nào?
+
+2. Mẫu câu hỏi với thông tin "Chân dung khách hàng" và "Điều kiện xác định nhóm nợ":
+   - Điều kiện xác định nhóm nợ [Điều kiện xác định nhóm nợ] áp dụng cho (Chân dung khách hàng) nào?
+
+3. Mẫu câu hỏi với thông tin "Nhóm nợ" và "Điều kiện xác định nhóm nợ":
+   - Khách hàng có (Nhóm nợ) nào khi thỏa mãn [Điều kiện xác định nhóm nợ]?
+
+Các câu hỏi cụ thể có thể là:
+
+1. Khách hàng thuộc nhóm nợ xấu có chân dung khách hàng như thế nào?
+2. Điều kiện xác định nhóm nợ quá hạn áp dụng cho chân dung khách hàng nào?
+3. Khách hàng có nhóm nợ tín chấp nào khi thỏa mãn điều kiện xác định nhóm nợ không có tài sản đảm bảo?
+
+Selected edge: ('Nhóm nợ', 'Chân dung khách hàng', 'Điều kiện xác định nhóm nợ')
+Question template: Dưới đây là một số mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về Nhóm nợ dựa trên các loại thông tin đã cho:
+
+1. Nhóm nợ [Chân dung khách hàng] có (Điều kiện xác định nhóm nợ) nào?
+   Ví dụ cụ thể: Nhóm nợ của khách hàng VIP có điều kiện xác định nhóm nợ nào?
+
+2. Hãy nêu (Nhóm nợ) của [Chân dung khách hàng] với [Điều kiện xác định nhóm nợ] cụ thể.
+   Ví dụ cụ thể: Hãy nêu nhóm nợ của khách hàng doanh nghiệp với điều kiện xác định nhóm nợ cụ thể.
+
+3. (Nhóm nợ) nào áp dụng cho [Chân dung khách hàng] với [Điều kiện xác định nhóm nợ]?
+   Ví dụ cụ thể: Nhóm nợ nào áp dụng cho khách hàng cá nhân với điều kiện xác định nhóm nợ là nợ quá hạn?
+
+4. [Chân dung khách hàng] có (Nhóm nợ) nào với [Điều kiện xác định nhóm nợ] cụ thể?
+   Ví dụ cụ thể: Khách hàng cá nhân có nhóm nợ nào với điều kiện xác định là nợ xấu?
+
+5. [Điều kiện xác định nhóm nợ] nào áp dụng cho (Nhóm nợ) của [Chân dung khách hàng]?
+   Ví dụ cụ thể: Điều kiện xác định nhóm nợ nào áp dụng cho nhóm nợ của khách hàng doanh nghiệp?
+
+Selected edge: ('Điều kiện xác định nhóm nợ', 'Chân dung khách hàng', 'Nhóm nợ')
+Question template: Dưới đây là một vài mẫu câu hỏi hỏi về Điều kiện xác định nhóm nợ:
+
+1. Nhóm nợ [Nhóm nợ] được xác định dựa trên (Điều kiện xác định nhóm nợ) nào?
+2. Để xác định nhóm nợ của [Chân dung khách hàng], cần (Điều kiện xác định nhóm nợ) gì?
+3. (Điều kiện xác định nhóm nợ) nào áp dụng cho nhóm nợ [Nhóm nợ]?
+4. Đối với khách hàng [Chân dung khách hàng], cần (Điều kiện xác định nhóm nợ) để xếp vào nhóm nợ nào?
+5. Việc xác định nhóm nợ [Nhóm nợ] dựa trên những (Điều kiện xác định nhóm nợ) gì?
+6. (Điều kiện xác định nhóm nợ) để phân loại nhóm nợ của [Chân dung khách hàng] là gì?
+7. Cần có (Điều kiện xác định nhóm nợ) gì để xếp khách hàng [Chân dung khách hàng] vào nhóm nợ [Nhóm nợ]?
+
+Các mẫu câu hỏi trên đều sử dụng ít nhất hai loại thông tin và chỉ hỏi về một loại thông tin, đảm bảo sự logic và tính hợp lý trong câu hỏi.
+

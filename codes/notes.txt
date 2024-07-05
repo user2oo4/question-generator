@@ -1,0 +1,1 @@
+- Better column names for better questions (write in full words, get rid of unnecessary words)

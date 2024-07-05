@@ -4,10 +4,10 @@ import random
 # OpenAI API details
 OPENAI_API_KEY = 'sk-proj-WrQEyGR97nSKE9f1gCh4T3BlbkFJYq53eFWa0i8ewJ7HYKTP'  # Make sure to replace with your actual OpenAI API key
 OPENAI_MODEL_ENDPOINT = 'gpt-4o'  # Chat model
-folder_path = 'banking/'
+folder_path = 'aimentor/'
 vertices_path = folder_path + 'knowledge_vertices.py'
 graph_path = folder_path + 'knowledge_graph.py'
-output_path = folder_path + '4o.txt'
+output_path = folder_path + 'filtered_template.txt'
 
 def openai_chat_completion(prompt, **kwargs):
     max_tokens = kwargs.get('max_tokens', 500)
@@ -29,6 +29,7 @@ def openai_chat_completion(prompt, **kwargs):
 
     return response['choices'][0]['message']['content'].replace('\'', '\"').encode('utf-8')
 
+
 # Example knowledge graph
 knowledge_vertices = {}
 
@@ -46,7 +47,7 @@ with open(output_path, 'w', encoding='utf-8') as output_file:
         output_file.write(f'Selected edge: {selected_edge}\n')
         # generate template
         question_prompt = (
-            f'Giả sử có những loại thông tin như sau: {selected_edge}. Hãy tạo ra một vài mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về {selected_edge[0]}.'
+            f'Giả sử có những loại thông tin như sau: {selected_edge}. Hãy tạo ra một mẫu câu hỏi làm câu hỏi trả lời ngắn hỏi về {selected_edge[0]}.'
             f'Ví dụ, nếu các loại thông tin là Tên thẻ, Tính năng nổi bật, Chi tiết tính năng và hỏi về tên thẻ, mẫu câu hỏi có thể là: '
             f'Tính năng [Tính năng nổi bật] là của thẻ (tên thẻ) nào sau đây?'
             f'Nếu hỏi về Chi tiết tính năng, mẫu câu hỏi có thể là:'
@@ -55,7 +56,7 @@ with open(output_path, 'w', encoding='utf-8') as output_file:
             f'Ví dụ với mẫu câu hỏi: thẻ [Tên thẻ] có (Tính năng nổi bật) nào?, câu hỏi cụ thể có thể là: Thẻ tín dụng A có tính năng nổi bật nào?'
             f'Mỗi câu hỏi cần có ít nhất hai loại thông tin được cung cấp, nhưng chỉ hỏi về một loại thông tin (sử dụng ngoặc ()). Thêm ngoặc [] và () như trên.'
             f'Chỉ sử dụng các loại thông tin được cung cấp và không cần thêm thông tin cụ thể nào. Với các mẫu câu hỏi khác nhau, hãy chọn những tổ hợp thông tin khác nhau.'
-            f'Mỗi tổ hợp thông tin chỉ cần một mẫu câu hỏi. Có thể loại đi những câu hỏi không hợp lý.'
+            f'Hãy viết {selected_edge} ngay cạnh từng câu hỏi (trên cùng một hàng) để dễ nhận biết.'
         )
         question_template = openai_chat_completion(question_prompt)
         output_file.write(f'Question template: {question_template.decode()}\n\n')

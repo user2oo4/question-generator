@@ -1,0 +1,8 @@
+("Thuật ngữ sản phẩm", "Chi tiết thuật ngữ SP"): Thuật ngữ [Thuật ngữ sản phẩm] có (Chi tiết thuật ngữ SP) gì?
+("Chi tiết thuật ngữ SP", "Thuật ngữ sản phẩm"): (Chi tiết thuật ngữ SP) của [Thuật ngữ sản phẩm] là gì?
+("Tên sản phẩm", "Mô tả sản phẩm"): [Tên sản phẩm] có mô tả (Mô tả sản phẩm) nào?
+("Thâm niên SA", "Hệ số thâm niên"): (Hệ số thâm niên) của [Thâm niên SA] là bao nhiêu?
+("Nhóm nợ", "Tỷ lệ trích lập dự phòng"): Nhóm nợ [Nhóm nợ] có (Tỷ lệ trích lập dự phòng) là bao nhiêu?
+("Quy định", "Chi tiết quy định"): Hãy nêu (Chi tiết quy định) của [Quy định].
+("Các mục tiêu doanh số", "Thâm niên SA"): Hãy nêu (Các mục tiêu doanh số) của [Thâm niên SA].
+("Các cấp độ của SA", "Tiêu chí lên cấp bậc"): Tiêu chí [Tiêu chí lên cấp bậc] là của cấp độ (Các cấp độ của SA) nào?

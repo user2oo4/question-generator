@@ -1,0 +1,39 @@
+ Thuật ngữ Khoản trả trước có (Chi tiết thuật ngữ SP) gì?
+
+Right answer: Số tiền KH có thể trả trước khi tham gia vay, được tính theo % trên giá sản phẩm
+Wrong answers: ['Các loại giấy tờ tuỳ thân mà KH có thể cung cấp, bao gồm CMND, CCCD hoặc giấy tờ khác theo yêu cầu của khoản vay', 'Số tiền tối đa mà doanh nghiệp bảo hiểm có thể phải trả khi phát sinh sự kiện bảo hiểm hoặc là mức trách nhiệm tối đa của doanh nghiệp bảo hiểm theo một HĐ bồi thường, được ghi rõ trong HĐ bảo hiểm', 'Người được hưởng số tiền mà doanh nghiệp bảo hiểm bồi thường hoặc chi trả khi xảy ra sự kiện bảo hiểm']
+
+ (Chi tiết thuật ngữ SP) của Khoản trả trước là gì?
+
+Right answer: Số tiền KH có thể trả trước khi tham gia vay, được tính theo % trên giá sản phẩm
+Wrong answers: ['Số tiền còn lại sau khi KH thanh toán khoản trả trước, chưa bao gồm phí bảo hiểm', 'Khoản tiền mà người tham gia bảo hiểm trả cho doanh nghiệp bảo hiểm, để đổi lấy việc doanh nghiệp bảo hiểm bồi thường hoặc trả tiền bảo hiểm như đã cam kết trong HĐ bảo hiểm', 'Người được hưởng số tiền mà doanh nghiệp bảo hiểm bồi thường hoặc chi trả khi xảy ra sự kiện bảo hiểm']
+
+ Bảo hiểm tai nạn - PA có mô tả (Mô tả sản phẩm) nào?
+
+Right answer: Dành cho KH điều trị do bị tai nạn
+Wrong answers: ['Cho vay tiền mặt, dành cho những KH đã từng vay mua hàng trả góp tại Home Credit', 'Dành cho KH điều trị do bị bệnh, bị tai nạn', 'Cho vay để mua điện thoại, laptop, máy tính bảng, v.v']
+
+ (Hệ số thâm niên) của Trên 5 năm là bao nhiêu?
+
+Right answer: 1.5
+Wrong answers: ['1.2', 'nan', '1.0']
+
+ Nhóm nợ Nhóm nợ 1: Nợ đủ tiêu chuẩn có (Tỷ lệ trích lập dự phòng) là bao nhiêu?
+
+Right answer: 0%
+Wrong answers: ['5%', '0%', '50%']
+
+ Hãy nêu (Chi tiết quy định) của Tuân thủ về trưng bày POSM.
+
+Right answer: Giữ POSM của mình luôn đẹp, gọn gàng, sạch sẽ
+Wrong answers: ['Tư vấn quyền và nghĩa vụ của KH vay tiêu dùng', 'Đảm bảo có xác nhận của KH về việc đã được công ty cung cấp đầy đủ thông tin để KH xem xét, quyết định trước khi ký kết hợp đồng', 'Khi được hỏi thông tin khác về Home Credit, nếu là Thanh tra Ngân hàng Nhà nước, cán bộ các cơ quan chức năng khác, đưa liên hệ anh Lê Đình Quang']
+
+ Hãy nêu (Các mục tiêu doanh số) của Từ 2 - 4 tháng.
+
+Right answer: Tổng doanh số tháng từ 225 triệu của các sản phẩm CD, TW, CLX ở bước Ký
+Wrong answers: ['Từ 05 HĐ bảo hiểm PPI hoặc TWI Combo ở bước Ký (trừ Proactive, Online)', 'Doanh số LCX ở bước Ký từ 45 triệu (trừ Proactive, Online)', 'Từ 04 HĐ bảo hiểm độc lập ở bước Ký']
+
+ Tiêu chí Doanh số thực đạt trung bình của 2 tháng liên tiếp (bao gồm cả tháng thưởng) từ 600 triệu VND là của cấp độ (Các cấp độ của SA) nào?
+Right answer: Master SA (MSA)
+Wrong answers: ['SA', 'Master SA (MSA)', 'Warrior SA (WSA)']
+

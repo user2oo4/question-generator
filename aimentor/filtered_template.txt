@@ -1,0 +1,645 @@
+Selected edge: ('Tổng quan về công ty', 'Chi tiết công ty')
+Question template: ("Tổng quan về công ty", "Chi tiết công ty") Công ty [Tổng quan về công ty] có (Chi tiết công ty) gì đặc biệt?
+
+("Tổng quan về công ty", "Chi tiết công ty") Hãy nêu (Tổng quan về công ty) của [Chi tiết công ty].
+
+("Tổng quan về công ty", "Chi tiết công ty") [Chi tiết công ty] của công ty (Tổng quan về công ty) là gì?
+
+("Tổng quan về công ty", "Chi tiết công ty") Công ty [Chi tiết công ty] có (Tổng quan về công ty) như thế nào?
+
+Selected edge: ('Chi tiết công ty', 'Tổng quan về công ty')
+Question template: ("Chi tiết công ty", "Tổng quan về công ty")  
+Địa chỉ [Tổng quan về công ty] là (Chi tiết công ty) nào?
+
+("Chi tiết công ty", "Tổng quan về công ty")  
+Hãy cho biết (Chi tiết công ty) của [Tổng quan về công ty].
+
+("Chi tiết công ty", "Tổng quan về công ty")  
+[Công ty] có (Chi tiết công ty) nào?
+
+("Chi tiết công ty", "Tổng quan về công ty")  
+(Tổng quan về công ty) nào có [Chi tiết công ty]?
+
+("Chi tiết công ty", "Tổng quan về công ty")  
+Hãy nêu (Chi tiết công ty) của [Tổng quan về công ty] nào?
+
+Selected edge: ('Công cụ hỗ trợ', 'Giới thiệu ứng dụng', 'Minh họa ứng dụng')
+Question template: ("Công cụ hỗ trợ", "Giới thiệu ứng dụng", "Minh họa ứng dụng") Công cụ hỗ trợ [Công cụ hỗ trợ] được giới thiệu trong (Giới thiệu ứng dụng) nào?
+
+("Công cụ hỗ trợ", "Giới thiệu ứng dụng", "Minh họa ứng dụng") Ứng dụng [Giới thiệu ứng dụng] có (Công cụ hỗ trợ) nào?
+
+("Công cụ hỗ trợ", "Giới thiệu ứng dụng", "Minh họa ứng dụng") Minh họa ứng dụng [Minh họa ứng dụng] được sử dụng cho (Công cụ hỗ trợ) nào?
+
+("Công cụ hỗ trợ", "Giới thiệu ứng dụng", "Minh họa ứng dụng") Giới thiệu ứng dụng [Giới thiệu ứng dụng] có (Minh họa ứng dụng) nào liên quan đến [Công cụ hỗ trợ]?
+
+("Công cụ hỗ trợ", "Giới thiệu ứng dụng", "Minh họa ứng dụng") Công cụ hỗ trợ [Công cụ hỗ trợ] được minh họa trong (Minh họa ứng dụng) nào?
+
+Selected edge: ('Giới thiệu ứng dụng', 'Công cụ hỗ trợ', 'Minh họa ứng dụng')
+Question template: 1. ("Giới thiệu ứng dụng", "Công cụ hỗ trợ", "Minh họa ứng dụng"): Ứng dụng [Giới thiệu ứng dụng] sử dụng (Công cụ hỗ trợ) nào?
+2. ("Giới thiệu ứng dụng", "Công cụ hỗ trợ", "Minh họa ứng dụng"): Hãy nêu (Giới thiệu ứng dụng) của [Minh họa ứng dụng].
+3. ("Giới thiệu ứng dụng", "Công cụ hỗ trợ", "Minh họa ứng dụng"): (Giới thiệu ứng dụng) nào có [Minh họa ứng dụng] này?
+4. ("Giới thiệu ứng dụng", "Công cụ hỗ trợ", "Minh họa ứng dụng"): Ứng dụng [Minh họa ứng dụng] có (Giới thiệu ứng dụng) gì?
+5. ("Giới thiệu ứng dụng", "Công cụ hỗ trợ", "Minh họa ứng dụng"): (Giới thiệu ứng dụng) của [Công cụ hỗ trợ] là gì?
+
+Selected edge: ('Minh họa ứng dụng', 'Công cụ hỗ trợ', 'Giới thiệu ứng dụng')
+Question template: ("Minh họa ứng dụng", "Công cụ hỗ trợ", "Giới thiệu ứng dụng") Công cụ [Công cụ hỗ trợ] được sử dụng để (Minh họa ứng dụng) nào?
+
+("Minh họa ứng dụng", "Công cụ hỗ trợ", "Giới thiệu ứng dụng") Giới thiệu ứng dụng [Giới thiệu ứng dụng] có (Minh họa ứng dụng) nào?
+
+("Minh họa ứng dụng", "Công cụ hỗ trợ", "Giới thiệu ứng dụng") Minh họa ứng dụng [Minh họa ứng dụng] được hỗ trợ bởi (Công cụ hỗ trợ) nào?
+
+("Minh họa ứng dụng", "Công cụ hỗ trợ", "Giới thiệu ứng dụng") Minh họa ứng dụng [Minh họa ứng dụng] được giới thiệu trong (Giới thiệu ứng dụng) nào?
+
+Selected edge: ('Thuật ngữ sản phẩm', 'Chi tiết thuật ngữ SP')
+Question template: ("Thuật ngữ sản phẩm", "Chi tiết thuật ngữ SP")  Thuật ngữ [Thuật ngữ sản phẩm] có (Chi tiết thuật ngữ SP) gì?
+
+("Thuật ngữ sản phẩm", "Chi tiết thuật ngữ SP")  Hãy nêu (Chi tiết thuật ngữ SP) của [Thuật ngữ sản phẩm].
+
+("Thuật ngữ sản phẩm", "Chi tiết thuật ngữ SP")  (Chi tiết thuật ngữ SP) nào liên quan đến thuật ngữ [Thuật ngữ sản phẩm]?
+
+("Thuật ngữ sản phẩm", "Chi tiết thuật ngữ SP")  Thuật ngữ [Thuật ngữ sản phẩm] được mô tả như thế nào qua (Chi tiết thuật ngữ SP)?
+
+("Thuật ngữ sản phẩm", "Chi tiết thuật ngữ SP")  Dựa trên [Thuật ngữ sản phẩm], hãy mô tả (Chi tiết thuật ngữ SP).
+
+Selected edge: ('Chi tiết thuật ngữ SP', 'Thuật ngữ sản phẩm')
+Question template: ("Chi tiết thuật ngữ SP", "Thuật ngữ sản phẩm") Chi tiết của [Thuật ngữ sản phẩm] là gì?
+
+("Chi tiết thuật ngữ SP", "Thuật ngữ sản phẩm") Hãy nêu (Chi tiết thuật ngữ SP) của [Thuật ngữ sản phẩm].
+
+("Chi tiết thuật ngữ SP", "Thuật ngữ sản phẩm") [Thuật ngữ sản phẩm] có (Chi tiết thuật ngữ SP) nào?
+
+("Chi tiết thuật ngữ SP", "Thuật ngữ sản phẩm") (Chi tiết thuật ngữ SP) của [Thuật ngữ sản phẩm] là gì?
+
+("Chi tiết thuật ngữ SP", "Thuật ngữ sản phẩm") Hãy liệt kê (Chi tiết thuật ngữ SP) của [Thuật ngữ sản phẩm].
+
+Selected edge: ('Tên sản phẩm', 'Mô tả sản phẩm')
+Question template: ("Tên sản phẩm", "Mô tả sản phẩm") Sản phẩm nào có mô tả là [Mô tả sản phẩm]?
+
+("Tên sản phẩm", "Mô tả sản phẩm") Mô tả của sản phẩm (Tên sản phẩm) là gì?
+
+("Tên sản phẩm", "Mô tả sản phẩm") [Tên sản phẩm] có mô tả (Mô tả sản phẩm) nào?
+
+("Tên sản phẩm", "Mô tả sản phẩm") Sản phẩm (Tên sản phẩm) có đặc điểm gì nổi bật theo [Mô tả sản phẩm]?
+
+("Tên sản phẩm", "Mô tả sản phẩm") Mô tả sản phẩm [Tên sản phẩm] là gì?
+
+Selected edge: ('Mô tả sản phẩm', 'Tên sản phẩm')
+Question template: ("Mô tả sản phẩm", "Tên sản phẩm") Mô tả [Mô tả sản phẩm] là của sản phẩm (Tên sản phẩm) nào sau đây?
+
+("Mô tả sản phẩm", "Tên sản phẩm") Hãy nêu (Mô tả sản phẩm) của [Tên sản phẩm].
+
+("Mô tả sản phẩm", "Tên sản phẩm") Sản phẩm [Tên sản phẩm] có (Mô tả sản phẩm) nào?
+
+("Mô tả sản phẩm", "Tên sản phẩm") (Mô tả sản phẩm) thuộc về sản phẩm [Tên sản phẩm] nào?
+
+("Mô tả sản phẩm", "Tên sản phẩm") Bạn có thể cho biết (Mô tả sản phẩm) của [Tên sản phẩm] là gì không?
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Chi tiết SA')
+Question template: ("Vai trò, trách nhiệm của SA", "Chi tiết SA") Vai trò của [Chi tiết SA] là gì?
+
+("Vai trò, trách nhiệm của SA", "Chi tiết SA") Hãy nêu (Vai trò, trách nhiệm của SA) của [Chi tiết SA].
+
+("Vai trò, trách nhiệm của SA", "Chi tiết SA") Vai trò và trách nhiệm của [Chi tiết SA] là gì?
+
+("Vai trò, trách nhiệm của SA", "Chi tiết SA") (Vai trò, trách nhiệm của SA) của [Chi tiết SA] là gì?
+
+Selected edge: ('Chi tiết SA', 'Vai trò, trách nhiệm của SA')
+Question template: ("Chi tiết SA", "Vai trò, trách nhiệm của SA") Chi tiết (Chi tiết SA) của [Vai trò, trách nhiệm của SA] là gì?
+
+("Chi tiết SA", "Vai trò, trách nhiệm của SA") Vai trò, trách nhiệm của SA [Chi tiết SA] là gì?
+
+("Chi tiết SA", "Vai trò, trách nhiệm của SA") Hãy nêu (Chi tiết SA) của [Vai trò, trách nhiệm của SA].
+
+("Chi tiết SA", "Vai trò, trách nhiệm của SA") (Chi tiết SA) liên quan đến [Vai trò, trách nhiệm của SA] như thế nào?
+
+("Chi tiết SA", "Vai trò, trách nhiệm của SA") Trong [Vai trò, trách nhiệm của SA], (Chi tiết SA) có ý nghĩa gì?
+
+Selected edge: ('Thâm niên SA', 'Hệ số thâm niên')
+Question template: ("Thâm niên SA", "Hệ số thâm niên") Hệ số thâm niên của [Thâm niên SA] là bao nhiêu?
+
+("Thâm niên SA", "Hệ số thâm niên") [Thâm niên SA] có (Hệ số thâm niên) nào?
+
+("Thâm niên SA", "Hệ số thâm niên") Hãy nêu (Thâm niên SA) tương ứng với [Hệ số thâm niên].
+
+("Thâm niên SA", "Hệ số thâm niên") (Thâm niên SA) có hệ số thâm niên là bao nhiêu?
+
+("Thâm niên SA", "Hệ số thâm niên") Hệ số thâm niên của [Thâm niên SA] là (Hệ số thâm niên) nào?
+
+Selected edge: ('Hệ số thâm niên', 'Thâm niên SA')
+Question template: ("Hệ số thâm niên", "Thâm niên SA") Hệ số thâm niên của [Thâm niên SA] là bao nhiêu?
+
+("Hệ số thâm niên", "Thâm niên SA") [Thâm niên SA] có (Hệ số thâm niên) nào?
+
+("Hệ số thâm niên", "Thâm niên SA") Hãy nêu (Hệ số thâm niên) của [Thâm niên SA].
+
+("Hệ số thâm niên", "Thâm niên SA") Đối với [Thâm niên SA], (Hệ số thâm niên) là gì?
+
+Selected edge: ('Các khoản thu nhập và khấu trừ', 'Thuộc tính khoản thu nhập, khấu trừ', 'Công thức tính')
+Question template: ("Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ", "Công thức tính"): Thuộc tính [Thuộc tính khoản thu nhập, khấu trừ] là của (Các khoản thu nhập và khấu trừ) nào sau đây?
+
+("Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ", "Công thức tính"): Hãy nêu (Công thức tính) của [Các khoản thu nhập và khấu trừ] với [Thuộc tính khoản thu nhập, khấu trừ].
+
+("Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ", "Công thức tính"): (Các khoản thu nhập và khấu trừ) có thuộc tính [Thuộc tính khoản thu nhập, khấu trừ] nào?
+
+("Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ", "Công thức tính"): Công thức tính [Công thức tính] áp dụng cho (Các khoản thu nhập và khấu trừ) nào?
+
+Selected edge: ('Thuộc tính khoản thu nhập, khấu trừ', 'Các khoản thu nhập và khấu trừ', 'Công thức tính')
+Question template: 1. ("Thuộc tính khoản thu nhập, khấu trừ", "Các khoản thu nhập và khấu trừ", "Công thức tính")  
+   Các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ] có (Thuộc tính khoản thu nhập, khấu trừ) gì?
+
+2. ("Thuộc tính khoản thu nhập, khấu trừ", "Các khoản thu nhập và khấu trừ", "Công thức tính")  
+   Thuộc tính khoản thu nhập, khấu trừ [Thuộc tính khoản thu nhập, khấu trừ] của (Các khoản thu nhập và khấu trừ) là gì?
+
+3. ("Thuộc tính khoản thu nhập, khấu trừ", "Các khoản thu nhập và khấu trừ", "Công thức tính")  
+   (Thuộc tính khoản thu nhập, khấu trừ) là thuộc tính của khoản thu nhập, khấu trừ nào trong [Các khoản thu nhập và khấu trừ]?
+
+4. ("Thuộc tính khoản thu nhập, khấu trừ", "Các khoản thu nhập và khấu trừ", "Công thức tính")  
+   Hãy liệt kê (Thuộc tính khoản thu nhập, khấu trừ) của [Các khoản thu nhập và khấu trừ].
+
+5. ("Thuộc tính khoản thu nhập, khấu trừ", "Các khoản thu nhập và khấu trừ", "Công thức tính")  
+   Công thức tính [Công thức tính] áp dụng cho (Thuộc tính khoản thu nhập, khấu trừ) nào?
+
+Selected edge: ('Công thức tính', 'Các khoản thu nhập và khấu trừ', 'Thuộc tính khoản thu nhập, khấu trừ')
+Question template: ("Công thức tính", "Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ") Công thức tính [Các khoản thu nhập và khấu trừ] là gì?
+
+("Công thức tính", "Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ") [Thuộc tính khoản thu nhập, khấu trừ] có (Công thức tính) nào?
+
+("Công thức tính", "Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ") Hãy nêu (Công thức tính) của [Các khoản thu nhập và khấu trừ].
+
+("Công thức tính", "Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ") (Công thức tính) nào áp dụng cho [Thuộc tính khoản thu nhập, khấu trừ]?
+
+("Công thức tính", "Các khoản thu nhập và khấu trừ", "Thuộc tính khoản thu nhập, khấu trừ") Làm thế nào để tính [Các khoản thu nhập và khấu trừ] theo (Công thức tính)?
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Tác phong SA', 'Đánh giá tác phong')
+Question template: 1. ("Vai trò, trách nhiệm của SA", "Tác phong SA", "Đánh giá tác phong")
+   Vai trò và trách nhiệm của SA là gì?
+
+2. ("Tác phong SA", "Vai trò, trách nhiệm của SA", "Đánh giá tác phong")
+   Tác phong [Tác phong SA] giúp SA thực hiện (Vai trò, trách nhiệm của SA) như thế nào?
+
+3. ("Đánh giá tác phong", "Vai trò, trách nhiệm của SA", "Tác phong SA")
+   Đánh giá tác phong [Đánh giá tác phong] của SA ảnh hưởng như thế nào đến (Vai trò, trách nhiệm của SA)?
+
+4. ("Vai trò, trách nhiệm của SA", "Đánh giá tác phong", "Tác phong SA")
+   Vai trò và trách nhiệm [Vai trò, trách nhiệm của SA] của SA có liên quan gì đến (Đánh giá tác phong)?
+
+5. ("Tác phong SA", "Đánh giá tác phong", "Vai trò, trách nhiệm của SA")
+   Tác phong [Tác phong SA] có ảnh hưởng thế nào đến (Đánh giá tác phong) của SA?
+
+Selected edge: ('Tác phong SA', 'Vai trò, trách nhiệm của SA', 'Đánh giá tác phong')
+Question template: ("Tác phong SA", "Vai trò, trách nhiệm của SA", "Đánh giá tác phong")  
+- Vai trò, trách nhiệm của [Tác phong SA] là gì?  
+- Hãy nêu (Đánh giá tác phong) của [Tác phong SA].  
+- Tác phong SA nào có (Vai trò, trách nhiệm của SA) đặc trưng nhất?  
+- Đánh giá tác phong của [Vai trò, trách nhiệm của SA] là gì?  
+- Tác phong SA nào được (Đánh giá tác phong) cao nhất?
+
+Selected edge: ('Đánh giá tác phong', 'Vai trò, trách nhiệm của SA', 'Tác phong SA')
+Question template: ("Đánh giá tác phong", "Vai trò, trách nhiệm của SA", "Tác phong SA") Đánh giá [Đánh giá tác phong] có (Tác phong SA) nào?
+
+("Đánh giá tác phong", "Vai trò, trách nhiệm của SA", "Tác phong SA") Hãy nêu [Vai trò, trách nhiệm của SA] trong (Đánh giá tác phong).
+
+("Đánh giá tác phong", "Vai trò, trách nhiệm của SA", "Tác phong SA") Tác phong [Tác phong SA] được (Đánh giá tác phong) như thế nào?
+
+("Đánh giá tác phong", "Vai trò, trách nhiệm của SA", "Tác phong SA") Vai trò của [Vai trò, trách nhiệm của SA] liên quan đến (Tác phong SA) là gì?
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Ứng xử với CH', 'Đánh giá ứng xử')
+Question template: ("Vai trò, trách nhiệm của SA", "Ứng xử với CH", "Đánh giá ứng xử")  
+Vai trò của SA trong việc [Ứng xử với CH] là gì?  
+
+("Vai trò, trách nhiệm của SA", "Ứng xử với CH", "Đánh giá ứng xử")  
+SA có trách nhiệm gì trong [Đánh giá ứng xử]?  
+
+("Vai trò, trách nhiệm của SA", "Ứng xử với CH", "Đánh giá ứng xử")  
+Hãy nêu (Vai trò, trách nhiệm của SA) trong [Đánh giá ứng xử] của [Ứng xử với CH].
+
+Selected edge: ('Ứng xử với CH', 'Vai trò, trách nhiệm của SA', 'Đánh giá ứng xử')
+Question template: 1. ("Ứng xử với CH", "Vai trò, trách nhiệm của SA", "Đánh giá ứng xử")  
+   Hãy nêu (Ứng xử với CH) của [Vai trò, trách nhiệm của SA].
+
+2. ("Ứng xử với CH", "Vai trò, trách nhiệm của SA", "Đánh giá ứng xử")  
+   Đánh giá [Đánh giá ứng xử] như thế nào khi (Ứng xử với CH)?
+
+3. ("Ứng xử với CH", "Vai trò, trách nhiệm của SA", "Đánh giá ứng xử")  
+   Vai trò của [Vai trò, trách nhiệm của SA] trong (Ứng xử với CH) là gì?
+
+4. ("Ứng xử với CH", "Vai trò, trách nhiệm của SA", "Đánh giá ứng xử")  
+   Khi (Ứng xử với CH), [Đánh giá ứng xử] có vai trò gì?
+
+5. ("Ứng xử với CH", "Vai trò, trách nhiệm của SA", "Đánh giá ứng xử")  
+   Ứng xử với [Ứng xử với CH] được đánh giá như thế nào bởi (Đánh giá ứng xử)?
+
+Selected edge: ('Đánh giá ứng xử', 'Vai trò, trách nhiệm của SA', 'Ứng xử với CH')
+Question template: 1. ("Đánh giá ứng xử", "Vai trò, trách nhiệm của SA", "Ứng xử với CH")
+   Vai trò, trách nhiệm của SA [Vai trò, trách nhiệm của SA] được đánh giá như thế nào trong (Đánh giá ứng xử)?
+
+2. ("Đánh giá ứng xử", "Vai trò, trách nhiệm của SA", "Ứng xử với CH")
+   Ứng xử với CH [Ứng xử với CH] ảnh hưởng như thế nào đến (Đánh giá ứng xử)?
+
+3. ("Đánh giá ứng xử", "Vai trò, trách nhiệm của SA", "Ứng xử với CH")
+   Hãy nêu (Đánh giá ứng xử) của [Vai trò, trách nhiệm của SA] trong [Ứng xử với CH].
+
+4. ("Đánh giá ứng xử", "Vai trò, trách nhiệm của SA", "Ứng xử với CH")
+   Trong trường hợp [Ứng xử với CH], (Đánh giá ứng xử) của [Vai trò, trách nhiệm của SA] là gì?
+
+5. ("Đánh giá ứng xử", "Vai trò, trách nhiệm của SA", "Ứng xử với CH")
+   [Vai trò, trách nhiệm của SA] có (Đánh giá ứng xử) như thế nào trong [Ứng xử với CH]?
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Thâm niên SA')
+Question template: ("Vai trò, trách nhiệm của SA", "Thâm niên SA") Vai trò, trách nhiệm của SA là gì đối với [Thâm niên SA] nào?
+
+("Vai trò, trách nhiệm của SA", "Thâm niên SA") Với [Vai trò, trách nhiệm của SA], yêu cầu (Thâm niên SA) là bao nhiêu?
+
+("Vai trò, trách nhiệm của SA", "Thâm niên SA") [Thâm niên SA] bao nhiêu năm sẽ có (Vai trò, trách nhiệm của SA) nào?
+
+("Vai trò, trách nhiệm của SA", "Thâm niên SA") Để thực hiện [Vai trò, trách nhiệm của SA], cần có (Thâm niên SA) bao lâu?
+
+Selected edge: ('Thâm niên SA', 'Vai trò, trách nhiệm của SA')
+Question template: ("Thâm niên SA", "Vai trò, trách nhiệm của SA") Thâm niên của SA với vai trò [Vai trò, trách nhiệm của SA] là bao lâu?
+
+("Thâm niên SA", "Vai trò, trách nhiệm của SA") Với [Thâm niên SA], SA đảm nhận (Vai trò, trách nhiệm gì)?
+
+("Thâm niên SA", "Vai trò, trách nhiệm của SA") SA có (Thâm niên) bao lâu trong việc thực hiện [Vai trò, trách nhiệm của SA]?
+
+("Thâm niên SA", "Vai trò, trách nhiệm của SA") SA với [Vai trò, trách nhiệm của SA] có (Thâm niên) như thế nào?
+
+("Thâm niên SA", "Vai trò, trách nhiệm của SA") SA đã có [Thâm niên SA] trong việc (Vai trò, trách nhiệm gì)?
+
+Selected edge: ('Vai trò, trách nhiệm của SA', 'Loại quyền lợi')
+Question template: ("Vai trò, trách nhiệm của SA", "Loại quyền lợi") Vai trò, trách nhiệm của [Loại quyền lợi] là gì?
+
+("Vai trò, trách nhiệm của SA", "Loại quyền lợi") Loại quyền lợi nào liên quan đến (Vai trò, trách nhiệm của SA)?
+
+("Vai trò, trách nhiệm của SA", "Loại quyền lợi") Hãy mô tả (Vai trò, trách nhiệm của SA) của [Loại quyền lợi].
+
+("Vai trò, trách nhiệm của SA", "Loại quyền lợi") Đối với [Vai trò, trách nhiệm của SA], có những (Loại quyền lợi) nào?
+
+("Vai trò, trách nhiệm của SA", "Loại quyền lợi") (Vai trò, trách nhiệm của SA) có những [Loại quyền lợi] gì?
+
+Selected edge: ('Loại quyền lợi', 'Vai trò, trách nhiệm của SA')
+Question template: 1. ("Loại quyền lợi", "Vai trò, trách nhiệm của SA")  
+   Quyền lợi [Loại quyền lợi] là của vai trò (Vai trò, trách nhiệm của SA) nào sau đây?
+
+2. ("Loại quyền lợi", "Vai trò, trách nhiệm của SA")  
+   Hãy nêu (Loại quyền lợi) của [Vai trò, trách nhiệm của SA].
+
+3. ("Loại quyền lợi", "Vai trò, trách nhiệm của SA")  
+   Vai trò [Vai trò, trách nhiệm của SA] có (Loại quyền lợi) nào?
+
+4. ("Loại quyền lợi", "Vai trò, trách nhiệm của SA")  
+   (Loại quyền lợi) nào thuộc về vai trò [Vai trò, trách nhiệm của SA]?
+
+5. ("Loại quyền lợi", "Vai trò, trách nhiệm của SA")  
+   Để có [Loại quyền lợi], vai trò (Vai trò, trách nhiệm của SA) phải làm gì?
+
+Selected edge: ('Trích lập dự phòng của doanh nghiệp', 'Chân dung khách hàng')
+Question template: ("Trích lập dự phòng của doanh nghiệp", "Chân dung khách hàng"): Trích lập dự phòng của doanh nghiệp ảnh hưởng thế nào đến [Chân dung khách hàng]?
+
+("Trích lập dự phòng của doanh nghiệp", "Chân dung khách hàng"): [Trích lập dự phòng của doanh nghiệp] có tác động gì đến (Chân dung khách hàng)?
+
+("Trích lập dự phòng của doanh nghiệp", "Chân dung khách hàng"): Hãy nêu (Trích lập dự phòng của doanh nghiệp) của [Chân dung khách hàng] trong bối cảnh hiện tại.
+
+("Trích lập dự phòng của doanh nghiệp", "Chân dung khách hàng"): (Trích lập dự phòng của doanh nghiệp) được thể hiện như thế nào trong [Chân dung khách hàng]?
+
+("Trích lập dự phòng của doanh nghiệp", "Chân dung khách hàng"): Những yếu tố nào của [Chân dung khách hàng] ảnh hưởng đến (Trích lập dự phòng của doanh nghiệp)?
+
+Selected edge: ('Chân dung khách hàng', 'Trích lập dự phòng của doanh nghiệp')
+Question template: ("Chân dung khách hàng", "Trích lập dự phòng của doanh nghiệp") Chân dung khách hàng [Tên khách hàng] có bao nhiêu (Trích lập dự phòng của doanh nghiệp)?
+
+("Chân dung khách hàng", "Trích lập dự phòng của doanh nghiệp") Hãy nêu (Chân dung khách hàng) của doanh nghiệp có [Trích lập dự phòng] là bao nhiêu?
+
+("Chân dung khách hàng", "Trích lập dự phòng của doanh nghiệp") Doanh nghiệp với [Trích lập dự phòng] là bao nhiêu có (Chân dung khách hàng) nào?
+
+("Chân dung khách hàng", "Trích lập dự phòng của doanh nghiệp") (Chân dung khách hàng) của doanh nghiệp có [Trích lập dự phòng] là bao nhiêu?
+
+("Chân dung khách hàng", "Trích lập dự phòng của doanh nghiệp") Hãy nêu chi tiết (Chân dung khách hàng) của doanh nghiệp với [Trích lập dự phòng] là bao nhiêu?
+
+Selected edge: ('Mức trích lập dự phòng chung', 'Chân dung khách hàng')
+Question template: ("Mức trích lập dự phòng chung", "Chân dung khách hàng") Mức trích lập dự phòng chung cho [Chân dung khách hàng] là bao nhiêu?
+
+("Mức trích lập dự phòng chung", "Chân dung khách hàng") Hãy nêu (Mức trích lập dự phòng chung) của [Chân dung khách hàng].
+
+("Mức trích lập dự phòng chung", "Chân dung khách hàng") Đối với [Chân dung khách hàng], mức trích lập dự phòng chung là bao nhiêu?
+
+("Mức trích lập dự phòng chung", "Chân dung khách hàng") Mức trích lập dự phòng chung được áp dụng cho [Chân dung khách hàng] như thế nào?
+
+("Mức trích lập dự phòng chung", "Chân dung khách hàng") Đối với [Chân dung khách hàng], hãy cho biết (Mức trích lập dự phòng chung).
+
+Selected edge: ('Chân dung khách hàng', 'Mức trích lập dự phòng chung')
+Question template: ("Chân dung khách hàng", "Mức trích lập dự phòng chung")  
+Chân dung khách hàng nào có [Mức trích lập dự phòng chung] là (Mức trích lập dự phòng chung)?
+
+("Chân dung khách hàng", "Mức trích lập dự phòng chung")  
+Hãy nêu [Mức trích lập dự phòng chung] của (Chân dung khách hàng).
+
+("Chân dung khách hàng", "Mức trích lập dự phòng chung")  
+[Mức trích lập dự phòng chung] nào áp dụng cho (Chân dung khách hàng) này?
+
+("Chân dung khách hàng", "Mức trích lập dự phòng chung")  
+(Chân dung khách hàng) nào có [Mức trích lập dự phòng chung] là như thế nào?
+
+Selected edge: ('Nhóm nợ', 'Tỷ lệ trích lập dự phòng')
+Question template: ("Nhóm nợ", "Tỷ lệ trích lập dự phòng") Nhóm nợ [Nhóm nợ] có (Tỷ lệ trích lập dự phòng) là bao nhiêu?
+
+("Nhóm nợ", "Tỷ lệ trích lập dự phòng") Tỷ lệ trích lập dự phòng của nhóm nợ (Nhóm nợ) là bao nhiêu?
+
+("Nhóm nợ", "Tỷ lệ trích lập dự phòng") Hãy nêu (Nhóm nợ) có tỷ lệ trích lập dự phòng là [Tỷ lệ trích lập dự phòng].
+
+("Nhóm nợ", "Tỷ lệ trích lập dự phòng") Nhóm nợ nào có tỷ lệ trích lập dự phòng là (Tỷ lệ trích lập dự phòng)?
+
+Selected edge: ('Tỷ lệ trích lập dự phòng', 'Nhóm nợ')
+Question template: ("Tỷ lệ trích lập dự phòng", "Nhóm nợ") Tỷ lệ trích lập dự phòng của [Nhóm nợ] là bao nhiêu?
+
+("Tỷ lệ trích lập dự phòng", "Nhóm nợ") Hãy cho biết (Tỷ lệ trích lập dự phòng) cho [Nhóm nợ].
+
+("Tỷ lệ trích lập dự phòng", "Nhóm nợ") Đối với [Nhóm nợ], (Tỷ lệ trích lập dự phòng) là gì?
+
+("Tỷ lệ trích lập dự phòng", "Nhóm nợ") [Nhóm nợ] có (Tỷ lệ trích lập dự phòng) là bao nhiêu?
+
+("Tỷ lệ trích lập dự phòng", "Nhóm nợ") (Tỷ lệ trích lập dự phòng) của [Nhóm nợ] là gì?
+
+Selected edge: ('Chân dung khách hàng', 'Khoản nợ')
+Question template: ("Chân dung khách hàng", "Khoản nợ"): Khách hàng có [Khoản nợ] nào có (Chân dung khách hàng) như sau?
+
+("Chân dung khách hàng", "Khoản nợ"): Hãy mô tả (Chân dung khách hàng) của khách hàng có [Khoản nợ] này.
+
+("Chân dung khách hàng", "Khoản nợ"): Khoản nợ [Khoản nợ] thuộc về khách hàng có (Chân dung khách hàng) nào?
+
+("Chân dung khách hàng", "Khoản nợ"): Khách hàng có (Chân dung khách hàng) này có [Khoản nợ] nào?
+
+("Chân dung khách hàng", "Khoản nợ"): Hãy nêu (Chân dung khách hàng) của khách hàng có [Khoản nợ] là bao nhiêu?
+
+Selected edge: ('Khoản nợ', 'Chân dung khách hàng')
+Question template: 1. ("Khoản nợ", "Chân dung khách hàng")  
+   Khách hàng [Chân dung khách hàng] có (Khoản nợ) là bao nhiêu?
+
+2. ("Khoản nợ", "Chân dung khách hàng")  
+   Hãy nêu (Khoản nợ) của khách hàng [Chân dung khách hàng].
+
+3. ("Khoản nợ", "Chân dung khách hàng")  
+   Khách hàng [Chân dung khách hàng] có (Khoản nợ) phải trả trong bao lâu?
+
+4. ("Khoản nợ", "Chân dung khách hàng")  
+   (Khoản nợ) của khách hàng [Chân dung khách hàng] có lãi suất bao nhiêu?
+
+5. ("Khoản nợ", "Chân dung khách hàng")  
+   Khách hàng [Chân dung khách hàng] đã thanh toán được bao nhiêu phần trăm (Khoản nợ)?
+
+Selected edge: ('Quy định', 'Chi tiết quy định')
+Question template: 1. ("Quy định", "Chi tiết quy định"): Quy định [Quy định] có (Chi tiết quy định) nào?
+2. ("Quy định", "Chi tiết quy định"): Hãy nêu (Chi tiết quy định) của [Quy định].
+3. ("Quy định", "Chi tiết quy định"): Chi tiết quy định [Chi tiết quy định] thuộc về (Quy định) nào?
+4. ("Quy định", "Chi tiết quy định"): (Quy định) nào có chi tiết quy định [Chi tiết quy định]?
+5. ("Quy định", "Chi tiết quy định"): Quy định [Quy định] bao gồm những (Chi tiết quy định) nào?
+
+Selected edge: ('Chi tiết quy định', 'Quy định')
+Question template: ("Chi tiết quy định", "Quy định") Hãy nêu (Chi tiết quy định) của [Quy định].
+
+("Chi tiết quy định", "Quy định") Quy định [Quy định] có (Chi tiết quy định) gì?
+
+("Chi tiết quy định", "Quy định") Chi tiết quy định của [Quy định] là gì?
+
+("Chi tiết quy định", "Quy định") (Chi tiết quy định) thuộc [Quy định] nào?
+
+("Chi tiết quy định", "Quy định") Quy định [Quy định] bao gồm những (Chi tiết quy định) nào?
+
+Selected edge: ('Thâm niên SA', 'Các mục tiêu doanh số')
+Question template: ("Thâm niên SA", "Các mục tiêu doanh số") Thâm niên [Thâm niên SA] cần đạt để hoàn thành (Các mục tiêu doanh số) là bao nhiêu?
+
+("Thâm niên SA", "Các mục tiêu doanh số") Các mục tiêu doanh số [Các mục tiêu doanh số] có yêu cầu (Thâm niên SA) bao lâu?
+
+("Thâm niên SA", "Các mục tiêu doanh số") Để đạt được [Các mục tiêu doanh số], cần có (Thâm niên SA) bao lâu?
+
+("Thâm niên SA", "Các mục tiêu doanh số") (Thâm niên SA) để đạt được [Các mục tiêu doanh số] là bao nhiêu?
+
+("Thâm niên SA", "Các mục tiêu doanh số") Để đạt được mục tiêu [Các mục tiêu doanh số], cần có (Thâm niên SA) tối thiểu là bao lâu?
+
+Selected edge: ('Các mục tiêu doanh số', 'Thâm niên SA')
+Question template: ("Các mục tiêu doanh số", "Thâm niên SA") Các mục tiêu doanh số của [Thâm niên SA] là gì?
+
+("Các mục tiêu doanh số", "Thâm niên SA") Hãy nêu (Các mục tiêu doanh số) của [Thâm niên SA].
+
+("Các mục tiêu doanh số", "Thâm niên SA") [Thâm niên SA] cần đạt (Các mục tiêu doanh số) nào?
+
+("Các mục tiêu doanh số", "Thâm niên SA") Mức (Các mục tiêu doanh số) của [Thâm niên SA] là bao nhiêu?
+
+("Các mục tiêu doanh số", "Thâm niên SA") [Thâm niên SA] có (Các mục tiêu doanh số) như thế nào?
+
+Selected edge: ('Các cấp độ của SA', 'Tiêu chí lên cấp bậc')
+Question template: 1. ("Các cấp độ của SA", "Tiêu chí lên cấp bậc") 
+   Tiêu chí [Tiêu chí lên cấp bậc] là của cấp độ (Các cấp độ của SA) nào?
+
+2. ("Các cấp độ của SA", "Tiêu chí lên cấp bậc") 
+   Hãy nêu (Tiêu chí lên cấp bậc) của [Các cấp độ của SA].
+
+3. ("Các cấp độ của SA", "Tiêu chí lên cấp bậc") 
+   Cấp độ [Các cấp độ của SA] có (Tiêu chí lên cấp bậc) nào?
+
+4. ("Các cấp độ của SA", "Tiêu chí lên cấp bậc") 
+   Để đạt [Các cấp độ của SA], cần có (Tiêu chí lên cấp bậc) gì?
+
+5. ("Các cấp độ của SA", "Tiêu chí lên cấp bậc") 
+   Hãy liệt kê (Các cấp độ của SA) tương ứng với [Tiêu chí lên cấp bậc].
+
+Selected edge: ('Tiêu chí lên cấp bậc', 'Các cấp độ của SA')
+Question template: 1. ("Tiêu chí lên cấp bậc", "Các cấp độ của SA")  
+   Các cấp độ của SA bao gồm những cấp độ nào theo (Tiêu chí lên cấp bậc)?
+
+2. ("Tiêu chí lên cấp bậc", "Các cấp độ của SA")  
+   Theo [Các cấp độ của SA], (Tiêu chí lên cấp bậc) là gì?
+
+3. ("Tiêu chí lên cấp bậc", "Các cấp độ của SA")  
+   Để đạt được [Các cấp độ của SA], cần đáp ứng những (Tiêu chí lên cấp bậc) nào?
+
+4. ("Tiêu chí lên cấp bậc", "Các cấp độ của SA")  
+   (Tiêu chí lên cấp bậc) để đạt cấp độ [Các cấp độ của SA] là gì?
+
+5. ("Tiêu chí lên cấp bậc", "Các cấp độ của SA")  
+   Hãy liệt kê (Tiêu chí lên cấp bậc) để đạt các cấp độ [Các cấp độ của SA].
+
+Selected edge: ('Loại quyền lợi', 'Các khoản thu nhập và khấu trừ')
+Question template: ("Loại quyền lợi", "Các khoản thu nhập và khấu trừ") Quyền lợi [Loại quyền lợi] áp dụng cho những khoản thu nhập và khấu trừ nào?
+
+("Loại quyền lợi", "Các khoản thu nhập và khấu trừ") Hãy liệt kê các khoản thu nhập và khấu trừ liên quan đến (Loại quyền lợi) [Loại quyền lợi].
+
+("Loại quyền lợi", "Các khoản thu nhập và khấu trừ") (Loại quyền lợi) nào áp dụng cho các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ]?
+
+("Loại quyền lợi", "Các khoản thu nhập và khấu trừ") Các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ] được hưởng những (Loại quyền lợi) nào?
+
+("Loại quyền lợi", "Các khoản thu nhập và khấu trừ") Đối với các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ], quyền lợi nào (Loại quyền lợi) được áp dụng?
+
+Selected edge: ('Các khoản thu nhập và khấu trừ', 'Loại quyền lợi')
+Question template: ("Các khoản thu nhập và khấu trừ", "Loại quyền lợi") Tỷ lệ khấu trừ của [Loại quyền lợi] là bao nhiêu theo (Các khoản thu nhập và khấu trừ)?
+
+("Các khoản thu nhập và khấu trừ", "Loại quyền lợi") Hãy nêu (Các khoản thu nhập và khấu trừ) của [Loại quyền lợi].
+
+("Các khoản thu nhập và khấu trừ", "Loại quyền lợi") (Các khoản thu nhập và khấu trừ) nào áp dụng cho [Loại quyền lợi]?
+
+("Các khoản thu nhập và khấu trừ", "Loại quyền lợi") Loại quyền lợi nào được áp dụng cho (Các khoản thu nhập và khấu trừ)?
+
+("Các khoản thu nhập và khấu trừ", "Loại quyền lợi") Quyền lợi [Loại quyền lợi] có thể nhận được là gì dựa trên (Các khoản thu nhập và khấu trừ)?
+
+Selected edge: ('Tổng quan về công ty', 'Chân dung KH')
+Question template: ("Tổng quan về công ty", "Chân dung KH") Công ty [Tổng quan về công ty] có mục tiêu (Chân dung KH) nào?
+
+("Tổng quan về công ty", "Chân dung KH") Hãy nêu (Tổng quan về công ty) của công ty có [Chân dung KH].
+
+("Tổng quan về công ty", "Chân dung KH") Đặc điểm (Tổng quan về công ty) nào phù hợp với [Chân dung KH]?
+
+("Tổng quan về công ty", "Chân dung KH") Công ty có [Tổng quan về công ty] nào để đáp ứng (Chân dung KH)?
+
+("Tổng quan về công ty", "Chân dung KH") (Tổng quan về công ty) của công ty nào phù hợp với [Chân dung KH] này?
+
+Selected edge: ('Chân dung KH', 'Tổng quan về công ty')
+Question template: ("Chân dung KH", "Tổng quan về công ty") Chân dung của khách hàng [Chân dung KH] thuộc công ty nào sau đây [Tổng quan về công ty]?
+
+("Chân dung KH", "Tổng quan về công ty") Hãy mô tả (Chân dung KH) của công ty [Tổng quan về công ty].
+
+("Chân dung KH", "Tổng quan về công ty") Công ty [Tổng quan về công ty] có (Chân dung KH) nào?
+
+("Chân dung KH", "Tổng quan về công ty") Khách hàng [Chân dung KH] thường quan tâm đến những thông tin gì về công ty [Tổng quan về công ty]?
+
+Selected edge: ('Nhóm sản phẩm', 'Tên sản phẩm', 'Lợi ích sản phẩm', 'Thuật ngữ sản phẩm')
+Question template: ("Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm", "Thuật ngữ sản phẩm") Nhóm sản phẩm [Tên sản phẩm] cung cấp những (Lợi ích sản phẩm) nào?
+
+("Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm", "Thuật ngữ sản phẩm") (Nhóm sản phẩm) nào có sản phẩm [Tên sản phẩm]?
+
+("Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm", "Thuật ngữ sản phẩm") Hãy nêu (Nhóm sản phẩm) của [Tên sản phẩm] với [Lợi ích sản phẩm].
+
+("Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm", "Thuật ngữ sản phẩm") Sản phẩm [Thuật ngữ sản phẩm] thuộc (Nhóm sản phẩm) nào?
+
+("Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm", "Thuật ngữ sản phẩm") Nhóm sản phẩm [Nhóm sản phẩm] có (Tên sản phẩm) nào với [Lợi ích sản phẩm]?
+
+Selected edge: ('Tên sản phẩm', 'Nhóm sản phẩm', 'Lợi ích sản phẩm', 'Thuật ngữ sản phẩm')
+Question template: 1. ("Tên sản phẩm", "Nhóm sản phẩm") - Sản phẩm thuộc nhóm [Nhóm sản phẩm] có tên là gì?
+2. ("Tên sản phẩm", "Lợi ích sản phẩm") - Sản phẩm nào mang lại lợi ích [Lợi ích sản phẩm]?
+3. ("Tên sản phẩm", "Thuật ngữ sản phẩm") - Thuật ngữ [Thuật ngữ sản phẩm] thuộc về sản phẩm nào?
+4. ("Nhóm sản phẩm", "Tên sản phẩm") - Nhóm [Nhóm sản phẩm] có sản phẩm tên là gì?
+5. ("Lợi ích sản phẩm", "Tên sản phẩm") - Lợi ích [Lợi ích sản phẩm] là của sản phẩm nào?
+6. ("Thuật ngữ sản phẩm", "Tên sản phẩm") - Sản phẩm nào được mô tả bằng thuật ngữ [Thuật ngữ sản phẩm]?
+
+Selected edge: ('Lợi ích sản phẩm', 'Nhóm sản phẩm', 'Tên sản phẩm', 'Thuật ngữ sản phẩm')
+Question template: ("Lợi ích sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Thuật ngữ sản phẩm")  
+Lợi ích [Lợi ích sản phẩm] là của sản phẩm [Tên sản phẩm] nào sau đây?
+
+("Lợi ích sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Thuật ngữ sản phẩm")  
+Sản phẩm [Tên sản phẩm] thuộc nhóm [Nhóm sản phẩm] có (Lợi ích sản phẩm) gì?
+
+("Lợi ích sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Thuật ngữ sản phẩm")  
+Thuật ngữ [Thuật ngữ sản phẩm] liên quan đến (Lợi ích sản phẩm) nào?
+
+("Lợi ích sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Thuật ngữ sản phẩm")  
+Nhóm [Nhóm sản phẩm] có sản phẩm [Tên sản phẩm] mang lại (Lợi ích sản phẩm) nào?
+
+Selected edge: ('Thuật ngữ sản phẩm', 'Nhóm sản phẩm', 'Tên sản phẩm', 'Lợi ích sản phẩm')
+Question template: 1. ("Thuật ngữ sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm")
+Thuật ngữ [Thuật ngữ sản phẩm] thuộc nhóm sản phẩm (Nhóm sản phẩm) nào?
+
+2. ("Thuật ngữ sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm")
+Tên sản phẩm [Tên sản phẩm] có (Thuật ngữ sản phẩm) nào?
+
+3. ("Thuật ngữ sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm")
+Lợi ích [Lợi ích sản phẩm] là của sản phẩm (Tên sản phẩm) nào?
+
+4. ("Thuật ngữ sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm")
+Nhóm sản phẩm [Nhóm sản phẩm] có (Thuật ngữ sản phẩm) nào?
+
+5. ("Thuật ngữ sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm")
+Thuật ngữ [Thuật ngữ sản phẩm] mang lại (Lợi ích sản phẩm) nào?
+
+6. ("Thuật ngữ sản phẩm", "Nhóm sản phẩm", "Tên sản phẩm", "Lợi ích sản phẩm")
+Lợi ích [Lợi ích sản phẩm] thuộc nhóm sản phẩm (Nhóm sản phẩm) nào?
+
+Selected edge: ('Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Thâm niên SA', 'Số tiền thưởng cấp bậc')
+Question template: 1. ("Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA", "Số tiền thưởng cấp bậc") - Các khoản thu nhập và khấu trừ của [Các cấp độ của SA] là (gì)?
+2. ("Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA", "Số tiền thưởng cấp bậc") - [Thâm niên SA] có các khoản thu nhập và khấu trừ (gì)?
+3. ("Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA", "Số tiền thưởng cấp bậc") - (Các khoản thu nhập và khấu trừ) của [Số tiền thưởng cấp bậc] là gì?
+4. ("Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA", "Số tiền thưởng cấp bậc") - [Các cấp độ của SA] có các khoản thu nhập và khấu trừ (gì)?
+5. ("Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA", "Số tiền thưởng cấp bậc") - Hãy nêu (các khoản thu nhập và khấu trừ) của [Thâm niên SA] của [Các cấp độ của SA].
+
+Selected edge: ('Các cấp độ của SA', 'Các khoản thu nhập và khấu trừ', 'Thâm niên SA', 'Số tiền thưởng cấp bậc')
+Question template: 1. ("Các cấp độ của SA", "Các khoản thu nhập và khấu trừ")  
+Mức [Các khoản thu nhập và khấu trừ] tương ứng với (Các cấp độ của SA) nào?
+
+2. ("Các cấp độ của SA", "Thâm niên SA")  
+(Các cấp độ của SA) nào yêu cầu [Thâm niên SA] cao nhất?
+
+3. ("Các cấp độ của SA", "Số tiền thưởng cấp bậc")  
+[Số tiền thưởng cấp bậc] nào áp dụng cho (Các cấp độ của SA) cao nhất?
+
+4. ("Các khoản thu nhập và khấu trừ", "Thâm niên SA")  
+(Các khoản thu nhập và khấu trừ) nào áp dụng cho [Thâm niên SA] từ 5 năm trở lên?
+
+5. ("Số tiền thưởng cấp bậc", "Thâm niên SA")  
+[Số tiền thưởng cấp bậc] nào dành cho (Thâm niên SA) từ 10 năm trở lên?
+
+Selected edge: ('Thâm niên SA', 'Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Số tiền thưởng cấp bậc')
+Question template: ("Thâm niên SA", "Các khoản thu nhập và khấu trừ")  
+Thâm niên SA [Thâm niên SA] ảnh hưởng như thế nào đến (Các khoản thu nhập và khấu trừ)?
+
+("Thâm niên SA", "Các cấp độ của SA")  
+Thâm niên SA [Thâm niên SA] được yêu cầu để đạt đến (Các cấp độ của SA) nào?
+
+("Thâm niên SA", "Số tiền thưởng cấp bậc")  
+Thâm niên SA [Thâm niên SA] ảnh hưởng đến (Số tiền thưởng cấp bậc) như thế nào?
+
+("Các khoản thu nhập và khấu trừ", "Thâm niên SA")  
+Các khoản thu nhập và khấu trừ [Các khoản thu nhập và khấu trừ] thay đổi như thế nào theo (Thâm niên SA)?
+
+("Các cấp độ của SA", "Thâm niên SA")  
+Các cấp độ của SA [Các cấp độ của SA] yêu cầu (Thâm niên SA) bao nhiêu?
+
+("Số tiền thưởng cấp bậc", "Thâm niên SA")  
+Số tiền thưởng cấp bậc [Số tiền thưởng cấp bậc] phụ thuộc vào (Thâm niên SA) như thế nào?
+
+Selected edge: ('Số tiền thưởng cấp bậc', 'Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Thâm niên SA')
+Question template: ("Số tiền thưởng cấp bậc", "Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA") - Số tiền thưởng cấp bậc [Các cấp độ của SA] có (Số tiền thưởng cấp bậc) là bao nhiêu?
+
+("Số tiền thưởng cấp bậc", "Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA") - Với [Thâm niên SA], (Số tiền thưởng cấp bậc) là bao nhiêu?
+
+("Số tiền thưởng cấp bậc", "Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA") - Hãy nêu (Số tiền thưởng cấp bậc) đối với [Các khoản thu nhập và khấu trừ] của [Các cấp độ của SA].
+
+("Số tiền thưởng cấp bậc", "Các khoản thu nhập và khấu trừ", "Các cấp độ của SA", "Thâm niên SA") - Với [Các khoản thu nhập và khấu trừ], (Số tiền thưởng cấp bậc) của [Thâm niên SA] là bao nhiêu?
+
+Selected edge: ('Chân dung khách hàng', 'Nhóm nợ', 'Điều kiện xác định nhóm nợ')
+Question template: 1. ("Chân dung khách hàng", "Nhóm nợ", "Điều kiện xác định nhóm nợ"): Khách hàng có (Nhóm nợ) nào nếu thuộc chân dung [Chân dung khách hàng]?
+2. ("Chân dung khách hàng", "Nhóm nợ", "Điều kiện xác định nhóm nợ"): Điều kiện xác định nhóm nợ [Điều kiện xác định nhóm nợ] áp dụng cho (Chân dung khách hàng) nào?
+3. ("Chân dung khách hàng", "Nhóm nợ", "Điều kiện xác định nhóm nợ"): Khách hàng thuộc nhóm nợ [Nhóm nợ] có (Chân dung khách hàng) nào?
+4. ("Chân dung khách hàng", "Nhóm nợ", "Điều kiện xác định nhóm nợ"): Nhóm nợ [Nhóm nợ] được xác định bởi (Điều kiện xác định nhóm nợ) nào cho [Chân dung khách hàng]?
+5. ("Chân dung khách hàng", "Nhóm nợ", "Điều kiện xác định nhóm nợ"): Điều kiện xác định nhóm nợ [Điều kiện xác định nhóm nợ] áp dụng cho nhóm nợ (Nhóm nợ) nào của [Chân dung khách hàng]?
+
+Selected edge: ('Nhóm nợ', 'Chân dung khách hàng', 'Điều kiện xác định nhóm nợ')
+Question template: 1. ("Nhóm nợ", "Chân dung khách hàng", "Điều kiện xác định nhóm nợ")
+   Chân dung khách hàng [Chân dung khách hàng] thuộc (Nhóm nợ) nào?
+
+2. ("Nhóm nợ", "Chân dung khách hàng", "Điều kiện xác định nhóm nợ")
+   Điều kiện [Điều kiện xác định nhóm nợ] thuộc (Nhóm nợ) nào?
+
+3. ("Nhóm nợ", "Chân dung khách hàng", "Điều kiện xác định nhóm nợ")
+   Nhóm nợ [Nhóm nợ] có (Điều kiện xác định nhóm nợ) gì?
+
+4. ("Nhóm nợ", "Chân dung khách hàng", "Điều kiện xác định nhóm nợ")
+   Nhóm nợ [Nhóm nợ] có (Chân dung khách hàng) nào?
+
+5. ("Nhóm nợ", "Chân dung khách hàng", "Điều kiện xác định nhóm nợ")
+   Điều kiện xác định nhóm nợ [Điều kiện xác định nhóm nợ] áp dụng cho (Nhóm nợ) nào?
+
+6. ("Nhóm nợ", "Chân dung khách hàng", "Điều kiện xác định nhóm nợ")
+   Chân dung khách hàng [Chân dung khách hàng] thỏa mãn (Điều kiện xác định nhóm nợ) nào?
+
+Selected edge: ('Điều kiện xác định nhóm nợ', 'Chân dung khách hàng', 'Nhóm nợ')
+Question template: ("Điều kiện xác định nhóm nợ", "Chân dung khách hàng", "Nhóm nợ")  
+Điều kiện xác định nhóm nợ [Nhóm nợ] cho (Chân dung khách hàng) nào?
+
+("Điều kiện xác định nhóm nợ", "Chân dung khách hàng", "Nhóm nợ")  
+Hãy nêu (Điều kiện xác định nhóm nợ) cho [Nhóm nợ] của (Chân dung khách hàng).
+
+("Điều kiện xác định nhóm nợ", "Chân dung khách hàng", "Nhóm nợ")  
+(Điều kiện xác định nhóm nợ) là gì để xác định [Nhóm nợ] cho (Chân dung khách hàng)?
+
+("Điều kiện xác định nhóm nợ", "Chân dung khách hàng", "Nhóm nợ")  
+Để xác định [Nhóm nợ] cho (Chân dung khách hàng), cần những (Điều kiện xác định nhóm nợ) nào?
+
+("Điều kiện xác định nhóm nợ", "Chân dung khách hàng", "Nhóm nợ")  
+(Điều kiện xác định nhóm nợ) nào áp dụng cho [Nhóm nợ] của (Chân dung khách hàng)?
+
