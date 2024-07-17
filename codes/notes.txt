@@ -1,1 +1,8 @@
 - Better column names for better questions (write in full words, get rid of unnecessary words)
+
+To-dos:
+
+1 - Make reading data so there's no bug (if there's no info then skip)
+2 - Improve making questions with three different types
+Multiple choice, Negative questions, Fill in the blank
+3- Write notes and transfer

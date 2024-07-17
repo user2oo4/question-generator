@@ -1,6 +1,7 @@
 import pandas as pd
+import numpy as np
 
-file_name = 'aimentor/'
+file_name = 'banking/'
 # Specify the path to your Excel file
 file_path = file_name + 'data.xlsx'
 
@@ -21,12 +22,17 @@ def check_and_remove_number(string):
         return parts[0]
     return string
 
+def is_blank_or_nan(value):
+    return pd.isna(value) or (isinstance(value, str) and value.strip() == '')
+
 # Open the output file in write mode with utf-8 encoding
 with open(md_file_path, 'w', encoding='utf-8') as f:
     # Iterate over the dictionary of DataFrames
     for sheet_name, df in dfs.items():
         # Write the sheet name as a header
         f.write(f'# {sheet_name}\n\n')
+        # Drop columns that contain only NaN values
+        df = df.dropna(axis=1, how='all')
         # Convert the DataFrame to a Markdown table
         cols = df.columns.to_list()
         rows = df.iterrows()
@@ -34,7 +40,10 @@ with open(md_file_path, 'w', encoding='utf-8') as f:
             col = cols[0]
             vertices[col] = []
             for index, row in rows:
-                vertices[col].append(row[col])
+                value = row[col]
+                if is_blank_or_nan(value):
+                    continue
+                vertices[col].append(value.strip())
         else:
             new_cols = []
             for col in cols:
@@ -51,11 +60,13 @@ with open(md_file_path, 'w', encoding='utf-8') as f:
             edges[new_cols] = []
             rows = df.iterrows()
             for index, row in rows:
-                new_row = df.iloc[index].values
+                new_row = [value.strip() if isinstance(value, str) else value for value in df.iloc[index].values]
+                if any(is_blank_or_nan(value) for value in new_row):
+                    continue
                 edges[new_cols].append(tuple(new_row))
-                for col in new_cols:
-                    if(row[col] not in vertices[col]):
-                        vertices[col].append(row[col])
+                for col, value in zip(new_cols, new_row):
+                    if value not in vertices[col]:
+                        vertices[col].append(value)
         f.write('\n\n')
 
 with open(vertices_file_path, 'w', encoding='utf-8') as f:
@@ -78,8 +89,8 @@ for key in edges.keys():
         #print(new_tuple)
         knowledge_graph[new_tuple] = dict()
         for value in edges[key]:
-            # value is a tuple as wellf
-            if value[id] == 'nan':
+            # value is a tuple as well
+            if is_blank_or_nan(value[id]):
                 continue
             new_value_tuple = value[:id] + value[id + 1:]
             knowledge_graph[new_tuple][value[id]] = new_value_tuple

@@ -5,10 +5,8 @@ knowledge_graph = {
 		'Cột mốc phát triển': ('Được cấp giấy phép vào năm 2008, đến năm 2009 công ty chính thức ra mắt thương hiệu và triển khai sản phẩm đầu tiên|Cuối năm 2022, đẩy mạnh phát triển theo hướng số hóa, ra mắt ứng dụng trên điện thoại giúp KH có thể thực hiện và theo dõi khoản vay trực tuyến dễ dàng',),
 		'Lịch sử thành lập': ('Tập đoàn Home Credit được thành lập năm 1997 ở Cộng Hòa Czech. Cho đến nay, Home Credit đã trở thành một trong những tập đoàn hàng đầu thế giới về lĩnh vực cho vay tài chính tiêu dùng|Hiện nay Home Credit đang phục vụ cho hơn 141 triệu khách hàng; hơn 98 triệu người dùng ứng dụng với gần 42 ngàn hợp đồng được tạo mới mỗi ngày|Những quốc gia, vùng lãnh thổ đã có sự xuất hiện của Home Credit trên 10 năm là: Philipine, Indonesia, India, China, Việt Nam',),
 		'Tầm nhìn': ('Giúp khách hàng làm chủ cuộc sống và sống vui như mong đợi',),
-		'Khách hàng của ngân hàng': ('nan',),
 		'Thành tựu nổi bật': ('Giải thưởng top 100 công ty có môi trường làm việc tốt nhất khu vực châu Á – Thái Bình Dương năm 2021|Giải thưởng Golden Dragon Awards 2021 dành cho doanh nghiệp tiên phong đổi mới, sáng tạo, ứng dụng công nghệ vào quy trình kinh doanh và quản trị doanh nghiệp|Giải thưởng doanh nghiệp Bắc Âu 2021 dành cho doanh nghiệp FDI có những sáng kiến, hỗ trợ và đóng góp tích cực trong đại dịch Covid-19 tại Việt Nam|Giải thưởng Inspirational Brand Award – Thương hiệu truyền cảm hứng, chỉ dành riêng cho những doanh nghiệp có thương hiệu sản phẩm dịch vụ truyền cảm hứng hoặc ảnh hưởng tích cực tới cộng đồng và được người tiêu dùng, công chúng tin tưởng lựa chọn, ủng hộ|Giải thưởng Visa Awards 2021 – của tổ chức Visa toàn cầu trao tặng cho doanh nghiệp có những đổi mới sáng tạo, tăng trưởng năng động và dịch vụ tốt nhất trong phân khúc|Giải thưởng The Global Economics Awards 2021 dành cho doanh nghiệp có đóng góp những thành tựu to lớn trong các lĩnh vực Ngân hàng, Tài chính, Bất động sản, Bảo hiểm, Năng lượng và Công nghệ',),
 		'Đối tác': ('Hợp tác với gần 13.000 cửa hàng bán lẻ xe máy, điện thoại di động, cửa hàng điện tử và các nhà sản xuất trên toàn quốc với các thương hiệu nổi tiếng như: Thế Giới Di Động, Samsung, Yamaha,…',),
-		'Khách hàng đủ điều kiện làm hợp đồng với Home Credit': ('nan',),
 	},
 	('Chi tiết công ty', 'Tổng quan về công ty'): {
 		'Mang lại những dịch vụ tài chính đáng tin cậy tới cho khách hàng và đối tác để tiếp cận thông qua các kênh tùy chọn|Liên tục đáp ứng những nhu cầu mới, dù là trực tiếp hay qua những hệ sinh thái đột phá, góp phần xây dựng một thế giới vững mạnh hơn': ('Sứ mệnh',),
@@ -16,7 +14,6 @@ knowledge_graph = {
 		'Được cấp giấy phép vào năm 2008, đến năm 2009 công ty chính thức ra mắt thương hiệu và triển khai sản phẩm đầu tiên|Cuối năm 2022, đẩy mạnh phát triển theo hướng số hóa, ra mắt ứng dụng trên điện thoại giúp KH có thể thực hiện và theo dõi khoản vay trực tuyến dễ dàng': ('Cột mốc phát triển',),
 		'Tập đoàn Home Credit được thành lập năm 1997 ở Cộng Hòa Czech. Cho đến nay, Home Credit đã trở thành một trong những tập đoàn hàng đầu thế giới về lĩnh vực cho vay tài chính tiêu dùng|Hiện nay Home Credit đang phục vụ cho hơn 141 triệu khách hàng; hơn 98 triệu người dùng ứng dụng với gần 42 ngàn hợp đồng được tạo mới mỗi ngày|Những quốc gia, vùng lãnh thổ đã có sự xuất hiện của Home Credit trên 10 năm là: Philipine, Indonesia, India, China, Việt Nam': ('Lịch sử thành lập',),
 		'Giúp khách hàng làm chủ cuộc sống và sống vui như mong đợi': ('Tầm nhìn',),
-		'nan': ('Khách hàng đủ điều kiện làm hợp đồng với Home Credit',),
 		'Giải thưởng top 100 công ty có môi trường làm việc tốt nhất khu vực châu Á – Thái Bình Dương năm 2021|Giải thưởng Golden Dragon Awards 2021 dành cho doanh nghiệp tiên phong đổi mới, sáng tạo, ứng dụng công nghệ vào quy trình kinh doanh và quản trị doanh nghiệp|Giải thưởng doanh nghiệp Bắc Âu 2021 dành cho doanh nghiệp FDI có những sáng kiến, hỗ trợ và đóng góp tích cực trong đại dịch Covid-19 tại Việt Nam|Giải thưởng Inspirational Brand Award – Thương hiệu truyền cảm hứng, chỉ dành riêng cho những doanh nghiệp có thương hiệu sản phẩm dịch vụ truyền cảm hứng hoặc ảnh hưởng tích cực tới cộng đồng và được người tiêu dùng, công chúng tin tưởng lựa chọn, ủng hộ|Giải thưởng Visa Awards 2021 – của tổ chức Visa toàn cầu trao tặng cho doanh nghiệp có những đổi mới sáng tạo, tăng trưởng năng động và dịch vụ tốt nhất trong phân khúc|Giải thưởng The Global Economics Awards 2021 dành cho doanh nghiệp có đóng góp những thành tựu to lớn trong các lĩnh vực Ngân hàng, Tài chính, Bất động sản, Bảo hiểm, Năng lượng và Công nghệ': ('Thành tựu nổi bật',),
 		'Hợp tác với gần 13.000 cửa hàng bán lẻ xe máy, điện thoại di động, cửa hàng điện tử và các nhà sản xuất trên toàn quốc với các thương hiệu nổi tiếng như: Thế Giới Di Động, Samsung, Yamaha,…': ('Đối tác',),
 	},
@@ -88,10 +85,7 @@ knowledge_graph = {
 		'Cho vay tiền mặt trực tuyến dành cho KH chưa từng có giao dịch vay trả góp với Home Credit, hoặc KH đã từng có giao dịch vay trả góp với Home Credit nhưng không được đề xuất vay gói CLX': ('Tiền mặt trực tuyến - ACL',),
 	},
 	('Vai trò, trách nhiệm của SA', 'Chi tiết SA'): {
-		'Tác phong': ('\n',),
 		'Sơ đồ tổ chức phòng Sales': ('SA trực thuộc mạng lưới kinh doanh (MLKD) và báo cáo trực tiếp cho quản lý kinh doanh khu vực (DSM)',),
-		'Mục tiêu doanh số': ('nan',),
-		'Xây dựng mối quan hệ với cửa hàng': ('nan',),
 		'Vai trò của SA': ('Là người trực tiếp mang nguồn thu nhập, lợi nhuận về cho công ty, đảm bảo mục tiêu kinh doanh với tỷ lệ rủi ro thấp nhất|Là đại sứ thương hiệu công ty, là chuyên gia tư vấn tài chính giúp KH có được những sản phẩm tài chính uy tín, chất lượng, dịch vụ tận tâm và phù hợp với nhu cầu|Là người đồng hành, xây dựng mối quan hệ tốt đẹp với đối tác và luôn chia sẻ, hỗ trợ với tinh thần win – win',),
 		'Trách nhiệm của SA': ('Tìm kiếm, tiếp cận, tư vấn các khoản vay đến KH với chất lượng dịch vụ chuyên nghiệp|Xây dựng mối quan hệ với các cửa hàng đối tác|Kiểm soát rủi ro gian lận|Tuân thủ các quy trình, quy định và chỉ thị từ cấp trên, công ty|Kiểm soát nợ xấu bằng cách nhận diện KH gian lận, kiểm tra chứng từ và theo dõi tình trạng đóng phí của KH',),
 		'Những việc làm hàng ngày của SA': ('Được DSM phân công làm 2 ca 1 ngày|Sắp xếp thời gian hợp lý, phân chia công việc một cách rõ ràng và tận dụng tối đa một ngày làm việc|Ưu tiên nhất việc tìm kiếm và tiếp cận KH vì ảnh hưởng trực tiếp đến thu nhập|Tìm kiếm KH qua các kênh khác nhau (Hệ thống HomeX, Gọi điện thoại, Đăng bài Facebook,...)|Tiếp cận và tư vấn sản phẩm cho khách hàng|Thực hiện hợp đồng|Hỗ trợ các cửa hàng khác khi có yêu cầu từ quản lý|Gặp gỡ KH ở bên ngoài (quán cafe, nhà của KH) khi cần thiết|Làm việc tại shop bán xe máy hoặc cửa hàng bán điện thoại, đồ điện máy',),
@@ -99,51 +93,35 @@ knowledge_graph = {
 	},
 	('Chi tiết SA', 'Vai trò, trách nhiệm của SA'): {
 		'SA trực thuộc mạng lưới kinh doanh (MLKD) và báo cáo trực tiếp cho quản lý kinh doanh khu vực (DSM)': ('Sơ đồ tổ chức phòng Sales',),
-		'nan': ('Xây dựng mối quan hệ với cửa hàng',),
 		'Là người trực tiếp mang nguồn thu nhập, lợi nhuận về cho công ty, đảm bảo mục tiêu kinh doanh với tỷ lệ rủi ro thấp nhất|Là đại sứ thương hiệu công ty, là chuyên gia tư vấn tài chính giúp KH có được những sản phẩm tài chính uy tín, chất lượng, dịch vụ tận tâm và phù hợp với nhu cầu|Là người đồng hành, xây dựng mối quan hệ tốt đẹp với đối tác và luôn chia sẻ, hỗ trợ với tinh thần win – win': ('Vai trò của SA',),
 		'Tìm kiếm, tiếp cận, tư vấn các khoản vay đến KH với chất lượng dịch vụ chuyên nghiệp|Xây dựng mối quan hệ với các cửa hàng đối tác|Kiểm soát rủi ro gian lận|Tuân thủ các quy trình, quy định và chỉ thị từ cấp trên, công ty|Kiểm soát nợ xấu bằng cách nhận diện KH gian lận, kiểm tra chứng từ và theo dõi tình trạng đóng phí của KH': ('Trách nhiệm của SA',),
 		'Được DSM phân công làm 2 ca 1 ngày|Sắp xếp thời gian hợp lý, phân chia công việc một cách rõ ràng và tận dụng tối đa một ngày làm việc|Ưu tiên nhất việc tìm kiếm và tiếp cận KH vì ảnh hưởng trực tiếp đến thu nhập|Tìm kiếm KH qua các kênh khác nhau (Hệ thống HomeX, Gọi điện thoại, Đăng bài Facebook,...)|Tiếp cận và tư vấn sản phẩm cho khách hàng|Thực hiện hợp đồng|Hỗ trợ các cửa hàng khác khi có yêu cầu từ quản lý|Gặp gỡ KH ở bên ngoài (quán cafe, nhà của KH) khi cần thiết|Làm việc tại shop bán xe máy hoặc cửa hàng bán điện thoại, đồ điện máy': ('Những việc làm hàng ngày của SA',),
 		'Thu nhập thực nhận bằng Tổng thu nhập gộp trừ đi Các khoản khấu trừ|Có cơ hội phát triển theo định hướng Người bán hàng chuyên nghiệp|Có cơ hội phát triển theo định hướng Nhà quản lý kinh doanh khu vực|Có cơ hội học tập bằng các khóa học trên E-learning, Workshop, Talkshow,...': ('Quyền lợi của SA',),
 	},
 	('Thâm niên SA', 'Hệ số thâm niên'): {
-		'Dưới 2 tháng': ('nan',),
-		'Từ 2 - 4 tháng': ('nan',),
-		'Từ 4 tháng trở lên': ('nan',),
 		'Dưới 1 năm': (1.0,),
 		'Từ 1- 5 năm': (1.2,),
 		'Trên 5 năm': (1.5,),
 	},
 	('Hệ số thâm niên', 'Thâm niên SA'): {
-		'nan': ('Dưới 2 tháng',),
-		'nan': ('Từ 2 - 4 tháng',),
-		'nan': ('Từ 4 tháng trở lên',),
 		'1.0': ('Dưới 1 năm',),
 		'1.2': ('Từ 1- 5 năm',),
 		'1.5': ('Trên 5 năm',),
 	},
 	('Các khoản thu nhập và khấu trừ', 'Thuộc tính khoản thu nhập, khấu trừ', 'Công thức tính'): {
-		'Phụ cấp, trợ cấp': ('nan', 'nan'),
-		'Bảo hiểm bắt buộc': ('nan', 'nan'),
-		'Thuế thu nhập cá nhân': ('nan', 'nan'),
-		'Các khoản khấu trừ khác (nếu có)': ('nan', 'nan'),
 		'Lương ngoài giờ': ('Chỉ làm ngoài giờ theo yêu cầu của cấp trên|Làm việc không quá: 200 giờ 1 năm, 4 giờ 1 ngày làm việc, 30 giờ 1 tháng|Sau khi làm việc, nhân viên sẽ được ưu tiên sắp xếp nghỉ bù, nếu không, số giờ làm thêm được quy thành tiền theo tỷ lệ|Lương ngoài giờ chưa bao gồm 100% lương ngày công hoặc theo chế độ phụ cấp công việc của từng phòng ban', 'Bằng 150% lương ngày công khi làm việc ngoài giờ trong ngày làm việc bình thường|Bằng 200% lương ngày công khi làm việc ngoài giờ trong ngày nghỉ tuần|Bằng 300% lương ngày công (trong đó 100% đã bao gồm trong tiền lương ngày lễ, tết) khi làm việc ngoài giờ trong ngày lễ, tết'),
 		'Phụ cấp theo kết quả công việc, lương tháng 13': ('Phụ cấp/trợ cấp theo kết quả công việc được tính theo theo chính sách của công ty|Tùy thuộc vào kết quả kinh doanh của công ty, nhân viên có thể nhận được lương tháng 13|Nhân viên chưa đủ 12 tháng làm việc, hoặc có điều chỉnh lương trong năm thì lương tháng 13 sẽ được tính theo tỷ lệ', 'Được tính theo chính sách của công ty, nhân viên chưa đủ 12 tháng làm việc, hoặc có điều chỉnh lương trong năm thì lương tháng 13 được tính theo tỷ lệ'),
-		'Các phúc lợi khác': ('Quà sinh nhật, quà cưới, quà cho bé mới sinh|Kiểm tra sức khỏe định kỳ hàng năm (1 lần 1 năm)|Bảo hiểm tai nạn 24 trên 24', 'nan'),
-		'Lương thực tế trên hợp đồng': ('Lương trước thuế, chưa khấu trừ thuế thu nhập cá nhân và các khoản khấu trừ bắt buộc khác theo luật định|Chấm công từ ngày 1 đến ngày cuối tháng|Lương được chi trả từ ngày 1 đến ngày cuối tháng. Từ ngày 23 đến ngày cuối tháng, Công ty đã trả trước cho nhân viên và sẽ được điều chỉnh vào tháng sau nếu có thay đổi|Hình thức trả lương là chuyển khoản vào tài khoản cá nhân|Nhân viên mới vào công ty sau ngày 22, lương sẽ được trả vào tháng kế tiếp|Tài khoản cá nhân phải đứng tên của cá nhân nhân viên, không dùng tài khoản cá nhân của người khác|Chỉ chấp nhận trả lương vào tài khoản của các ngân hàng Vietcombank, Vietinbank, Đông Á, Techcombank, VPBank, ACB', 'nan'),
-		'Thưởng cấp bậc': ('Có 4 cấp độ dành cho nhân viên bán hàng tương ứng với các mức thưởng|SA vẫn được giữ nguyên chức vụ trong suốt thời gian nghỉ thai sản nhưng sẽ không được nhận khoản tiền này|Khoản tiền này sẽ bắt đầu được tính khi SA quay trở lại làm việc sau thời kỳ nghỉ thai sản miễn là phải đáp ứng các tiêu chí theo qui định|Kết quả trung bình của 02 tháng trong tháng đầu tiên sau khi SA quay trở lại làm việc bằng tháng đầu tiên sau khi quay trở lại và 01 tháng trước nghỉ thai sản|Trong trường hợp SA không duy trì được tiêu chí cấp bậc hoặc bị đánh lỗi soft trigger, nhận thẻ vàng, 2 thư khiển trách trở lên, SA sẽ bị giáng cấp và mất khoản tiền này|Tháng tính thưởng bằng Tháng thưởng cộng 1', 'Doanh số tính cho SA thực hiện Bước 2 đối với CD, TW, CLX|Doanh số tính cho SA thực hiện Bước 1 và Bước 2 đối với ACL (trong trường hợp 1 SA cùng thực hiện cả Bước 1 và Bước 2 thì chỉ tính 1 lần)|Doanh số tính cho SA tạo hợp đồng đối với sản phẩm S.A.I|Doanh số tính cho SA thực hiện Bước 1 đối với sản phẩm Thẻ|Khoản cộng A trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I ký trong tháng thưởng cộng Số thẻ tín dụng được ký trong 1 tháng liền trước có phát sinh giao dịch trong tháng thưởng nhân 40 triệu VND|Khoản trừ B trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I bị hủy trong tháng thưởng cộng Số thẻ tín dụng đã được thưởng trong 1 tháng liền trước nhưng bị đóng trong tháng thưởng nhân 40 triệu VND|Doanh số bằng Khoản cộng A trừ Khoản trừ B theo quy định\n'),
+		'Thưởng cấp bậc': ('Có 4 cấp độ dành cho nhân viên bán hàng tương ứng với các mức thưởng|SA vẫn được giữ nguyên chức vụ trong suốt thời gian nghỉ thai sản nhưng sẽ không được nhận khoản tiền này|Khoản tiền này sẽ bắt đầu được tính khi SA quay trở lại làm việc sau thời kỳ nghỉ thai sản miễn là phải đáp ứng các tiêu chí theo qui định|Kết quả trung bình của 02 tháng trong tháng đầu tiên sau khi SA quay trở lại làm việc bằng tháng đầu tiên sau khi quay trở lại và 01 tháng trước nghỉ thai sản|Trong trường hợp SA không duy trì được tiêu chí cấp bậc hoặc bị đánh lỗi soft trigger, nhận thẻ vàng, 2 thư khiển trách trở lên, SA sẽ bị giáng cấp và mất khoản tiền này|Tháng tính thưởng bằng Tháng thưởng cộng 1', 'Doanh số tính cho SA thực hiện Bước 2 đối với CD, TW, CLX|Doanh số tính cho SA thực hiện Bước 1 và Bước 2 đối với ACL (trong trường hợp 1 SA cùng thực hiện cả Bước 1 và Bước 2 thì chỉ tính 1 lần)|Doanh số tính cho SA tạo hợp đồng đối với sản phẩm S.A.I|Doanh số tính cho SA thực hiện Bước 1 đối với sản phẩm Thẻ|Khoản cộng A trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I ký trong tháng thưởng cộng Số thẻ tín dụng được ký trong 1 tháng liền trước có phát sinh giao dịch trong tháng thưởng nhân 40 triệu VND|Khoản trừ B trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I bị hủy trong tháng thưởng cộng Số thẻ tín dụng đã được thưởng trong 1 tháng liền trước nhưng bị đóng trong tháng thưởng nhân 40 triệu VND|Doanh số bằng Khoản cộng A trừ Khoản trừ B theo quy định'),
 	},
 	('Thuộc tính khoản thu nhập, khấu trừ', 'Các khoản thu nhập và khấu trừ', 'Công thức tính'): {
-		'nan': ('Các khoản khấu trừ khác (nếu có)', 'nan'),
 		'Chỉ làm ngoài giờ theo yêu cầu của cấp trên|Làm việc không quá: 200 giờ 1 năm, 4 giờ 1 ngày làm việc, 30 giờ 1 tháng|Sau khi làm việc, nhân viên sẽ được ưu tiên sắp xếp nghỉ bù, nếu không, số giờ làm thêm được quy thành tiền theo tỷ lệ|Lương ngoài giờ chưa bao gồm 100% lương ngày công hoặc theo chế độ phụ cấp công việc của từng phòng ban': ('Lương ngoài giờ', 'Bằng 150% lương ngày công khi làm việc ngoài giờ trong ngày làm việc bình thường|Bằng 200% lương ngày công khi làm việc ngoài giờ trong ngày nghỉ tuần|Bằng 300% lương ngày công (trong đó 100% đã bao gồm trong tiền lương ngày lễ, tết) khi làm việc ngoài giờ trong ngày lễ, tết'),
 		'Phụ cấp/trợ cấp theo kết quả công việc được tính theo theo chính sách của công ty|Tùy thuộc vào kết quả kinh doanh của công ty, nhân viên có thể nhận được lương tháng 13|Nhân viên chưa đủ 12 tháng làm việc, hoặc có điều chỉnh lương trong năm thì lương tháng 13 sẽ được tính theo tỷ lệ': ('Phụ cấp theo kết quả công việc, lương tháng 13', 'Được tính theo chính sách của công ty, nhân viên chưa đủ 12 tháng làm việc, hoặc có điều chỉnh lương trong năm thì lương tháng 13 được tính theo tỷ lệ'),
-		'Quà sinh nhật, quà cưới, quà cho bé mới sinh|Kiểm tra sức khỏe định kỳ hàng năm (1 lần 1 năm)|Bảo hiểm tai nạn 24 trên 24': ('Các phúc lợi khác', 'nan'),
-		'Lương trước thuế, chưa khấu trừ thuế thu nhập cá nhân và các khoản khấu trừ bắt buộc khác theo luật định|Chấm công từ ngày 1 đến ngày cuối tháng|Lương được chi trả từ ngày 1 đến ngày cuối tháng. Từ ngày 23 đến ngày cuối tháng, Công ty đã trả trước cho nhân viên và sẽ được điều chỉnh vào tháng sau nếu có thay đổi|Hình thức trả lương là chuyển khoản vào tài khoản cá nhân|Nhân viên mới vào công ty sau ngày 22, lương sẽ được trả vào tháng kế tiếp|Tài khoản cá nhân phải đứng tên của cá nhân nhân viên, không dùng tài khoản cá nhân của người khác|Chỉ chấp nhận trả lương vào tài khoản của các ngân hàng Vietcombank, Vietinbank, Đông Á, Techcombank, VPBank, ACB': ('Lương thực tế trên hợp đồng', 'nan'),
-		'Có 4 cấp độ dành cho nhân viên bán hàng tương ứng với các mức thưởng|SA vẫn được giữ nguyên chức vụ trong suốt thời gian nghỉ thai sản nhưng sẽ không được nhận khoản tiền này|Khoản tiền này sẽ bắt đầu được tính khi SA quay trở lại làm việc sau thời kỳ nghỉ thai sản miễn là phải đáp ứng các tiêu chí theo qui định|Kết quả trung bình của 02 tháng trong tháng đầu tiên sau khi SA quay trở lại làm việc bằng tháng đầu tiên sau khi quay trở lại và 01 tháng trước nghỉ thai sản|Trong trường hợp SA không duy trì được tiêu chí cấp bậc hoặc bị đánh lỗi soft trigger, nhận thẻ vàng, 2 thư khiển trách trở lên, SA sẽ bị giáng cấp và mất khoản tiền này|Tháng tính thưởng bằng Tháng thưởng cộng 1': ('Thưởng cấp bậc', 'Doanh số tính cho SA thực hiện Bước 2 đối với CD, TW, CLX|Doanh số tính cho SA thực hiện Bước 1 và Bước 2 đối với ACL (trong trường hợp 1 SA cùng thực hiện cả Bước 1 và Bước 2 thì chỉ tính 1 lần)|Doanh số tính cho SA tạo hợp đồng đối với sản phẩm S.A.I|Doanh số tính cho SA thực hiện Bước 1 đối với sản phẩm Thẻ|Khoản cộng A trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I ký trong tháng thưởng cộng Số thẻ tín dụng được ký trong 1 tháng liền trước có phát sinh giao dịch trong tháng thưởng nhân 40 triệu VND|Khoản trừ B trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I bị hủy trong tháng thưởng cộng Số thẻ tín dụng đã được thưởng trong 1 tháng liền trước nhưng bị đóng trong tháng thưởng nhân 40 triệu VND|Doanh số bằng Khoản cộng A trừ Khoản trừ B theo quy định\n'),
+		'Có 4 cấp độ dành cho nhân viên bán hàng tương ứng với các mức thưởng|SA vẫn được giữ nguyên chức vụ trong suốt thời gian nghỉ thai sản nhưng sẽ không được nhận khoản tiền này|Khoản tiền này sẽ bắt đầu được tính khi SA quay trở lại làm việc sau thời kỳ nghỉ thai sản miễn là phải đáp ứng các tiêu chí theo qui định|Kết quả trung bình của 02 tháng trong tháng đầu tiên sau khi SA quay trở lại làm việc bằng tháng đầu tiên sau khi quay trở lại và 01 tháng trước nghỉ thai sản|Trong trường hợp SA không duy trì được tiêu chí cấp bậc hoặc bị đánh lỗi soft trigger, nhận thẻ vàng, 2 thư khiển trách trở lên, SA sẽ bị giáng cấp và mất khoản tiền này|Tháng tính thưởng bằng Tháng thưởng cộng 1': ('Thưởng cấp bậc', 'Doanh số tính cho SA thực hiện Bước 2 đối với CD, TW, CLX|Doanh số tính cho SA thực hiện Bước 1 và Bước 2 đối với ACL (trong trường hợp 1 SA cùng thực hiện cả Bước 1 và Bước 2 thì chỉ tính 1 lần)|Doanh số tính cho SA tạo hợp đồng đối với sản phẩm S.A.I|Doanh số tính cho SA thực hiện Bước 1 đối với sản phẩm Thẻ|Khoản cộng A trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I ký trong tháng thưởng cộng Số thẻ tín dụng được ký trong 1 tháng liền trước có phát sinh giao dịch trong tháng thưởng nhân 40 triệu VND|Khoản trừ B trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I bị hủy trong tháng thưởng cộng Số thẻ tín dụng đã được thưởng trong 1 tháng liền trước nhưng bị đóng trong tháng thưởng nhân 40 triệu VND|Doanh số bằng Khoản cộng A trừ Khoản trừ B theo quy định'),
 	},
 	('Công thức tính', 'Các khoản thu nhập và khấu trừ', 'Thuộc tính khoản thu nhập, khấu trừ'): {
-		'nan': ('Lương thực tế trên hợp đồng', 'Lương trước thuế, chưa khấu trừ thuế thu nhập cá nhân và các khoản khấu trừ bắt buộc khác theo luật định|Chấm công từ ngày 1 đến ngày cuối tháng|Lương được chi trả từ ngày 1 đến ngày cuối tháng. Từ ngày 23 đến ngày cuối tháng, Công ty đã trả trước cho nhân viên và sẽ được điều chỉnh vào tháng sau nếu có thay đổi|Hình thức trả lương là chuyển khoản vào tài khoản cá nhân|Nhân viên mới vào công ty sau ngày 22, lương sẽ được trả vào tháng kế tiếp|Tài khoản cá nhân phải đứng tên của cá nhân nhân viên, không dùng tài khoản cá nhân của người khác|Chỉ chấp nhận trả lương vào tài khoản của các ngân hàng Vietcombank, Vietinbank, Đông Á, Techcombank, VPBank, ACB'),
 		'Bằng 150% lương ngày công khi làm việc ngoài giờ trong ngày làm việc bình thường|Bằng 200% lương ngày công khi làm việc ngoài giờ trong ngày nghỉ tuần|Bằng 300% lương ngày công (trong đó 100% đã bao gồm trong tiền lương ngày lễ, tết) khi làm việc ngoài giờ trong ngày lễ, tết': ('Lương ngoài giờ', 'Chỉ làm ngoài giờ theo yêu cầu của cấp trên|Làm việc không quá: 200 giờ 1 năm, 4 giờ 1 ngày làm việc, 30 giờ 1 tháng|Sau khi làm việc, nhân viên sẽ được ưu tiên sắp xếp nghỉ bù, nếu không, số giờ làm thêm được quy thành tiền theo tỷ lệ|Lương ngoài giờ chưa bao gồm 100% lương ngày công hoặc theo chế độ phụ cấp công việc của từng phòng ban'),
 		'Được tính theo chính sách của công ty, nhân viên chưa đủ 12 tháng làm việc, hoặc có điều chỉnh lương trong năm thì lương tháng 13 được tính theo tỷ lệ': ('Phụ cấp theo kết quả công việc, lương tháng 13', 'Phụ cấp/trợ cấp theo kết quả công việc được tính theo theo chính sách của công ty|Tùy thuộc vào kết quả kinh doanh của công ty, nhân viên có thể nhận được lương tháng 13|Nhân viên chưa đủ 12 tháng làm việc, hoặc có điều chỉnh lương trong năm thì lương tháng 13 sẽ được tính theo tỷ lệ'),
+		'Doanh số tính cho SA thực hiện Bước 2 đối với CD, TW, CLX|Doanh số tính cho SA thực hiện Bước 1 và Bước 2 đối với ACL (trong trường hợp 1 SA cùng thực hiện cả Bước 1 và Bước 2 thì chỉ tính 1 lần)|Doanh số tính cho SA tạo hợp đồng đối với sản phẩm S.A.I|Doanh số tính cho SA thực hiện Bước 1 đối với sản phẩm Thẻ|Khoản cộng A trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I ký trong tháng thưởng cộng Số thẻ tín dụng được ký trong 1 tháng liền trước có phát sinh giao dịch trong tháng thưởng nhân 40 triệu VND|Khoản trừ B trong công thức tính doanh số bằng Tổng khoản vay bao gồm phí bảo hiểm của CD, TW, CLX, ACL, S.A.I bị hủy trong tháng thưởng cộng Số thẻ tín dụng đã được thưởng trong 1 tháng liền trước nhưng bị đóng trong tháng thưởng nhân 40 triệu VND|Doanh số bằng Khoản cộng A trừ Khoản trừ B theo quy định': ('Thưởng cấp bậc', 'Có 4 cấp độ dành cho nhân viên bán hàng tương ứng với các mức thưởng|SA vẫn được giữ nguyên chức vụ trong suốt thời gian nghỉ thai sản nhưng sẽ không được nhận khoản tiền này|Khoản tiền này sẽ bắt đầu được tính khi SA quay trở lại làm việc sau thời kỳ nghỉ thai sản miễn là phải đáp ứng các tiêu chí theo qui định|Kết quả trung bình của 02 tháng trong tháng đầu tiên sau khi SA quay trở lại làm việc bằng tháng đầu tiên sau khi quay trở lại và 01 tháng trước nghỉ thai sản|Trong trường hợp SA không duy trì được tiêu chí cấp bậc hoặc bị đánh lỗi soft trigger, nhận thẻ vàng, 2 thư khiển trách trở lên, SA sẽ bị giáng cấp và mất khoản tiền này|Tháng tính thưởng bằng Tháng thưởng cộng 1'),
 	},
 	('Vai trò, trách nhiệm của SA', 'Tác phong SA', 'Đánh giá tác phong'): {
 		'Tác phong': ('mặc áo sơ mi đồng phục vào thứ 2 - thứ 7 và mặc áo thun Home Credit hoặc áo sơ mi đồng phục vào chủ nhật', 'nên'),
@@ -184,22 +162,6 @@ knowledge_graph = {
 		'NÊN': ('Xây dựng mối quan hệ với cửa hàng', 'Hướng dẫn KH làm thủ tục thanh toán, bảo trì, cũng như giải đáp một số câu hỏi của KH trong những lúc cao điểm'),
 		'KHÔNG NÊN': ('Xây dựng mối quan hệ với cửa hàng', 'Xem việc hướng dẫn khách hàng thủ tục thanh toán, phương thức bảo trì là nhiệm vụ của nhân viên cửa hàng'),
 	},
-	('Vai trò, trách nhiệm của SA', 'Thâm niên SA'): {
-	},
-	('Thâm niên SA', 'Vai trò, trách nhiệm của SA'): {
-	},
-	('Vai trò, trách nhiệm của SA', 'Loại quyền lợi'): {
-	},
-	('Loại quyền lợi', 'Vai trò, trách nhiệm của SA'): {
-	},
-	('Trích lập dự phòng của doanh nghiệp', 'Chân dung khách hàng'): {
-	},
-	('Chân dung khách hàng', 'Trích lập dự phòng của doanh nghiệp'): {
-	},
-	('Mức trích lập dự phòng chung', 'Chân dung khách hàng'): {
-	},
-	('Chân dung khách hàng', 'Mức trích lập dự phòng chung'): {
-	},
 	('Nhóm nợ', 'Tỷ lệ trích lập dự phòng'): {
 		'Nhóm nợ 1: Nợ đủ tiêu chuẩn': ('0%',),
 		'Nhóm nợ 2: Nợ cần chú ý': ('5%',),
@@ -213,10 +175,6 @@ knowledge_graph = {
 		'20%': ('Nhóm nợ 3: Nợ dưới tiêu chuẩn',),
 		'50%': ('Nhóm nợ 4: Nợ nghi ngờ',),
 		'100%': ('Nhóm nợ 5: Nợ có khả năng mất vốn',),
-	},
-	('Chân dung khách hàng', 'Khoản nợ'): {
-	},
-	('Khoản nợ', 'Chân dung khách hàng'): {
 	},
 	('Quy định', 'Chi tiết quy định'): {
 		'Tuân thủ về niêm yết tài liệu': ('Niêm yết các tài liệu: Thông tin lãi suất sản phẩm, phương pháp tính lãi, các loại phí, Hợp đồng theo mẫu, Điều kiện giao dịch chung, Các hình thức tiếp nhận góp ý, phản ánh, khiếu nại của KH, Tài liệu khác theo thông báo từ TINTIN',),
@@ -270,48 +228,32 @@ knowledge_graph = {
 		'Có hợp đồng lao động': ('Khách hàng của ngân hàng',),
 		'Từ công nhân đến người kinh doanh, sinh viên còn đi học hoặc đã tốt nghiệp, người lao động phổ thông': ('Khách hàng đủ điều kiện làm hợp đồng với Home Credit',),
 	},
-	('Nhóm sản phẩm', 'Tên sản phẩm', 'Lợi ích sản phẩm', 'Thuật ngữ sản phẩm'): {
-		'Vay trả góp mua hàng hóa tại shop': ('Vay trả góp xe máy - TW', 'nan', 'nan'),
-		'Vay trả góp tiền mặt - CL': ('Tiền mặt bán chéo - CLX', 'nan', 'nan'),
-		'Thẻ tín dụng - CC': ('Thẻ tín dụng CCX', 'nan', 'nan'),
-		'Bảo hiểm bán kèm': ('An tâm tài chính - PPI', 'nan', 'nan'),
-		'Bảo hiểm độc lập': ('Sức khoẻ nội trú - ITP', 'nan', 'nan'),
+	('Nhóm sản phẩm', 'Tên sản phẩm'): {
+		'Vay trả góp mua hàng hóa tại shop': ('Vay trả góp xe máy - TW',),
+		'Vay trả góp tiền mặt - CL': ('Tiền mặt bán chéo - CLX',),
+		'Thẻ tín dụng - CC': ('Thẻ tín dụng CCX',),
+		'Bảo hiểm bán kèm': ('An tâm tài chính - PPI',),
+		'Bảo hiểm độc lập': ('Sức khoẻ nội trú - ITP',),
 	},
-	('Tên sản phẩm', 'Nhóm sản phẩm', 'Lợi ích sản phẩm', 'Thuật ngữ sản phẩm'): {
-		'Vay trả góp xe máy - TW': ('Vay trả góp mua hàng hóa tại shop', 'nan', 'nan'),
-		'Tiền mặt bán chéo - CLX': ('Vay trả góp tiền mặt - CL', 'nan', 'nan'),
-		'Thẻ tín dụng CCX': ('Thẻ tín dụng - CC', 'nan', 'nan'),
-		'An tâm tài chính - PPI': ('Bảo hiểm bán kèm', 'nan', 'nan'),
-		'Sức khoẻ nội trú - ITP': ('Bảo hiểm độc lập', 'nan', 'nan'),
-	},
-	('Lợi ích sản phẩm', 'Nhóm sản phẩm', 'Tên sản phẩm', 'Thuật ngữ sản phẩm'): {
-		'nan': ('Vay trả góp mua hàng hóa tại shop', 'Vay trả góp xe máy - TW', 'nan'),
-		'nan': ('Vay trả góp tiền mặt - CL', 'Tiền mặt bán chéo - CLX', 'nan'),
-		'nan': ('Thẻ tín dụng - CC', 'Thẻ tín dụng CCX', 'nan'),
-		'nan': ('Bảo hiểm bán kèm', 'An tâm tài chính - PPI', 'nan'),
-		'nan': ('Bảo hiểm độc lập', 'Sức khoẻ nội trú - ITP', 'nan'),
-	},
-	('Thuật ngữ sản phẩm', 'Nhóm sản phẩm', 'Tên sản phẩm', 'Lợi ích sản phẩm'): {
-		'nan': ('Vay trả góp mua hàng hóa tại shop', 'Vay trả góp xe máy - TW', 'nan'),
-		'nan': ('Vay trả góp tiền mặt - CL', 'Tiền mặt bán chéo - CLX', 'nan'),
-		'nan': ('Thẻ tín dụng - CC', 'Thẻ tín dụng CCX', 'nan'),
-		'nan': ('Bảo hiểm bán kèm', 'An tâm tài chính - PPI', 'nan'),
-		'nan': ('Bảo hiểm độc lập', 'Sức khoẻ nội trú - ITP', 'nan'),
+	('Tên sản phẩm', 'Nhóm sản phẩm'): {
+		'Vay trả góp xe máy - TW': ('Vay trả góp mua hàng hóa tại shop',),
+		'Tiền mặt bán chéo - CLX': ('Vay trả góp tiền mặt - CL',),
+		'Thẻ tín dụng CCX': ('Thẻ tín dụng - CC',),
+		'An tâm tài chính - PPI': ('Bảo hiểm bán kèm',),
+		'Sức khoẻ nội trú - ITP': ('Bảo hiểm độc lập',),
 	},
 	('Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Thâm niên SA', 'Số tiền thưởng cấp bậc'): {
-		'Thưởng cấp bậc': ('SA', 'nan', 'Không có thưởng cấp bậc'),
+		'Thưởng cấp bậc': ('Warrior SA (WSA)', 'Trên 5 năm', '5.400.000 đồng một tháng'),
 	},
 	('Các cấp độ của SA', 'Các khoản thu nhập và khấu trừ', 'Thâm niên SA', 'Số tiền thưởng cấp bậc'): {
 		'Senior SA (SSA)': ('Thưởng cấp bậc', 'Trên 5 năm', '900.000 đồng một tháng'),
 		'Master SA (MSA)': ('Thưởng cấp bậc', 'Trên 5 năm', '2.700.000 đồng một tháng'),
 		'Warrior SA (WSA)': ('Thưởng cấp bậc', 'Trên 5 năm', '5.400.000 đồng một tháng'),
-		'SA': ('Thưởng cấp bậc', 'nan', 'Không có thưởng cấp bậc'),
 	},
 	('Thâm niên SA', 'Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Số tiền thưởng cấp bậc'): {
 		'Dưới 1 năm': ('Thưởng cấp bậc', 'Warrior SA (WSA)', '3.600.000 đồng một tháng'),
 		'Từ 1- 5 năm': ('Thưởng cấp bậc', 'Warrior SA (WSA)', '4.320.000 đồng một tháng'),
 		'Trên 5 năm': ('Thưởng cấp bậc', 'Warrior SA (WSA)', '5.400.000 đồng một tháng'),
-		'nan': ('Thưởng cấp bậc', 'SA', 'Không có thưởng cấp bậc'),
 	},
 	('Số tiền thưởng cấp bậc', 'Các khoản thu nhập và khấu trừ', 'Các cấp độ của SA', 'Thâm niên SA'): {
 		'600.000 đồng một tháng': ('Thưởng cấp bậc', 'Senior SA (SSA)', 'Dưới 1 năm'),
@@ -323,7 +265,6 @@ knowledge_graph = {
 		'3.600.000 đồng một tháng': ('Thưởng cấp bậc', 'Warrior SA (WSA)', 'Dưới 1 năm'),
 		'4.320.000 đồng một tháng': ('Thưởng cấp bậc', 'Warrior SA (WSA)', 'Từ 1- 5 năm'),
 		'5.400.000 đồng một tháng': ('Thưởng cấp bậc', 'Warrior SA (WSA)', 'Trên 5 năm'),
-		'Không có thưởng cấp bậc': ('Thưởng cấp bậc', 'SA', 'nan'),
 	},
 	('Chân dung khách hàng', 'Nhóm nợ', 'Điều kiện xác định nhóm nợ'): {
 		'Khách hàng 1': ('Nhóm nợ 1: Nợ đủ tiêu chuẩn', 'Có khả năng trả nợ cao nhất, khi khoản nợ của các nhóm này đều chưa đến hạn thanh toán'),
